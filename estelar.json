@@ -1,0 +1,1049 @@
+{
+ "v": 1,
+ "type": "mandala",
+ "mandalaImages": [
+  {
+   "id": "est_portalnubes",
+   "cat": "mystic",
+   "name": "Portal de Nubes",
+   "src": "mandala/est_portalnubes.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_portalnubes.webp"
+  },
+  {
+   "id": "est_cristales",
+   "cat": "mystic",
+   "name": "Cristales Estelares",
+   "src": "mandala/est_cristales.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cristales.webp"
+  },
+  {
+   "id": "est_vortice",
+   "cat": "celestial",
+   "name": "Vórtice",
+   "src": "mandala/est_vortice.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_vortice.webp"
+  },
+  {
+   "id": "est_jardinsusp",
+   "cat": "scenery",
+   "name": "Jardín Suspendido",
+   "src": "mandala/est_jardinsusp.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_jardinsusp.webp"
+  },
+  {
+   "id": "est_loto",
+   "cat": "flora",
+   "name": "Loto Estelar",
+   "src": "mandala/est_loto.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_loto.webp"
+  },
+  {
+   "id": "est_orbitaceleste",
+   "cat": "celestial",
+   "name": "Órbita Celeste",
+   "src": "mandala/est_orbitaceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_orbitaceleste.webp"
+  },
+  {
+   "id": "est_nubescosmicas",
+   "cat": "celestial",
+   "name": "Nubes Cósmicas",
+   "src": "mandala/est_nubescosmicas.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_nubescosmicas.webp"
+  },
+  {
+   "id": "est_planetaanillado",
+   "cat": "celestial",
+   "name": "Planeta Anillado",
+   "src": "mandala/est_planetaanillado.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_planetaanillado.webp"
+  },
+  {
+   "id": "est_solradiante",
+   "cat": "celestial",
+   "name": "Sol Radiante",
+   "src": "mandala/est_solradiante.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_solradiante.webp"
+  },
+  {
+   "id": "est_lunaondulante",
+   "cat": "celestial",
+   "name": "Luna Ondulante",
+   "src": "mandala/est_lunaondulante.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_lunaondulante.webp"
+  },
+  {
+   "id": "est_coronacristal",
+   "cat": "mystic",
+   "name": "Corona de Cristal",
+   "src": "mandala/est_coronacristal.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_coronacristal.webp"
+  },
+  {
+   "id": "est_cupulaceleste",
+   "cat": "scenery",
+   "name": "Cúpula Celeste",
+   "src": "mandala/est_cupulaceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cupulaceleste.webp"
+  },
+  {
+   "id": "est_laberinto",
+   "cat": "mystic",
+   "name": "Laberinto Circular",
+   "src": "mandala/est_laberinto.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_laberinto.webp"
+  },
+  {
+   "id": "est_espiralplumas",
+   "cat": "mystic",
+   "name": "Espiral de Plumas",
+   "src": "mandala/est_espiralplumas.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_espiralplumas.webp"
+  },
+  {
+   "id": "est_nido",
+   "cat": "animals",
+   "name": "Nido Estrellado",
+   "src": "mandala/est_nido.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_nido.webp"
+  },
+  {
+   "id": "est_puertasceleste",
+   "cat": "mystic",
+   "name": "Puertas Celestiales",
+   "src": "mandala/est_puertasceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_puertasceleste.webp"
+  },
+  {
+   "id": "est_estrellageo",
+   "cat": "mystic",
+   "name": "Estrella Geométrica",
+   "src": "mandala/est_estrellageo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_estrellageo.webp"
+  },
+  {
+   "id": "est_mandalafloral",
+   "cat": "flora",
+   "name": "Mandala Floral",
+   "src": "mandala/est_mandalafloral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_mandalafloral.webp"
+  },
+  {
+   "id": "est_galaxiaespiral",
+   "cat": "celestial",
+   "name": "Galaxia Espiral",
+   "src": "mandala/est_galaxiaespiral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_galaxiaespiral.webp"
+  },
+  {
+   "id": "est_santuario",
+   "cat": "scenery",
+   "name": "Santuario",
+   "src": "mandala/est_santuario.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_santuario.webp"
+  },
+  {
+   "id": "est_ojoestelar",
+   "cat": "celestial",
+   "name": "Ojo Estelar",
+   "src": "mandala/est_ojoestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ojoestelar.webp"
+  },
+  {
+   "id": "est_rosavientos",
+   "cat": "mystic",
+   "name": "Rosa de los Vientos",
+   "src": "mandala/est_rosavientos.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_rosavientos.webp"
+  },
+  {
+   "id": "est_observatorio",
+   "cat": "scenery",
+   "name": "Observatorio",
+   "src": "mandala/est_observatorio.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_observatorio.webp"
+  },
+  {
+   "id": "est_ruedaastral",
+   "cat": "scenery",
+   "name": "Rueda Astral",
+   "src": "mandala/est_ruedaastral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ruedaastral.webp"
+  },
+  {
+   "id": "est_senderoestelar",
+   "cat": "scenery",
+   "name": "Sendero Estelar",
+   "src": "mandala/est_senderoestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_senderoestelar.webp"
+  },
+  {
+   "id": "est_cartaestelar",
+   "cat": "celestial",
+   "name": "Carta Estelar",
+   "src": "mandala/est_cartaestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cartaestelar.webp"
+  },
+  {
+   "id": "est_sistemasolar",
+   "cat": "celestial",
+   "name": "Sistema Solar",
+   "src": "mandala/est_sistemasolar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_sistemasolar.webp"
+  },
+  {
+   "id": "est_brujulamarina",
+   "cat": "mystic",
+   "name": "Brújula Marina",
+   "src": "mandala/est_brujulamarina.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_brujulamarina.webp"
+  },
+  {
+   "id": "est_medallonceleste",
+   "cat": "mystic",
+   "name": "Medallón Celeste",
+   "src": "mandala/est_medallonceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_medallonceleste.webp"
+  },
+  {
+   "id": "est_mapaastro",
+   "cat": "celestial",
+   "name": "Mapa Astronómico",
+   "src": "mandala/est_mapaastro.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_mapaastro.webp"
+  },
+  {
+   "id": "est_palacionocturno",
+   "cat": "scenery",
+   "name": "Palacio Nocturno",
+   "src": "mandala/est_palacionocturno.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_palacionocturno.webp"
+  },
+  {
+   "id": "est_ojomistico",
+   "cat": "mystic",
+   "name": "Ojo Místico",
+   "src": "mandala/est_ojomistico.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ojomistico.webp"
+  },
+  {
+   "id": "est_brujulafloral",
+   "cat": "mystic",
+   "name": "Brújula Floral",
+   "src": "mandala/est_brujulafloral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_brujulafloral.webp"
+  },
+  {
+   "id": "est_rosaastral",
+   "cat": "mystic",
+   "name": "Rosa Astral",
+   "src": "mandala/est_rosaastral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_rosaastral.webp"
+  },
+  {
+   "id": "est_libroestelar",
+   "cat": "mystic",
+   "name": "Libro Estelar",
+   "src": "mandala/est_libroestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_libroestelar.webp"
+  },
+  {
+   "id": "est_orbitas",
+   "cat": "celestial",
+   "name": "Órbitas",
+   "src": "mandala/est_orbitas.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_orbitas.webp"
+  },
+  {
+   "id": "est_bibliotecacel",
+   "cat": "scenery",
+   "name": "Biblioteca Celeste",
+   "src": "mandala/est_bibliotecacel.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_bibliotecacel.webp"
+  },
+  {
+   "id": "est_esferaarmilar",
+   "cat": "mystic",
+   "name": "Esfera Armilar",
+   "src": "mandala/est_esferaarmilar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_esferaarmilar.webp"
+  },
+  {
+   "id": "est_grimorio",
+   "cat": "mystic",
+   "name": "Grimorio",
+   "src": "mandala/est_grimorio.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_grimorio.webp"
+  },
+  {
+   "id": "est_ciudadcristal",
+   "cat": "scenery",
+   "name": "Ciudad de Cristal",
+   "src": "mandala/est_ciudadcristal.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ciudadcristal.webp"
+  },
+  {
+   "id": "est_librosabiduria",
+   "cat": "mystic",
+   "name": "Libro de Sabiduría",
+   "src": "mandala/est_librosabiduria.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_librosabiduria.webp"
+  },
+  {
+   "id": "est_sextante",
+   "cat": "mystic",
+   "name": "Sextante",
+   "src": "mandala/est_sextante.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_sextante.webp"
+  },
+  {
+   "id": "est_altarceleste",
+   "cat": "scenery",
+   "name": "Altar Celeste",
+   "src": "mandala/est_altarceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_altarceleste.webp"
+  },
+  {
+   "id": "est_selloestelar",
+   "cat": "mystic",
+   "name": "Sello Estelar",
+   "src": "mandala/est_selloestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_selloestelar.webp"
+  },
+  {
+   "id": "est_tronoceleste",
+   "cat": "scenery",
+   "name": "Trono Celeste",
+   "src": "mandala/est_tronoceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_tronoceleste.webp"
+  },
+  {
+   "id": "est_arcoespiral",
+   "cat": "mystic",
+   "name": "Arco Espiral",
+   "src": "mandala/est_arcoespiral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_arcoespiral.webp"
+  },
+  {
+   "id": "est_candelabro",
+   "cat": "scenery",
+   "name": "Candelabro",
+   "src": "mandala/est_candelabro.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_candelabro.webp"
+  },
+  {
+   "id": "est_pabellonluz",
+   "cat": "scenery",
+   "name": "Pabellón de Luz",
+   "src": "mandala/est_pabellonluz.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_pabellonluz.webp"
+  },
+  {
+   "id": "est_coronareal",
+   "cat": "mystic",
+   "name": "Corona Real",
+   "src": "mandala/est_coronareal.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_coronareal.webp"
+  },
+  {
+   "id": "est_rotonda",
+   "cat": "scenery",
+   "name": "Rotonda",
+   "src": "mandala/est_rotonda.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_rotonda.webp"
+  },
+  {
+   "id": "est_farol",
+   "cat": "mystic",
+   "name": "Farol Encantado",
+   "src": "mandala/est_farol.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_farol.webp"
+  },
+  {
+   "id": "est_pendulo",
+   "cat": "mystic",
+   "name": "Péndulo Astral",
+   "src": "mandala/est_pendulo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_pendulo.webp"
+  },
+  {
+   "id": "est_guardianalado",
+   "cat": "mystic",
+   "name": "Guardián Alado",
+   "src": "mandala/est_guardianalado.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_guardianalado.webp"
+  },
+  {
+   "id": "est_campana",
+   "cat": "mystic",
+   "name": "Campana Celeste",
+   "src": "mandala/est_campana.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_campana.webp"
+  },
+  {
+   "id": "est_veloestelar",
+   "cat": "mystic",
+   "name": "Velo Estelar",
+   "src": "mandala/est_veloestelar.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_veloestelar.webp"
+  },
+  {
+   "id": "est_palacionubes",
+   "cat": "scenery",
+   "name": "Palacio de Nubes",
+   "src": "mandala/est_palacionubes.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_palacionubes.webp"
+  },
+  {
+   "id": "est_caminovalle",
+   "cat": "scenery",
+   "name": "Camino del Valle",
+   "src": "mandala/est_caminovalle.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_caminovalle.webp"
+  },
+  {
+   "id": "est_temploflotante",
+   "cat": "scenery",
+   "name": "Templo Flotante",
+   "src": "mandala/est_temploflotante.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_temploflotante.webp"
+  },
+  {
+   "id": "est_islasuspendida",
+   "cat": "scenery",
+   "name": "Isla Suspendida",
+   "src": "mandala/est_islasuspendida.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_islasuspendida.webp"
+  },
+  {
+   "id": "est_oasis",
+   "cat": "scenery",
+   "name": "Oasis Estelar",
+   "src": "mandala/est_oasis.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_oasis.webp"
+  },
+  {
+   "id": "est_puentenubes",
+   "cat": "scenery",
+   "name": "Puente de Nubes",
+   "src": "mandala/est_puentenubes.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_puentenubes.webp"
+  },
+  {
+   "id": "est_vallecosmico",
+   "cat": "scenery",
+   "name": "Valle Cósmico",
+   "src": "mandala/est_vallecosmico.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_vallecosmico.webp"
+  },
+  {
+   "id": "est_cuevacristal",
+   "cat": "scenery",
+   "name": "Cueva de Cristal",
+   "src": "mandala/est_cuevacristal.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cuevacristal.webp"
+  },
+  {
+   "id": "est_islasflotantes",
+   "cat": "scenery",
+   "name": "Islas Flotantes",
+   "src": "mandala/est_islasflotantes.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_islasflotantes.webp"
+  },
+  {
+   "id": "est_aurora",
+   "cat": "scenery",
+   "name": "Aurora Boreal",
+   "src": "mandala/est_aurora.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_aurora.webp"
+  },
+  {
+   "id": "est_cascada",
+   "cat": "scenery",
+   "name": "Cascada Celeste",
+   "src": "mandala/est_cascada.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cascada.webp"
+  },
+  {
+   "id": "est_gato",
+   "cat": "animals",
+   "name": "Gato Estelar",
+   "src": "mandala/est_gato.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_gato.webp"
+  },
+  {
+   "id": "est_ramofloral",
+   "cat": "flora",
+   "name": "Ramo Floral",
+   "src": "mandala/est_ramofloral.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ramofloral.webp"
+  },
+  {
+   "id": "est_alaangelical",
+   "cat": "mystic",
+   "name": "Ala Angelical",
+   "src": "mandala/est_alaangelical.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_alaangelical.webp"
+  },
+  {
+   "id": "est_bonsai",
+   "cat": "flora",
+   "name": "Bonsái Celeste",
+   "src": "mandala/est_bonsai.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_bonsai.webp"
+  },
+  {
+   "id": "est_lotoornamental",
+   "cat": "flora",
+   "name": "Loto Ornamental",
+   "src": "mandala/est_lotoornamental.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_lotoornamental.webp"
+  },
+  {
+   "id": "est_pez",
+   "cat": "animals",
+   "name": "Pez Estelar",
+   "src": "mandala/est_pez.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_pez.webp"
+  },
+  {
+   "id": "est_buho",
+   "cat": "animals",
+   "name": "Búho Nocturno",
+   "src": "mandala/est_buho.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_buho.webp"
+  },
+  {
+   "id": "est_medusa",
+   "cat": "animals",
+   "name": "Medusa Celeste",
+   "src": "mandala/est_medusa.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_medusa.webp"
+  },
+  {
+   "id": "est_colibri",
+   "cat": "animals",
+   "name": "Colibrí Estelar",
+   "src": "mandala/est_colibri.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_colibri.webp"
+  },
+  {
+   "id": "est_filigrana",
+   "cat": "mystic",
+   "name": "Filigrana Estelar",
+   "src": "mandala/est_filigrana.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_filigrana.webp"
+  },
+  {
+   "id": "est_avenida",
+   "cat": "scenery",
+   "name": "Avenida Celeste",
+   "src": "mandala/est_avenida.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_avenida.webp"
+  },
+  {
+   "id": "est_portallago",
+   "cat": "scenery",
+   "name": "Portal del Lago",
+   "src": "mandala/est_portallago.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_portallago.webp"
+  },
+  {
+   "id": "est_metropolis",
+   "cat": "scenery",
+   "name": "Metrópolis Estelar",
+   "src": "mandala/est_metropolis.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_metropolis.webp"
+  },
+  {
+   "id": "est_faro",
+   "cat": "scenery",
+   "name": "Faro Estelar",
+   "src": "mandala/est_faro.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_faro.webp"
+  },
+  {
+   "id": "est_acantilado",
+   "cat": "scenery",
+   "name": "Acantilado",
+   "src": "mandala/est_acantilado.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_acantilado.webp"
+  },
+  {
+   "id": "est_archipielago",
+   "cat": "scenery",
+   "name": "Archipiélago Flotante",
+   "src": "mandala/est_archipielago.webp",
+   "modes": [
+    "trad"
+   ]
+  },
+  {
+   "id": "est_bosque",
+   "cat": "scenery",
+   "name": "Bosque Encantado",
+   "src": "mandala/est_bosque.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_bosque.webp"
+  },
+  {
+   "id": "est_cielolago",
+   "cat": "scenery",
+   "name": "Cielo del Lago",
+   "src": "mandala/est_cielolago.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cielolago.webp"
+  },
+  {
+   "id": "est_cumbre",
+   "cat": "scenery",
+   "name": "Cumbre Estelar",
+   "src": "mandala/est_cumbre.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cumbre.webp"
+  },
+  {
+   "id": "est_colmena",
+   "cat": "animals",
+   "name": "Colmena Floral",
+   "src": "mandala/est_colmena.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_colmena.webp"
+  },
+  {
+   "id": "est_ciervo",
+   "cat": "animals",
+   "name": "Ciervo Estelar",
+   "src": "mandala/est_ciervo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_ciervo.webp"
+  },
+  {
+   "id": "est_crisantemo",
+   "cat": "flora",
+   "name": "Crisantemo",
+   "src": "mandala/est_crisantemo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_crisantemo.webp"
+  },
+  {
+   "id": "est_pluma",
+   "cat": "mystic",
+   "name": "Pluma Celeste",
+   "src": "mandala/est_pluma.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_pluma.webp"
+  },
+  {
+   "id": "est_domoencantado",
+   "cat": "scenery",
+   "name": "Domo Encantado",
+   "src": "mandala/est_domoencantado.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_domoencantado.webp"
+  },
+  {
+   "id": "est_cactus",
+   "cat": "flora",
+   "name": "Cactus de Cristal",
+   "src": "mandala/est_cactus.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_cactus.webp"
+  },
+  {
+   "id": "est_libelula",
+   "cat": "animals",
+   "name": "Libélula Estelar",
+   "src": "mandala/est_libelula.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_libelula.webp"
+  },
+  {
+   "id": "est_zorro",
+   "cat": "animals",
+   "name": "Zorro Estelar",
+   "src": "mandala/est_zorro.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_zorro.webp"
+  },
+  {
+   "id": "est_mariposa",
+   "cat": "animals",
+   "name": "Mariposa de Cristal",
+   "src": "mandala/est_mariposa.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_mariposa.webp"
+  },
+  {
+   "id": "est_rosaceleste",
+   "cat": "flora",
+   "name": "Rosa Celeste",
+   "src": "mandala/est_rosaceleste.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/est_rosaceleste.webp"
+  }
+ ]
+}
