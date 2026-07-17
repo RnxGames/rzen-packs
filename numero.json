@@ -1,0 +1,537 @@
+{
+ "v": 1,
+ "type": "pbn",
+ "pbnImages": [
+  {
+   "id": "num_sushi",
+   "cat": "food",
+   "name": "Sushi de Salmón",
+   "colors": 24,
+   "data": "numero/num_sushi.json",
+   "thumb": "numero/num_sushi-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_tostada",
+   "cat": "food",
+   "name": "Tostada con Huevo",
+   "colors": 24,
+   "data": "numero/num_tostada.json",
+   "thumb": "numero/num_tostada-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_panqueques",
+   "cat": "food",
+   "name": "Panqueques con Miel",
+   "colors": 24,
+   "data": "numero/num_panqueques.json",
+   "thumb": "numero/num_panqueques-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_brazogitano",
+   "cat": "food",
+   "name": "Brazo de Gitano",
+   "colors": 24,
+   "data": "numero/num_brazogitano.json",
+   "thumb": "numero/num_brazogitano-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_donaconejo",
+   "cat": "food",
+   "name": "Dona Conejito",
+   "colors": 24,
+   "data": "numero/num_donaconejo.json",
+   "thumb": "numero/num_donaconejo-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_tiramisu",
+   "cat": "food",
+   "name": "Copa de Tiramisú",
+   "colors": 24,
+   "data": "numero/num_tiramisu.json",
+   "thumb": "numero/num_tiramisu-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_cupcake",
+   "cat": "food",
+   "name": "Cupcake de Cereza",
+   "colors": 24,
+   "data": "numero/num_cupcake.json",
+   "thumb": "numero/num_cupcake-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_croissant",
+   "cat": "food",
+   "name": "Croissant",
+   "colors": 24,
+   "data": "numero/num_croissant.json",
+   "thumb": "numero/num_croissant-thumb.png",
+   "bg": "#f2e8de"
+  },
+  {
+   "id": "num_malteada",
+   "cat": "food",
+   "name": "Malteada de Fresa",
+   "colors": 24,
+   "data": "numero/num_malteada.json",
+   "thumb": "numero/num_malteada-thumb.png",
+   "bg": "#f4e6e6"
+  },
+  {
+   "id": "num_macarons",
+   "cat": "food",
+   "name": "Torre de Macarons",
+   "colors": 24,
+   "data": "numero/num_macarons.json",
+   "thumb": "numero/num_macarons-thumb.png",
+   "bg": "#f5e8e0"
+  },
+  {
+   "id": "num_pizza",
+   "cat": "food",
+   "name": "Rebanada de Pizza",
+   "colors": 24,
+   "data": "numero/num_pizza.json",
+   "thumb": "numero/num_pizza-thumb.png",
+   "bg": "#f4e8dc"
+  },
+  {
+   "id": "num_onigiri",
+   "cat": "food",
+   "name": "Onigiri",
+   "colors": 24,
+   "data": "numero/num_onigiri.json",
+   "thumb": "numero/num_onigiri-thumb.png",
+   "bg": "#ebe7e1"
+  },
+  {
+   "id": "num_paleta",
+   "cat": "food",
+   "name": "Paleta de Fresa",
+   "colors": 24,
+   "data": "numero/num_paleta.json",
+   "thumb": "numero/num_paleta-thumb.png",
+   "bg": "#f3e2df"
+  },
+  {
+   "id": "num_hamburguesa",
+   "cat": "food",
+   "name": "Hamburguesa",
+   "colors": 24,
+   "data": "numero/num_hamburguesa.json",
+   "thumb": "numero/num_hamburguesa-thumb.png",
+   "bg": "#f6e9db"
+  },
+  {
+   "id": "num_tostadamiel",
+   "cat": "food",
+   "name": "Tostada de Miel",
+   "colors": 24,
+   "data": "numero/num_tostadamiel.json",
+   "thumb": "numero/num_tostadamiel-thumb.png",
+   "bg": "#f4e8db"
+  },
+  {
+   "id": "num_takoyaki",
+   "cat": "food",
+   "name": "Takoyaki",
+   "colors": 24,
+   "data": "numero/num_takoyaki.json",
+   "thumb": "numero/num_takoyaki-thumb.png",
+   "bg": "#f2e7dd"
+  },
+  {
+   "id": "num_rosaarcoiris",
+   "cat": "flowers",
+   "name": "Rosa Arcoíris",
+   "colors": 30,
+   "data": "numero/num_rosaarcoiris.json",
+   "thumb": "numero/num_rosaarcoiris-thumb.png",
+   "bg": "#f0ecec"
+  },
+  {
+   "id": "num_lotomandala",
+   "cat": "flowers",
+   "name": "Loto Mandala",
+   "colors": 30,
+   "data": "numero/num_lotomandala.json",
+   "thumb": "numero/num_lotomandala-thumb.png",
+   "bg": "#f2eae6"
+  },
+  {
+   "id": "num_lavanda",
+   "cat": "flowers",
+   "name": "Ramo de Lavanda",
+   "colors": 30,
+   "data": "numero/num_lavanda.json",
+   "thumb": "numero/num_lavanda-thumb.png",
+   "bg": "#ece9ed"
+  },
+  {
+   "id": "num_margaritas",
+   "cat": "flowers",
+   "name": "Ramo de Margaritas",
+   "colors": 30,
+   "data": "numero/num_margaritas.json",
+   "thumb": "numero/num_margaritas-thumb.png",
+   "bg": "#f1ece6"
+  },
+  {
+   "id": "num_orquidea",
+   "cat": "flowers",
+   "name": "Orquídea Rosa",
+   "colors": 30,
+   "data": "numero/num_orquidea.json",
+   "thumb": "numero/num_orquidea-thumb.png",
+   "bg": "#f3ebe8"
+  },
+  {
+   "id": "num_girasolmand",
+   "cat": "flowers",
+   "name": "Girasol Mandala",
+   "colors": 30,
+   "data": "numero/num_girasolmand.json",
+   "thumb": "numero/num_girasolmand-thumb.png",
+   "bg": "#f2ece3"
+  },
+  {
+   "id": "num_sakura",
+   "cat": "flowers",
+   "name": "Flor de Cerezo",
+   "colors": 30,
+   "data": "numero/num_sakura.json",
+   "thumb": "numero/num_sakura-thumb.png",
+   "bg": "#f3e9e8"
+  },
+  {
+   "id": "num_girasolmand2",
+   "cat": "flowers",
+   "name": "Girasol Radiante",
+   "colors": 30,
+   "data": "numero/num_girasolmand2.json",
+   "thumb": "numero/num_girasolmand2-thumb.png",
+   "bg": "#f2ebe1"
+  },
+  {
+   "id": "num_peonias",
+   "cat": "flowers",
+   "name": "Ramo de Peonías",
+   "colors": 30,
+   "data": "numero/num_peonias.json",
+   "thumb": "numero/num_peonias-thumb.png",
+   "bg": "#f2e9e8"
+  },
+  {
+   "id": "num_lavanda2",
+   "cat": "flowers",
+   "name": "Lavanda en Flor",
+   "colors": 30,
+   "data": "numero/num_lavanda2.json",
+   "thumb": "numero/num_lavanda2-thumb.png",
+   "bg": "#ebe9ee"
+  },
+  {
+   "id": "num_muguete",
+   "cat": "flowers",
+   "name": "Muguete",
+   "colors": 30,
+   "data": "numero/num_muguete.json",
+   "thumb": "numero/num_muguete-thumb.png",
+   "bg": "#ebede6"
+  },
+  {
+   "id": "num_orquideamac",
+   "cat": "flowers",
+   "name": "Orquídea en Maceta",
+   "colors": 30,
+   "data": "numero/num_orquideamac.json",
+   "thumb": "numero/num_orquideamac-thumb.png",
+   "bg": "#efe8ea"
+  },
+  {
+   "id": "num_margaritas2",
+   "cat": "flowers",
+   "name": "Ramo Silvestre",
+   "colors": 30,
+   "data": "numero/num_margaritas2.json",
+   "thumb": "numero/num_margaritas2-thumb.png",
+   "bg": "#f0ebe4"
+  },
+  {
+   "id": "num_lotorosa",
+   "cat": "flowers",
+   "name": "Loto Rosa",
+   "colors": 30,
+   "data": "numero/num_lotorosa.json",
+   "thumb": "numero/num_lotorosa-thumb.png",
+   "bg": "#f2eae6"
+  },
+  {
+   "id": "num_lirio",
+   "cat": "flowers",
+   "name": "Lirios Nocturnos",
+   "colors": 30,
+   "data": "numero/num_lirio.json",
+   "thumb": "numero/num_lirio-thumb.png",
+   "bg": "#e9e6e9"
+  },
+  {
+   "id": "num_hortensias",
+   "cat": "flowers",
+   "name": "Ramo de Hortensias",
+   "colors": 30,
+   "data": "numero/num_hortensias.json",
+   "thumb": "numero/num_hortensias-thumb.png",
+   "bg": "#f1eff3"
+  },
+  {
+   "id": "num_tutankamon",
+   "cat": "museo",
+   "name": "Máscara de Tutankamón",
+   "colors": 30,
+   "data": "numero/num_tutankamon.json",
+   "thumb": "numero/num_tutankamon-thumb.png",
+   "bg": "#eaeae4"
+  },
+  {
+   "id": "num_pensador",
+   "cat": "museo",
+   "name": "El Pensador",
+   "colors": 30,
+   "data": "numero/num_pensador.json",
+   "thumb": "numero/num_pensador-thumb.png",
+   "bg": "#ede9e3"
+  },
+  {
+   "id": "num_centurion",
+   "cat": "museo",
+   "name": "Centurión Romano",
+   "colors": 30,
+   "data": "numero/num_centurion.json",
+   "thumb": "numero/num_centurion-thumb.png",
+   "bg": "#ece3df"
+  },
+  {
+   "id": "num_terracota",
+   "cat": "museo",
+   "name": "Guerrero de Terracota",
+   "colors": 30,
+   "data": "numero/num_terracota.json",
+   "thumb": "numero/num_terracota-thumb.png",
+   "bg": "#ece8e5"
+  },
+  {
+   "id": "num_anfora",
+   "cat": "museo",
+   "name": "Ánfora Griega",
+   "colors": 30,
+   "data": "numero/num_anfora.json",
+   "thumb": "numero/num_anfora-thumb.png",
+   "bg": "#ede7e1"
+  },
+  {
+   "id": "num_templogriego",
+   "cat": "museo",
+   "name": "Templo Griego",
+   "colors": 30,
+   "data": "numero/num_templogriego.json",
+   "thumb": "numero/num_templogriego-thumb.png",
+   "bg": "#edebe6"
+  },
+  {
+   "id": "num_david",
+   "cat": "museo",
+   "name": "El David",
+   "colors": 30,
+   "data": "numero/num_david.json",
+   "thumb": "numero/num_david-thumb.png",
+   "bg": "#efeeeb"
+  },
+  {
+   "id": "num_nefertiti",
+   "cat": "museo",
+   "name": "Busto de Nefertiti",
+   "colors": 30,
+   "data": "numero/num_nefertiti.json",
+   "thumb": "numero/num_nefertiti-thumb.png",
+   "bg": "#e9e7e2"
+  },
+  {
+   "id": "num_venusmilo",
+   "cat": "museo",
+   "name": "Venus de Milo",
+   "colors": 30,
+   "data": "numero/num_venusmilo.json",
+   "thumb": "numero/num_venusmilo-thumb.png",
+   "bg": "#f4f1ee"
+  },
+  {
+   "id": "num_rosetta",
+   "cat": "museo",
+   "name": "Piedra de Rosetta",
+   "colors": 30,
+   "data": "numero/num_rosetta.json",
+   "thumb": "numero/num_rosetta-thumb.png",
+   "bg": "#eeecea"
+  },
+  {
+   "id": "num_victoriaalada",
+   "cat": "museo",
+   "name": "Victoria Alada",
+   "colors": 30,
+   "data": "numero/num_victoriaalada.json",
+   "thumb": "numero/num_victoriaalada-thumb.png",
+   "bg": "#f2efec"
+  },
+  {
+   "id": "num_mascarateatro",
+   "cat": "museo",
+   "name": "Máscara Teatral",
+   "colors": 30,
+   "data": "numero/num_mascarateatro.json",
+   "thumb": "numero/num_mascarateatro-thumb.png",
+   "bg": "#f2eee8"
+  },
+  {
+   "id": "num_jarronporcel",
+   "cat": "museo",
+   "name": "Jarrón de Porcelana",
+   "colors": 30,
+   "data": "numero/num_jarronporcel.json",
+   "thumb": "numero/num_jarronporcel-thumb.png",
+   "bg": "#e6e9ed"
+  },
+  {
+   "id": "num_esfinge",
+   "cat": "museo",
+   "name": "La Esfinge",
+   "colors": 30,
+   "data": "numero/num_esfinge.json",
+   "thumb": "numero/num_esfinge-thumb.png",
+   "bg": "#efece7"
+  },
+  {
+   "id": "num_caballero",
+   "cat": "museo",
+   "name": "Caballero Medieval",
+   "colors": 30,
+   "data": "numero/num_caballero.json",
+   "thumb": "numero/num_caballero-thumb.png",
+   "bg": "#ece9e5"
+  },
+  {
+   "id": "num_piedrasol",
+   "cat": "museo",
+   "name": "Piedra del Sol Azteca",
+   "colors": 30,
+   "data": "numero/num_piedrasol.json",
+   "thumb": "numero/num_piedrasol-thumb.png",
+   "bg": "#f1eee9"
+  },
+  {
+   "id": "num_amonita",
+   "cat": "museo",
+   "name": "Fósil de Amonita",
+   "colors": 30,
+   "data": "numero/num_amonita.json",
+   "thumb": "numero/num_amonita-thumb.png",
+   "bg": "#f3efea"
+  },
+  {
+   "id": "num_hotdog",
+   "cat": "food",
+   "name": "Hot Dog",
+   "colors": 24,
+   "data": "numero/num_hotdog.json",
+   "thumb": "numero/num_hotdog-thumb.png",
+   "bg": "#f6e9df"
+  },
+  {
+   "id": "num_pastelfresa",
+   "cat": "food",
+   "name": "Pastel de Fresa",
+   "colors": 24,
+   "data": "numero/num_pastelfresa.json",
+   "thumb": "numero/num_pastelfresa-thumb.png",
+   "bg": "#f2e9e1"
+  },
+  {
+   "id": "num_dango",
+   "cat": "food",
+   "name": "Dango",
+   "colors": 24,
+   "data": "numero/num_dango.json",
+   "thumb": "numero/num_dango-thumb.png",
+   "bg": "#f0ebe5"
+  },
+  {
+   "id": "num_pretzel",
+   "cat": "food",
+   "name": "Pretzel",
+   "colors": 24,
+   "data": "numero/num_pretzel.json",
+   "thumb": "numero/num_pretzel-thumb.png",
+   "bg": "#f6e9df"
+  },
+  {
+   "id": "num_papasfritas",
+   "cat": "food",
+   "name": "Papas Fritas",
+   "colors": 24,
+   "data": "numero/num_papasfritas.json",
+   "thumb": "numero/num_papasfritas-thumb.png",
+   "bg": "#f5e5df"
+  },
+  {
+   "id": "num_taiyaki",
+   "cat": "food",
+   "name": "Taiyaki",
+   "colors": 24,
+   "data": "numero/num_taiyaki.json",
+   "thumb": "numero/num_taiyaki-thumb.png",
+   "bg": "#f9ede1"
+  },
+  {
+   "id": "num_crepe",
+   "cat": "food",
+   "name": "Crepe de Fresa",
+   "colors": 24,
+   "data": "numero/num_crepe.json",
+   "thumb": "numero/num_crepe-thumb.png",
+   "bg": "#f2e7df"
+  },
+  {
+   "id": "num_dumplings",
+   "cat": "food",
+   "name": "Dumplings al Vapor",
+   "colors": 24,
+   "data": "numero/num_dumplings.json",
+   "thumb": "numero/num_dumplings-thumb.png",
+   "bg": "#efe8e0"
+  },
+  {
+   "id": "num_tempura",
+   "cat": "food",
+   "name": "Brocheta Tempura",
+   "colors": 24,
+   "data": "numero/num_tempura.json",
+   "thumb": "numero/num_tempura-thumb.png",
+   "bg": "#f4eadc"
+  },
+  {
+   "id": "num_gofre",
+   "cat": "food",
+   "name": "Gofre con Frutas",
+   "colors": 24,
+   "data": "numero/num_gofre.json",
+   "thumb": "numero/num_gofre-thumb.png",
+   "bg": "#f0e8e4"
+  }
+ ]
+}
