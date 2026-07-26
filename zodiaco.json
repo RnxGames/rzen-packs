@@ -1,0 +1,182 @@
+{
+ "v": 1,
+ "type": "mandala",
+ "mandalaImages": [
+  {
+   "id": "zod_aries",
+   "cat": "zodiaco",
+   "name": "Aries",
+   "src": "mandala/zod_aries.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_aries.webp"
+  },
+  {
+   "id": "zod_taurus",
+   "cat": "zodiaco",
+   "name": "Tauro",
+   "src": "mandala/zod_taurus.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_taurus.webp"
+  },
+  {
+   "id": "zod_gemini",
+   "cat": "zodiaco",
+   "name": "Géminis",
+   "src": "mandala/zod_gemini.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_gemini.webp"
+  },
+  {
+   "id": "zod_cancer",
+   "cat": "zodiaco",
+   "name": "Cáncer",
+   "src": "mandala/zod_cancer.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_cancer.webp"
+  },
+  {
+   "id": "zod_leo",
+   "cat": "zodiaco",
+   "name": "Leo",
+   "src": "mandala/zod_leo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_leo.webp"
+  },
+  {
+   "id": "zod_virgo",
+   "cat": "zodiaco",
+   "name": "Virgo",
+   "src": "mandala/zod_virgo.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_virgo.webp"
+  },
+  {
+   "id": "zod_libra",
+   "cat": "zodiaco",
+   "name": "Libra",
+   "src": "mandala/zod_libra.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_libra.webp"
+  },
+  {
+   "id": "zod_scorpio",
+   "cat": "zodiaco",
+   "name": "Escorpio",
+   "src": "mandala/zod_scorpio.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_scorpio.webp"
+  },
+  {
+   "id": "zod_sagittarius",
+   "cat": "zodiaco",
+   "name": "Sagitario",
+   "src": "mandala/zod_sagittarius.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_sagittarius.webp"
+  },
+  {
+   "id": "zod_capricorn",
+   "cat": "zodiaco",
+   "name": "Capricornio",
+   "src": "mandala/zod_capricorn.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_capricorn.webp"
+  },
+  {
+   "id": "zod_aquarius",
+   "cat": "zodiaco",
+   "name": "Acuario",
+   "src": "mandala/zod_aquarius.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_aquarius.webp"
+  },
+  {
+   "id": "zod_pisces",
+   "cat": "zodiaco",
+   "name": "Piscis",
+   "src": "mandala/zod_pisces.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_pisces.webp"
+  },
+  {
+   "id": "zod_ophiuchus",
+   "cat": "zodiaco",
+   "name": "Ofiuco",
+   "src": "mandala/zod_ophiuchus.webp",
+   "modes": [
+    "trad",
+    "reveal"
+   ],
+   "reveal": "reveal/zod_ophiuchus.webp"
+  }
+ ],
+ "sections": {
+  "mandala": [
+   "zodiaco"
+  ]
+ },
+ "cats": {
+  "mandala": {
+   "es": {
+    "zodiaco": "Zodíaco"
+   },
+   "en": {
+    "zodiaco": "Zodiac"
+   },
+   "pt": {
+    "zodiaco": "Zodíaco"
+   },
+   "fr": {
+    "zodiaco": "Zodiaque"
+   },
+   "it": {
+    "zodiaco": "Zodiaco"
+   },
+   "ja": {
+    "zodiaco": "星座"
+   },
+   "de": {
+    "zodiaco": "Tierkreis"
+   },
+   "vi": {
+    "zodiaco": "Cung hoàng đạo"
+   }
+  }
+ }
+}
