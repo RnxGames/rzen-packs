@@ -1,0 +1,498 @@
+{
+  "v": 1,
+  "type": "mandala",
+  "mandalaImages": [
+    {
+      "id": "autm_apple_mandala",
+      "cat": "autumn2026",
+      "name": "Mandala de manzanas",
+      "src": "mandala/autm_apple_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_pinecone_mandala",
+      "cat": "autumn2026",
+      "name": "Mandala de piñas",
+      "src": "mandala/autm_pinecone_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_mushroom_mandala",
+      "cat": "autumn2026",
+      "name": "Mandala de setas",
+      "src": "mandala/autm_mushroom_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_pumpkin_mandala",
+      "cat": "autumn2026",
+      "name": "Mandala de calabazas",
+      "src": "mandala/autm_pumpkin_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_maple_mandala",
+      "cat": "autumn2026",
+      "name": "Mandala de arces",
+      "src": "mandala/autm_maple_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_penguin_street",
+      "cat": "autumn2026",
+      "name": "Paseo del pingüino",
+      "src": "mandala/autm_penguin_street.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_fox_mushrooms",
+      "cat": "autumn2026",
+      "name": "Zorrito y setas",
+      "src": "mandala/autm_fox_mushrooms.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_cottage_pumpkins",
+      "cat": "autumn2026",
+      "name": "Casa entre calabazas",
+      "src": "mandala/autm_cottage_pumpkins.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_dog_painting",
+      "cat": "autumn2026",
+      "name": "Perrito pintor",
+      "src": "mandala/autm_dog_painting.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_raccoon_campfire",
+      "cat": "autumn2026",
+      "name": "Mapache en la fogata",
+      "src": "mandala/autm_raccoon_campfire.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_cat_reading",
+      "cat": "autumn2026",
+      "name": "Gatito lector",
+      "src": "mandala/autm_cat_reading.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_bear_bath",
+      "cat": "autumn2026",
+      "name": "Baño del osito",
+      "src": "mandala/autm_bear_bath.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_bunny_picnic",
+      "cat": "autumn2026",
+      "name": "Picnic del conejito",
+      "src": "mandala/autm_bunny_picnic.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_frog_rain",
+      "cat": "autumn2026",
+      "name": "Ranita bajo la lluvia",
+      "src": "mandala/autm_frog_rain.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_sheep_bakery",
+      "cat": "autumn2026",
+      "name": "Pastelería de la ovejita",
+      "src": "mandala/autm_sheep_bakery.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_deer_harvest",
+      "cat": "autumn2026",
+      "name": "Cosecha del ciervo",
+      "src": "mandala/autm_deer_harvest.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_owl_reading",
+      "cat": "autumn2026",
+      "name": "Tarde de lectura",
+      "src": "mandala/autm_owl_reading.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_dog_baking",
+      "cat": "autumn2026",
+      "name": "Perrito repostero",
+      "src": "mandala/autm_dog_baking.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_hedgehog_market",
+      "cat": "autumn2026",
+      "name": "Mercado del erizo",
+      "src": "mandala/autm_hedgehog_market.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_cat_sleeping",
+      "cat": "autumn2026",
+      "name": "Siesta entre hojas",
+      "src": "mandala/autm_cat_sleeping.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_raccoon_pumpkins",
+      "cat": "autumn2026",
+      "name": "Mapache en el huerto",
+      "src": "mandala/autm_raccoon_pumpkins.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_bear_tea",
+      "cat": "autumn2026",
+      "name": "Té con el osito",
+      "src": "mandala/autm_bear_tea.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_fox_window",
+      "cat": "autumn2026",
+      "name": "Zorrito junto a la ventana",
+      "src": "mandala/autm_fox_window.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_bunny_pie",
+      "cat": "autumn2026",
+      "name": "Tarta del conejito",
+      "src": "mandala/autm_bunny_pie.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "autm_squirrel_harvest",
+      "cat": "autumn2026",
+      "name": "Cosecha de la ardilla",
+      "src": "mandala/autm_squirrel_harvest.webp",
+      "modes": [
+        "trad"
+      ]
+    }
+  ],
+  "sections": {
+    "mandala": [
+      "autumn2026"
+    ]
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "autumn2026": "Otoño encantado"
+      },
+      "en": {
+        "autumn2026": "Enchanted Autumn"
+      },
+      "pt": {
+        "autumn2026": "Outono encantado"
+      },
+      "fr": {
+        "autumn2026": "Automne enchanté"
+      },
+      "it": {
+        "autumn2026": "Autunno incantato"
+      },
+      "ja": {
+        "autumn2026": "魔法の秋"
+      },
+      "de": {
+        "autumn2026": "Zauberhafter Herbst"
+      },
+      "vi": {
+        "autumn2026": "Mùa thu diệu kỳ"
+      }
+    }
+  },
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "autm_apple_mandala": "Mandala de manzanas",
+        "autm_pinecone_mandala": "Mandala de piñas",
+        "autm_mushroom_mandala": "Mandala de setas",
+        "autm_pumpkin_mandala": "Mandala de calabazas",
+        "autm_maple_mandala": "Mandala de arces",
+        "autm_penguin_street": "Paseo del pingüino",
+        "autm_fox_mushrooms": "Zorrito y setas",
+        "autm_cottage_pumpkins": "Casa entre calabazas",
+        "autm_dog_painting": "Perrito pintor",
+        "autm_raccoon_campfire": "Mapache en la fogata",
+        "autm_cat_reading": "Gatito lector",
+        "autm_bear_bath": "Baño del osito",
+        "autm_bunny_picnic": "Picnic del conejito",
+        "autm_frog_rain": "Ranita bajo la lluvia",
+        "autm_sheep_bakery": "Pastelería de la ovejita",
+        "autm_deer_harvest": "Cosecha del ciervo",
+        "autm_owl_reading": "Tarde de lectura",
+        "autm_dog_baking": "Perrito repostero",
+        "autm_hedgehog_market": "Mercado del erizo",
+        "autm_cat_sleeping": "Siesta entre hojas",
+        "autm_raccoon_pumpkins": "Mapache en el huerto",
+        "autm_bear_tea": "Té con el osito",
+        "autm_fox_window": "Zorrito junto a la ventana",
+        "autm_bunny_pie": "Tarta del conejito",
+        "autm_squirrel_harvest": "Cosecha de la ardilla"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "autm_apple_mandala": "Apple Mandala",
+        "autm_pinecone_mandala": "Pinecone Mandala",
+        "autm_mushroom_mandala": "Mushroom Mandala",
+        "autm_pumpkin_mandala": "Pumpkin Mandala",
+        "autm_maple_mandala": "Maple Leaf Mandala",
+        "autm_penguin_street": "Penguin’s Stroll",
+        "autm_fox_mushrooms": "Fox and Mushrooms",
+        "autm_cottage_pumpkins": "Cottage and Pumpkins",
+        "autm_dog_painting": "Little Dog Painter",
+        "autm_raccoon_campfire": "Raccoon by the Campfire",
+        "autm_cat_reading": "Kitten Reading",
+        "autm_bear_bath": "Bear’s Bath",
+        "autm_bunny_picnic": "Bunny Picnic",
+        "autm_frog_rain": "Frog in the Rain",
+        "autm_sheep_bakery": "Little Sheep Bakery",
+        "autm_deer_harvest": "Deer’s Harvest",
+        "autm_owl_reading": "Afternoon Reading",
+        "autm_dog_baking": "Little Dog Baking",
+        "autm_hedgehog_market": "Hedgehog Market",
+        "autm_cat_sleeping": "Nap Among the Leaves",
+        "autm_raccoon_pumpkins": "Raccoon in the Pumpkin Patch",
+        "autm_bear_tea": "Tea with the Bear",
+        "autm_fox_window": "Fox by the Window",
+        "autm_bunny_pie": "Bunny’s Pie",
+        "autm_squirrel_harvest": "Squirrel’s Harvest"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "autm_apple_mandala": "Mandala de maçãs",
+        "autm_pinecone_mandala": "Mandala de pinhas",
+        "autm_mushroom_mandala": "Mandala de cogumelos",
+        "autm_pumpkin_mandala": "Mandala de abóboras",
+        "autm_maple_mandala": "Mandala de folhas de bordo",
+        "autm_penguin_street": "Passeio do pinguim",
+        "autm_fox_mushrooms": "Raposa e cogumelos",
+        "autm_cottage_pumpkins": "Casa e abóboras",
+        "autm_dog_painting": "Cachorrinho pintor",
+        "autm_raccoon_campfire": "Guaxinim na fogueira",
+        "autm_cat_reading": "Gatinho lendo",
+        "autm_bear_bath": "Banho do ursinho",
+        "autm_bunny_picnic": "Piquenique do coelhinho",
+        "autm_frog_rain": "Sapinho na chuva",
+        "autm_sheep_bakery": "Confeitaria da ovelhinha",
+        "autm_deer_harvest": "Colheita do cervo",
+        "autm_owl_reading": "Tarde de leitura",
+        "autm_dog_baking": "Cachorrinho confeiteiro",
+        "autm_hedgehog_market": "Mercado do ouriço",
+        "autm_cat_sleeping": "Soneca entre folhas",
+        "autm_raccoon_pumpkins": "Guaxinim no campo de abóboras",
+        "autm_bear_tea": "Chá com o ursinho",
+        "autm_fox_window": "Raposa junto à janela",
+        "autm_bunny_pie": "Torta do coelhinho",
+        "autm_squirrel_harvest": "Colheita do esquilo"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "autm_apple_mandala": "Mandala aux pommes",
+        "autm_pinecone_mandala": "Mandala de pommes de pin",
+        "autm_mushroom_mandala": "Mandala aux champignons",
+        "autm_pumpkin_mandala": "Mandala aux citrouilles",
+        "autm_maple_mandala": "Mandala de feuilles d’érable",
+        "autm_penguin_street": "Promenade du pingouin",
+        "autm_fox_mushrooms": "Renard et champignons",
+        "autm_cottage_pumpkins": "Maison et citrouilles",
+        "autm_dog_painting": "Petit chien peintre",
+        "autm_raccoon_campfire": "Raton laveur au feu de camp",
+        "autm_cat_reading": "Chaton qui lit",
+        "autm_bear_bath": "Bain de l’ourson",
+        "autm_bunny_picnic": "Pique-nique du lapin",
+        "autm_frog_rain": "Grenouille sous la pluie",
+        "autm_sheep_bakery": "Pâtisserie du petit mouton",
+        "autm_deer_harvest": "Récolte du cerf",
+        "autm_owl_reading": "Après-midi lecture",
+        "autm_dog_baking": "Petit chien pâtissier",
+        "autm_hedgehog_market": "Marché du hérisson",
+        "autm_cat_sleeping": "Sieste parmi les feuilles",
+        "autm_raccoon_pumpkins": "Raton laveur au champ de citrouilles",
+        "autm_bear_tea": "Thé avec l’ourson",
+        "autm_fox_window": "Renard près de la fenêtre",
+        "autm_bunny_pie": "Tarte du lapin",
+        "autm_squirrel_harvest": "Récolte de l’écureuil"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "autm_apple_mandala": "Mandala di mele",
+        "autm_pinecone_mandala": "Mandala di pigne",
+        "autm_mushroom_mandala": "Mandala di funghi",
+        "autm_pumpkin_mandala": "Mandala di zucche",
+        "autm_maple_mandala": "Mandala di foglie d’acero",
+        "autm_penguin_street": "Passeggiata del pinguino",
+        "autm_fox_mushrooms": "Volpe e funghi",
+        "autm_cottage_pumpkins": "Casetta e zucche",
+        "autm_dog_painting": "Cagnolino pittore",
+        "autm_raccoon_campfire": "Procione al falò",
+        "autm_cat_reading": "Gattino che legge",
+        "autm_bear_bath": "Bagno dell’orsetto",
+        "autm_bunny_picnic": "Picnic del coniglietto",
+        "autm_frog_rain": "Ranocchia sotto la pioggia",
+        "autm_sheep_bakery": "Pasticceria della pecorella",
+        "autm_deer_harvest": "Raccolto del cervo",
+        "autm_owl_reading": "Pomeriggio di lettura",
+        "autm_dog_baking": "Cagnolino pasticcere",
+        "autm_hedgehog_market": "Mercato del riccio",
+        "autm_cat_sleeping": "Pisolino tra le foglie",
+        "autm_raccoon_pumpkins": "Procione nel campo di zucche",
+        "autm_bear_tea": "Tè con l’orsetto",
+        "autm_fox_window": "Volpe alla finestra",
+        "autm_bunny_pie": "Torta del coniglietto",
+        "autm_squirrel_harvest": "Raccolto dello scoiattolo"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "autm_apple_mandala": "りんごのマンダラ",
+        "autm_pinecone_mandala": "松ぼっくりのマンダラ",
+        "autm_mushroom_mandala": "きのこのマンダラ",
+        "autm_pumpkin_mandala": "かぼちゃのマンダラ",
+        "autm_maple_mandala": "もみじのマンダラ",
+        "autm_penguin_street": "ペンギンのお散歩",
+        "autm_fox_mushrooms": "キツネときのこ",
+        "autm_cottage_pumpkins": "かぼちゃの家",
+        "autm_dog_painting": "絵を描く子犬",
+        "autm_raccoon_campfire": "焚き火のアライグマ",
+        "autm_cat_reading": "読書する子猫",
+        "autm_bear_bath": "クマのバスタイム",
+        "autm_bunny_picnic": "うさぎのピクニック",
+        "autm_frog_rain": "雨の日のカエル",
+        "autm_sheep_bakery": "子羊のお菓子屋さん",
+        "autm_deer_harvest": "シカの収穫",
+        "autm_owl_reading": "秋の読書時間",
+        "autm_dog_baking": "お菓子を作る子犬",
+        "autm_hedgehog_market": "ハリネズミのお店",
+        "autm_cat_sleeping": "落ち葉の中のお昼寝",
+        "autm_raccoon_pumpkins": "かぼちゃ畑のアライグマ",
+        "autm_bear_tea": "クマとのティータイム",
+        "autm_fox_window": "窓辺のキツネ",
+        "autm_bunny_pie": "うさぎのパイ",
+        "autm_squirrel_harvest": "リスの収穫"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "autm_apple_mandala": "Apfel-Mandala",
+        "autm_pinecone_mandala": "Tannenzapfen-Mandala",
+        "autm_mushroom_mandala": "Pilz-Mandala",
+        "autm_pumpkin_mandala": "Kürbis-Mandala",
+        "autm_maple_mandala": "Ahornblatt-Mandala",
+        "autm_penguin_street": "Spaziergang des Pinguins",
+        "autm_fox_mushrooms": "Fuchs und Pilze",
+        "autm_cottage_pumpkins": "Häuschen und Kürbisse",
+        "autm_dog_painting": "Kleiner Hund beim Malen",
+        "autm_raccoon_campfire": "Waschbär am Lagerfeuer",
+        "autm_cat_reading": "Lesendes Kätzchen",
+        "autm_bear_bath": "Bad des Bären",
+        "autm_bunny_picnic": "Picknick des Häschens",
+        "autm_frog_rain": "Frosch im Regen",
+        "autm_sheep_bakery": "Bäckerei des Lämmchens",
+        "autm_deer_harvest": "Ernte des Hirsches",
+        "autm_owl_reading": "Lesestunde am Nachmittag",
+        "autm_dog_baking": "Kleiner Hund beim Backen",
+        "autm_hedgehog_market": "Markt des Igels",
+        "autm_cat_sleeping": "Nickerchen im Laub",
+        "autm_raccoon_pumpkins": "Waschbär im Kürbisfeld",
+        "autm_bear_tea": "Tee mit dem Bären",
+        "autm_fox_window": "Fuchs am Fenster",
+        "autm_bunny_pie": "Kuchen des Häschens",
+        "autm_squirrel_harvest": "Ernte des Eichhörnchens"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "autm_apple_mandala": "Mandala táo",
+        "autm_pinecone_mandala": "Mandala quả thông",
+        "autm_mushroom_mandala": "Mandala nấm",
+        "autm_pumpkin_mandala": "Mandala bí ngô",
+        "autm_maple_mandala": "Mandala lá phong",
+        "autm_penguin_street": "Chuyến dạo chơi của chim cánh cụt",
+        "autm_fox_mushrooms": "Cáo và nấm",
+        "autm_cottage_pumpkins": "Ngôi nhà bí ngô",
+        "autm_dog_painting": "Chú chó họa sĩ",
+        "autm_raccoon_campfire": "Gấu mèo bên lửa trại",
+        "autm_cat_reading": "Mèo con đọc sách",
+        "autm_bear_bath": "Giờ tắm của gấu con",
+        "autm_bunny_picnic": "Buổi dã ngoại của thỏ",
+        "autm_frog_rain": "Chú ếch dưới mưa",
+        "autm_sheep_bakery": "Tiệm bánh của cừu con",
+        "autm_deer_harvest": "Mùa gặt của hươu",
+        "autm_owl_reading": "Buổi chiều đọc sách",
+        "autm_dog_baking": "Chú chó làm bánh",
+        "autm_hedgehog_market": "Gian hàng của nhím",
+        "autm_cat_sleeping": "Giấc ngủ giữa lá thu",
+        "autm_raccoon_pumpkins": "Gấu mèo trong vườn bí ngô",
+        "autm_bear_tea": "Tiệc trà cùng gấu",
+        "autm_fox_window": "Cáo bên cửa sổ",
+        "autm_bunny_pie": "Bánh nướng của thỏ",
+        "autm_squirrel_harvest": "Mùa gặt của sóc"
+      }
+    }
+  }
+}

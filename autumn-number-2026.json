@@ -1,0 +1,377 @@
+{
+  "v": 1,
+  "type": "pbn",
+  "pbnImages": [
+    {
+      "id": "autp_cat_pumpkin",
+      "cat": "autumn2026",
+      "name": "Gatito y calabaza",
+      "colors": 30,
+      "data": "numero/autp_cat_pumpkin.json",
+      "thumb": "numero/autp_cat_pumpkin-thumb.png"
+    },
+    {
+      "id": "autp_squirrel_acorns",
+      "cat": "autumn2026",
+      "name": "Ardilla y bellotas",
+      "colors": 30,
+      "data": "numero/autp_squirrel_acorns.json",
+      "thumb": "numero/autp_squirrel_acorns-thumb.png"
+    },
+    {
+      "id": "autp_bunny_pie",
+      "cat": "autumn2026",
+      "name": "Conejito con tarta",
+      "colors": 30,
+      "data": "numero/autp_bunny_pie.json",
+      "thumb": "numero/autp_bunny_pie-thumb.png"
+    },
+    {
+      "id": "autp_fox_leaves",
+      "cat": "autumn2026",
+      "name": "Zorrito de otoño",
+      "colors": 30,
+      "data": "numero/autp_fox_leaves.json",
+      "thumb": "numero/autp_fox_leaves-thumb.png"
+    },
+    {
+      "id": "autp_penguin_leaves",
+      "cat": "autumn2026",
+      "name": "Pingüino entre hojas",
+      "colors": 30,
+      "data": "numero/autp_penguin_leaves.json",
+      "thumb": "numero/autp_penguin_leaves-thumb.png"
+    },
+    {
+      "id": "autp_bear_cocoa",
+      "cat": "autumn2026",
+      "name": "Osito con cacao",
+      "colors": 30,
+      "data": "numero/autp_bear_cocoa.json",
+      "thumb": "numero/autp_bear_cocoa-thumb.png"
+    },
+    {
+      "id": "autp_raccoon_basket",
+      "cat": "autumn2026",
+      "name": "Mapache recolector",
+      "colors": 30,
+      "data": "numero/autp_raccoon_basket.json",
+      "thumb": "numero/autp_raccoon_basket-thumb.png"
+    },
+    {
+      "id": "autp_hedgehog_jam",
+      "cat": "autumn2026",
+      "name": "Erizo y mermelada",
+      "colors": 30,
+      "data": "numero/autp_hedgehog_jam.json",
+      "thumb": "numero/autp_hedgehog_jam-thumb.png"
+    },
+    {
+      "id": "autp_owl_books",
+      "cat": "autumn2026",
+      "name": "Búho entre libros",
+      "colors": 30,
+      "data": "numero/autp_owl_books.json",
+      "thumb": "numero/autp_owl_books-thumb.png"
+    },
+    {
+      "id": "autp_lamb_treats",
+      "cat": "autumn2026",
+      "name": "Corderito de cosecha",
+      "colors": 30,
+      "data": "numero/autp_lamb_treats.json",
+      "thumb": "numero/autp_lamb_treats-thumb.png"
+    },
+    {
+      "id": "autp_main_street",
+      "cat": "autumn2026",
+      "name": "Calle de otoño",
+      "colors": 30,
+      "data": "numero/autp_main_street.json",
+      "thumb": "numero/autp_main_street-thumb.png"
+    },
+    {
+      "id": "autp_japanese_garden",
+      "cat": "autumn2026",
+      "name": "Jardín japonés",
+      "colors": 30,
+      "data": "numero/autp_japanese_garden.json",
+      "thumb": "numero/autp_japanese_garden-thumb.png"
+    },
+    {
+      "id": "autp_mountain_cabin",
+      "cat": "autumn2026",
+      "name": "Cabaña en la montaña",
+      "colors": 30,
+      "data": "numero/autp_mountain_cabin.json",
+      "thumb": "numero/autp_mountain_cabin-thumb.png"
+    },
+    {
+      "id": "autp_canal_evening",
+      "cat": "autumn2026",
+      "name": "Canal al atardecer",
+      "colors": 30,
+      "data": "numero/autp_canal_evening.json",
+      "thumb": "numero/autp_canal_evening-thumb.png"
+    },
+    {
+      "id": "autp_city_park",
+      "cat": "autumn2026",
+      "name": "Parque de la ciudad",
+      "colors": 30,
+      "data": "numero/autp_city_park.json",
+      "thumb": "numero/autp_city_park-thumb.png"
+    },
+    {
+      "id": "autp_palace_square",
+      "cat": "autumn2026",
+      "name": "Plaza de palacio",
+      "colors": 30,
+      "data": "numero/autp_palace_square.json",
+      "thumb": "numero/autp_palace_square-thumb.png"
+    },
+    {
+      "id": "autp_forest_path",
+      "cat": "autumn2026",
+      "name": "Sendero del bosque",
+      "colors": 30,
+      "data": "numero/autp_forest_path.json",
+      "thumb": "numero/autp_forest_path-thumb.png"
+    },
+    {
+      "id": "autp_hillside_vineyard",
+      "cat": "autumn2026",
+      "name": "Viñedo en la colina",
+      "colors": 30,
+      "data": "numero/autp_hillside_vineyard.json",
+      "thumb": "numero/autp_hillside_vineyard-thumb.png"
+    },
+    {
+      "id": "autp_rainy_boulevard",
+      "cat": "autumn2026",
+      "name": "Paseo bajo la lluvia",
+      "colors": 30,
+      "data": "numero/autp_rainy_boulevard.json",
+      "thumb": "numero/autp_rainy_boulevard-thumb.png"
+    },
+    {
+      "id": "autp_stone_bridge",
+      "cat": "autumn2026",
+      "name": "Puente de piedra",
+      "colors": 30,
+      "data": "numero/autp_stone_bridge.json",
+      "thumb": "numero/autp_stone_bridge-thumb.png"
+    }
+  ],
+  "sections": {
+    "pbn": [
+      "autumn2026"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "autumn2026": "Otoño encantado"
+      },
+      "en": {
+        "autumn2026": "Enchanted Autumn"
+      },
+      "pt": {
+        "autumn2026": "Outono encantado"
+      },
+      "fr": {
+        "autumn2026": "Automne enchanté"
+      },
+      "it": {
+        "autumn2026": "Autunno incantato"
+      },
+      "ja": {
+        "autumn2026": "魔法の秋"
+      },
+      "de": {
+        "autumn2026": "Zauberhafter Herbst"
+      },
+      "vi": {
+        "autumn2026": "Mùa thu diệu kỳ"
+      }
+    }
+  },
+  "pbnNames": {
+    "es": {
+      "autp_cat_pumpkin": "Gatito y calabaza",
+      "autp_squirrel_acorns": "Ardilla y bellotas",
+      "autp_bunny_pie": "Conejito con tarta",
+      "autp_fox_leaves": "Zorrito de otoño",
+      "autp_penguin_leaves": "Pingüino entre hojas",
+      "autp_bear_cocoa": "Osito con cacao",
+      "autp_raccoon_basket": "Mapache recolector",
+      "autp_hedgehog_jam": "Erizo y mermelada",
+      "autp_owl_books": "Búho entre libros",
+      "autp_lamb_treats": "Corderito de cosecha",
+      "autp_main_street": "Calle de otoño",
+      "autp_japanese_garden": "Jardín japonés",
+      "autp_mountain_cabin": "Cabaña en la montaña",
+      "autp_canal_evening": "Canal al atardecer",
+      "autp_city_park": "Parque de la ciudad",
+      "autp_palace_square": "Plaza de palacio",
+      "autp_forest_path": "Sendero del bosque",
+      "autp_hillside_vineyard": "Viñedo en la colina",
+      "autp_rainy_boulevard": "Paseo bajo la lluvia",
+      "autp_stone_bridge": "Puente de piedra"
+    },
+    "en": {
+      "autp_cat_pumpkin": "Kitten and Pumpkin",
+      "autp_squirrel_acorns": "Squirrel and Acorns",
+      "autp_bunny_pie": "Bunny with Pie",
+      "autp_fox_leaves": "Autumn Fox",
+      "autp_penguin_leaves": "Penguin in the Leaves",
+      "autp_bear_cocoa": "Bear with Cocoa",
+      "autp_raccoon_basket": "Raccoon’s Harvest",
+      "autp_hedgehog_jam": "Hedgehog and Jam",
+      "autp_owl_books": "Owl Among Books",
+      "autp_lamb_treats": "Harvest Lamb",
+      "autp_main_street": "Autumn Main Street",
+      "autp_japanese_garden": "Japanese Garden",
+      "autp_mountain_cabin": "Mountain Cabin",
+      "autp_canal_evening": "Canal at Dusk",
+      "autp_city_park": "City Park",
+      "autp_palace_square": "Palace Square",
+      "autp_forest_path": "Forest Path",
+      "autp_hillside_vineyard": "Hillside Vineyard",
+      "autp_rainy_boulevard": "Rainy Boulevard",
+      "autp_stone_bridge": "Stone Bridge"
+    },
+    "pt": {
+      "autp_cat_pumpkin": "Gatinho e abóbora",
+      "autp_squirrel_acorns": "Esquilo e bolotas",
+      "autp_bunny_pie": "Coelhinho com torta",
+      "autp_fox_leaves": "Raposa de outono",
+      "autp_penguin_leaves": "Pinguim entre folhas",
+      "autp_bear_cocoa": "Ursinho com chocolate",
+      "autp_raccoon_basket": "Colheita do guaxinim",
+      "autp_hedgehog_jam": "Ouriço e geleia",
+      "autp_owl_books": "Coruja entre livros",
+      "autp_lamb_treats": "Cordeirinho da colheita",
+      "autp_main_street": "Rua de outono",
+      "autp_japanese_garden": "Jardim japonês",
+      "autp_mountain_cabin": "Cabana na montanha",
+      "autp_canal_evening": "Canal ao entardecer",
+      "autp_city_park": "Parque da cidade",
+      "autp_palace_square": "Praça do palácio",
+      "autp_forest_path": "Trilha na floresta",
+      "autp_hillside_vineyard": "Vinhedo na colina",
+      "autp_rainy_boulevard": "Avenida chuvosa",
+      "autp_stone_bridge": "Ponte de pedra"
+    },
+    "fr": {
+      "autp_cat_pumpkin": "Chaton et citrouille",
+      "autp_squirrel_acorns": "Écureuil et glands",
+      "autp_bunny_pie": "Lapin et tarte",
+      "autp_fox_leaves": "Renard d’automne",
+      "autp_penguin_leaves": "Pingouin dans les feuilles",
+      "autp_bear_cocoa": "Ourson au chocolat",
+      "autp_raccoon_basket": "Récolte du raton laveur",
+      "autp_hedgehog_jam": "Hérisson et confiture",
+      "autp_owl_books": "Hibou parmi les livres",
+      "autp_lamb_treats": "Agneau des récoltes",
+      "autp_main_street": "Rue d’automne",
+      "autp_japanese_garden": "Jardin japonais",
+      "autp_mountain_cabin": "Chalet en montagne",
+      "autp_canal_evening": "Canal au crépuscule",
+      "autp_city_park": "Parc de la ville",
+      "autp_palace_square": "Place du palais",
+      "autp_forest_path": "Sentier forestier",
+      "autp_hillside_vineyard": "Vignoble sur la colline",
+      "autp_rainy_boulevard": "Boulevard sous la pluie",
+      "autp_stone_bridge": "Pont de pierre"
+    },
+    "it": {
+      "autp_cat_pumpkin": "Gattino e zucca",
+      "autp_squirrel_acorns": "Scoiattolo e ghiande",
+      "autp_bunny_pie": "Coniglietto con torta",
+      "autp_fox_leaves": "Volpe d’autunno",
+      "autp_penguin_leaves": "Pinguino tra le foglie",
+      "autp_bear_cocoa": "Orsetto con cioccolata",
+      "autp_raccoon_basket": "Raccolto del procione",
+      "autp_hedgehog_jam": "Riccio e marmellata",
+      "autp_owl_books": "Gufo tra i libri",
+      "autp_lamb_treats": "Agnellino del raccolto",
+      "autp_main_street": "Via d’autunno",
+      "autp_japanese_garden": "Giardino giapponese",
+      "autp_mountain_cabin": "Baita in montagna",
+      "autp_canal_evening": "Canale al tramonto",
+      "autp_city_park": "Parco cittadino",
+      "autp_palace_square": "Piazza del palazzo",
+      "autp_forest_path": "Sentiero nel bosco",
+      "autp_hillside_vineyard": "Vigneto in collina",
+      "autp_rainy_boulevard": "Viale sotto la pioggia",
+      "autp_stone_bridge": "Ponte di pietra"
+    },
+    "ja": {
+      "autp_cat_pumpkin": "子猫とかぼちゃ",
+      "autp_squirrel_acorns": "リスとどんぐり",
+      "autp_bunny_pie": "うさぎとパイ",
+      "autp_fox_leaves": "秋のキツネ",
+      "autp_penguin_leaves": "落ち葉のペンギン",
+      "autp_bear_cocoa": "ココアを持つクマ",
+      "autp_raccoon_basket": "アライグマの収穫",
+      "autp_hedgehog_jam": "ハリネズミとジャム",
+      "autp_owl_books": "本とフクロウ",
+      "autp_lamb_treats": "収穫祭の子羊",
+      "autp_main_street": "秋の大通り",
+      "autp_japanese_garden": "秋の日本庭園",
+      "autp_mountain_cabin": "山の小屋",
+      "autp_canal_evening": "夕暮れの運河",
+      "autp_city_park": "秋の都市公園",
+      "autp_palace_square": "宮殿前広場",
+      "autp_forest_path": "秋の森の小道",
+      "autp_hillside_vineyard": "丘のぶどう畑",
+      "autp_rainy_boulevard": "雨の大通り",
+      "autp_stone_bridge": "秋の石橋"
+    },
+    "de": {
+      "autp_cat_pumpkin": "Kätzchen und Kürbis",
+      "autp_squirrel_acorns": "Eichhörnchen und Eicheln",
+      "autp_bunny_pie": "Häschen mit Kuchen",
+      "autp_fox_leaves": "Herbstfuchs",
+      "autp_penguin_leaves": "Pinguin im Laub",
+      "autp_bear_cocoa": "Bär mit Kakao",
+      "autp_raccoon_basket": "Ernte des Waschbären",
+      "autp_hedgehog_jam": "Igel und Marmelade",
+      "autp_owl_books": "Eule zwischen Büchern",
+      "autp_lamb_treats": "Ernte-Lämmchen",
+      "autp_main_street": "Herbstliche Hauptstraße",
+      "autp_japanese_garden": "Japanischer Garten",
+      "autp_mountain_cabin": "Berghütte",
+      "autp_canal_evening": "Kanal in der Abenddämmerung",
+      "autp_city_park": "Stadtpark",
+      "autp_palace_square": "Palastplatz",
+      "autp_forest_path": "Waldweg",
+      "autp_hillside_vineyard": "Weinberg am Hang",
+      "autp_rainy_boulevard": "Boulevard im Regen",
+      "autp_stone_bridge": "Steinbrücke"
+    },
+    "vi": {
+      "autp_cat_pumpkin": "Mèo con và bí ngô",
+      "autp_squirrel_acorns": "Sóc và quả sồi",
+      "autp_bunny_pie": "Thỏ con và bánh nướng",
+      "autp_fox_leaves": "Cáo mùa thu",
+      "autp_penguin_leaves": "Chim cánh cụt giữa lá thu",
+      "autp_bear_cocoa": "Gấu con uống ca cao",
+      "autp_raccoon_basket": "Mùa gặt của gấu mèo",
+      "autp_hedgehog_jam": "Nhím và mứt",
+      "autp_owl_books": "Cú mèo bên những cuốn sách",
+      "autp_lamb_treats": "Cừu con mùa gặt",
+      "autp_main_street": "Phố chính mùa thu",
+      "autp_japanese_garden": "Vườn Nhật Bản",
+      "autp_mountain_cabin": "Nhà gỗ trên núi",
+      "autp_canal_evening": "Kênh đào lúc hoàng hôn",
+      "autp_city_park": "Công viên thành phố",
+      "autp_palace_square": "Quảng trường cung điện",
+      "autp_forest_path": "Lối mòn trong rừng",
+      "autp_hillside_vineyard": "Vườn nho trên đồi",
+      "autp_rainy_boulevard": "Đại lộ trong mưa",
+      "autp_stone_bridge": "Cầu đá mùa thu"
+    }
+  }
+}
