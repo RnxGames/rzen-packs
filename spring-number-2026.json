@@ -1,0 +1,377 @@
+{
+  "v": 1,
+  "type": "pbn",
+  "pbnImages": [
+    {
+      "id": "sprp_bunny_bouquet",
+      "cat": "spring2026",
+      "name": "Conejito entre flores",
+      "colors": 30,
+      "data": "numero/sprp_bunny_bouquet.json",
+      "thumb": "numero/sprp_bunny_bouquet-thumb.png"
+    },
+    {
+      "id": "sprp_lamb_flower_cart",
+      "cat": "spring2026",
+      "name": "Carrito de flores de la ovejita",
+      "colors": 30,
+      "data": "numero/sprp_lamb_flower_cart.json",
+      "thumb": "numero/sprp_lamb_flower_cart-thumb.png"
+    },
+    {
+      "id": "sprp_duck_watering",
+      "cat": "spring2026",
+      "name": "Patito con regadera",
+      "colors": 30,
+      "data": "numero/sprp_duck_watering.json",
+      "thumb": "numero/sprp_duck_watering-thumb.png"
+    },
+    {
+      "id": "sprp_fox_flower_basket",
+      "cat": "spring2026",
+      "name": "Zorrito y cesta de flores",
+      "colors": 30,
+      "data": "numero/sprp_fox_flower_basket.json",
+      "thumb": "numero/sprp_fox_flower_basket-thumb.png"
+    },
+    {
+      "id": "sprp_koala_bouquet",
+      "cat": "spring2026",
+      "name": "Ramo del koala",
+      "colors": 30,
+      "data": "numero/sprp_koala_bouquet.json",
+      "thumb": "numero/sprp_koala_bouquet-thumb.png"
+    },
+    {
+      "id": "sprp_chick_flowers",
+      "cat": "spring2026",
+      "name": "Pollito entre flores",
+      "colors": 30,
+      "data": "numero/sprp_chick_flowers.json",
+      "thumb": "numero/sprp_chick_flowers-thumb.png"
+    },
+    {
+      "id": "sprp_puppy_gardener",
+      "cat": "spring2026",
+      "name": "Perrito jardinero",
+      "colors": 30,
+      "data": "numero/sprp_puppy_gardener.json",
+      "thumb": "numero/sprp_puppy_gardener-thumb.png"
+    },
+    {
+      "id": "sprp_hedgehog_flowers",
+      "cat": "spring2026",
+      "name": "Erizo y maceta",
+      "colors": 30,
+      "data": "numero/sprp_hedgehog_flowers.json",
+      "thumb": "numero/sprp_hedgehog_flowers-thumb.png"
+    },
+    {
+      "id": "sprp_kitten_protea",
+      "cat": "spring2026",
+      "name": "Gatito con protea",
+      "colors": 30,
+      "data": "numero/sprp_kitten_protea.json",
+      "thumb": "numero/sprp_kitten_protea-thumb.png"
+    },
+    {
+      "id": "sprp_fawn_protea",
+      "cat": "spring2026",
+      "name": "Cervatillo con protea",
+      "colors": 30,
+      "data": "numero/sprp_fawn_protea.json",
+      "thumb": "numero/sprp_fawn_protea-thumb.png"
+    },
+    {
+      "id": "sprp_jacaranda_street",
+      "cat": "spring2026",
+      "name": "Calle de jacarandas",
+      "colors": 30,
+      "data": "numero/sprp_jacaranda_street.json",
+      "thumb": "numero/sprp_jacaranda_street-thumb.png"
+    },
+    {
+      "id": "sprp_table_mountain",
+      "cat": "spring2026",
+      "name": "Primavera en Table Mountain",
+      "colors": 30,
+      "data": "numero/sprp_table_mountain.json",
+      "thumb": "numero/sprp_table_mountain-thumb.png"
+    },
+    {
+      "id": "sprp_sydney_harbor",
+      "cat": "spring2026",
+      "name": "Puerto de Sídney",
+      "colors": 30,
+      "data": "numero/sprp_sydney_harbor.json",
+      "thumb": "numero/sprp_sydney_harbor-thumb.png"
+    },
+    {
+      "id": "sprp_alpine_lake",
+      "cat": "spring2026",
+      "name": "Lago alpino",
+      "colors": 30,
+      "data": "numero/sprp_alpine_lake.json",
+      "thumb": "numero/sprp_alpine_lake-thumb.png"
+    },
+    {
+      "id": "sprp_spring_valley",
+      "cat": "spring2026",
+      "name": "Valle de primavera",
+      "colors": 30,
+      "data": "numero/sprp_spring_valley.json",
+      "thumb": "numero/sprp_spring_valley-thumb.png"
+    },
+    {
+      "id": "sprp_blossom_vineyard",
+      "cat": "spring2026",
+      "name": "Viñedo en flor",
+      "colors": 30,
+      "data": "numero/sprp_blossom_vineyard.json",
+      "thumb": "numero/sprp_blossom_vineyard-thumb.png"
+    },
+    {
+      "id": "sprp_spring_city",
+      "cat": "spring2026",
+      "name": "Ciudad de primavera",
+      "colors": 30,
+      "data": "numero/sprp_spring_city.json",
+      "thumb": "numero/sprp_spring_city-thumb.png"
+    },
+    {
+      "id": "sprp_cherry_canal",
+      "cat": "spring2026",
+      "name": "Canal de cerezos",
+      "colors": 30,
+      "data": "numero/sprp_cherry_canal.json",
+      "thumb": "numero/sprp_cherry_canal-thumb.png"
+    },
+    {
+      "id": "sprp_coastal_hillside",
+      "cat": "spring2026",
+      "name": "Pueblo en la costa",
+      "colors": 30,
+      "data": "numero/sprp_coastal_hillside.json",
+      "thumb": "numero/sprp_coastal_hillside-thumb.png"
+    },
+    {
+      "id": "sprp_jacaranda_park",
+      "cat": "spring2026",
+      "name": "Parque de jacarandas",
+      "colors": 30,
+      "data": "numero/sprp_jacaranda_park.json",
+      "thumb": "numero/sprp_jacaranda_park-thumb.png"
+    }
+  ],
+  "sections": {
+    "pbn": [
+      "spring2026"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "spring2026": "Primavera encantada"
+      },
+      "en": {
+        "spring2026": "Enchanted Spring"
+      },
+      "pt": {
+        "spring2026": "Primavera encantada"
+      },
+      "fr": {
+        "spring2026": "Printemps enchanté"
+      },
+      "it": {
+        "spring2026": "Primavera incantata"
+      },
+      "ja": {
+        "spring2026": "魔法の春"
+      },
+      "de": {
+        "spring2026": "Zauberhafter Frühling"
+      },
+      "vi": {
+        "spring2026": "Mùa xuân diệu kỳ"
+      }
+    }
+  },
+  "pbnNames": {
+    "es": {
+      "sprp_bunny_bouquet": "Conejito entre flores",
+      "sprp_lamb_flower_cart": "Carrito de flores de la ovejita",
+      "sprp_duck_watering": "Patito con regadera",
+      "sprp_fox_flower_basket": "Zorrito y cesta de flores",
+      "sprp_koala_bouquet": "Ramo del koala",
+      "sprp_chick_flowers": "Pollito entre flores",
+      "sprp_puppy_gardener": "Perrito jardinero",
+      "sprp_hedgehog_flowers": "Erizo y maceta",
+      "sprp_kitten_protea": "Gatito con protea",
+      "sprp_fawn_protea": "Cervatillo con protea",
+      "sprp_jacaranda_street": "Calle de jacarandas",
+      "sprp_table_mountain": "Primavera en Table Mountain",
+      "sprp_sydney_harbor": "Puerto de Sídney",
+      "sprp_alpine_lake": "Lago alpino",
+      "sprp_spring_valley": "Valle de primavera",
+      "sprp_blossom_vineyard": "Viñedo en flor",
+      "sprp_spring_city": "Ciudad de primavera",
+      "sprp_cherry_canal": "Canal de cerezos",
+      "sprp_coastal_hillside": "Pueblo en la costa",
+      "sprp_jacaranda_park": "Parque de jacarandas"
+    },
+    "en": {
+      "sprp_bunny_bouquet": "Bunny Among Flowers",
+      "sprp_lamb_flower_cart": "Lamb’s Flower Cart",
+      "sprp_duck_watering": "Duckling with a Watering Can",
+      "sprp_fox_flower_basket": "Fox and Flower Basket",
+      "sprp_koala_bouquet": "Koala’s Bouquet",
+      "sprp_chick_flowers": "Chick Among Flowers",
+      "sprp_puppy_gardener": "Puppy Gardener",
+      "sprp_hedgehog_flowers": "Hedgehog and Flowerpot",
+      "sprp_kitten_protea": "Kitten with Protea",
+      "sprp_fawn_protea": "Fawn with Protea",
+      "sprp_jacaranda_street": "Jacaranda Street",
+      "sprp_table_mountain": "Spring at Table Mountain",
+      "sprp_sydney_harbor": "Sydney Harbour",
+      "sprp_alpine_lake": "Alpine Lake",
+      "sprp_spring_valley": "Spring Valley",
+      "sprp_blossom_vineyard": "Blossoming Vineyard",
+      "sprp_spring_city": "Spring City",
+      "sprp_cherry_canal": "Cherry Blossom Canal",
+      "sprp_coastal_hillside": "Coastal Hillside Town",
+      "sprp_jacaranda_park": "Jacaranda Park"
+    },
+    "pt": {
+      "sprp_bunny_bouquet": "Coelhinho entre flores",
+      "sprp_lamb_flower_cart": "Carrinho de flores da ovelhinha",
+      "sprp_duck_watering": "Patinho com regador",
+      "sprp_fox_flower_basket": "Raposa e cesta de flores",
+      "sprp_koala_bouquet": "Buquê do coala",
+      "sprp_chick_flowers": "Pintinho entre flores",
+      "sprp_puppy_gardener": "Cachorrinho jardineiro",
+      "sprp_hedgehog_flowers": "Ouriço e vaso de flores",
+      "sprp_kitten_protea": "Gatinho com protea",
+      "sprp_fawn_protea": "Cervinho com protea",
+      "sprp_jacaranda_street": "Rua de jacarandás",
+      "sprp_table_mountain": "Primavera na Table Mountain",
+      "sprp_sydney_harbor": "Porto de Sydney",
+      "sprp_alpine_lake": "Lago alpino",
+      "sprp_spring_valley": "Vale da primavera",
+      "sprp_blossom_vineyard": "Vinhedo florido",
+      "sprp_spring_city": "Cidade da primavera",
+      "sprp_cherry_canal": "Canal de cerejeiras",
+      "sprp_coastal_hillside": "Vila costeira",
+      "sprp_jacaranda_park": "Parque de jacarandás"
+    },
+    "fr": {
+      "sprp_bunny_bouquet": "Lapin parmi les fleurs",
+      "sprp_lamb_flower_cart": "Charrette fleurie de l’agneau",
+      "sprp_duck_watering": "Caneton et arrosoir",
+      "sprp_fox_flower_basket": "Renard et panier de fleurs",
+      "sprp_koala_bouquet": "Bouquet du koala",
+      "sprp_chick_flowers": "Poussin parmi les fleurs",
+      "sprp_puppy_gardener": "Chiot jardinier",
+      "sprp_hedgehog_flowers": "Hérisson et pot de fleurs",
+      "sprp_kitten_protea": "Chaton au protéa",
+      "sprp_fawn_protea": "Faon au protéa",
+      "sprp_jacaranda_street": "Rue des jacarandas",
+      "sprp_table_mountain": "Printemps à Table Mountain",
+      "sprp_sydney_harbor": "Port de Sydney",
+      "sprp_alpine_lake": "Lac alpin",
+      "sprp_spring_valley": "Vallée printanière",
+      "sprp_blossom_vineyard": "Vignoble en fleurs",
+      "sprp_spring_city": "Ville printanière",
+      "sprp_cherry_canal": "Canal aux cerisiers",
+      "sprp_coastal_hillside": "Village sur la côte",
+      "sprp_jacaranda_park": "Parc aux jacarandas"
+    },
+    "it": {
+      "sprp_bunny_bouquet": "Coniglietto tra i fiori",
+      "sprp_lamb_flower_cart": "Carretto dei fiori dell’agnellino",
+      "sprp_duck_watering": "Anatroccolo con annaffiatoio",
+      "sprp_fox_flower_basket": "Volpe e cesto di fiori",
+      "sprp_koala_bouquet": "Bouquet del koala",
+      "sprp_chick_flowers": "Pulcino tra i fiori",
+      "sprp_puppy_gardener": "Cagnolino giardiniere",
+      "sprp_hedgehog_flowers": "Riccio e vaso di fiori",
+      "sprp_kitten_protea": "Gattino con protea",
+      "sprp_fawn_protea": "Cerbiatto con protea",
+      "sprp_jacaranda_street": "Strada delle jacarande",
+      "sprp_table_mountain": "Primavera a Table Mountain",
+      "sprp_sydney_harbor": "Porto di Sydney",
+      "sprp_alpine_lake": "Lago alpino",
+      "sprp_spring_valley": "Valle di primavera",
+      "sprp_blossom_vineyard": "Vigneto in fiore",
+      "sprp_spring_city": "Città di primavera",
+      "sprp_cherry_canal": "Canale dei ciliegi",
+      "sprp_coastal_hillside": "Borgo sulla costa",
+      "sprp_jacaranda_park": "Parco delle jacarande"
+    },
+    "ja": {
+      "sprp_bunny_bouquet": "花の中のうさぎ",
+      "sprp_lamb_flower_cart": "子羊のフラワーカート",
+      "sprp_duck_watering": "じょうろを持つあひる",
+      "sprp_fox_flower_basket": "キツネと花かご",
+      "sprp_koala_bouquet": "コアラの花束",
+      "sprp_chick_flowers": "花の中のひよこ",
+      "sprp_puppy_gardener": "庭仕事の子犬",
+      "sprp_hedgehog_flowers": "ハリネズミと植木鉢",
+      "sprp_kitten_protea": "子猫とプロテア",
+      "sprp_fawn_protea": "子鹿とプロテア",
+      "sprp_jacaranda_street": "ジャカランダの通り",
+      "sprp_table_mountain": "テーブルマウンテンの春",
+      "sprp_sydney_harbor": "シドニー湾",
+      "sprp_alpine_lake": "アルプスの湖",
+      "sprp_spring_valley": "春の谷",
+      "sprp_blossom_vineyard": "花咲くぶどう畑",
+      "sprp_spring_city": "春の街",
+      "sprp_cherry_canal": "桜の運河",
+      "sprp_coastal_hillside": "海辺の丘の街",
+      "sprp_jacaranda_park": "ジャカランダ公園"
+    },
+    "de": {
+      "sprp_bunny_bouquet": "Häschen zwischen Blumen",
+      "sprp_lamb_flower_cart": "Blumenwagen des Lämmchens",
+      "sprp_duck_watering": "Entchen mit Gießkanne",
+      "sprp_fox_flower_basket": "Fuchs und Blumenkorb",
+      "sprp_koala_bouquet": "Blumenstrauß des Koalas",
+      "sprp_chick_flowers": "Küken zwischen Blumen",
+      "sprp_puppy_gardener": "Welpe im Garten",
+      "sprp_hedgehog_flowers": "Igel und Blumentopf",
+      "sprp_kitten_protea": "Kätzchen mit Protea",
+      "sprp_fawn_protea": "Rehkitz mit Protea",
+      "sprp_jacaranda_street": "Jacaranda-Straße",
+      "sprp_table_mountain": "Frühling am Tafelberg",
+      "sprp_sydney_harbor": "Hafen von Sydney",
+      "sprp_alpine_lake": "Alpensee",
+      "sprp_spring_valley": "Frühlingstal",
+      "sprp_blossom_vineyard": "Blühender Weinberg",
+      "sprp_spring_city": "Frühlingsstadt",
+      "sprp_cherry_canal": "Kirschblütenkanal",
+      "sprp_coastal_hillside": "Küstenort am Hang",
+      "sprp_jacaranda_park": "Jacaranda-Park"
+    },
+    "vi": {
+      "sprp_bunny_bouquet": "Thỏ con giữa hoa",
+      "sprp_lamb_flower_cart": "Xe hoa của cừu con",
+      "sprp_duck_watering": "Vịt con và bình tưới",
+      "sprp_fox_flower_basket": "Cáo và giỏ hoa",
+      "sprp_koala_bouquet": "Bó hoa của gấu koala",
+      "sprp_chick_flowers": "Gà con giữa hoa",
+      "sprp_puppy_gardener": "Chó con làm vườn",
+      "sprp_hedgehog_flowers": "Nhím và chậu hoa",
+      "sprp_kitten_protea": "Mèo con và hoa protea",
+      "sprp_fawn_protea": "Nai con và hoa protea",
+      "sprp_jacaranda_street": "Con đường phượng tím",
+      "sprp_table_mountain": "Mùa xuân ở Núi Bàn",
+      "sprp_sydney_harbor": "Cảng Sydney",
+      "sprp_alpine_lake": "Hồ trên núi",
+      "sprp_spring_valley": "Thung lũng mùa xuân",
+      "sprp_blossom_vineyard": "Vườn nho nở hoa",
+      "sprp_spring_city": "Thành phố mùa xuân",
+      "sprp_cherry_canal": "Kênh đào hoa anh đào",
+      "sprp_coastal_hillside": "Thị trấn ven biển",
+      "sprp_jacaranda_park": "Công viên phượng tím"
+    }
+  }
+}

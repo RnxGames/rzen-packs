@@ -1,0 +1,498 @@
+{
+  "v": 1,
+  "type": "mandala",
+  "mandalaImages": [
+    {
+      "id": "sprm_raccoon_seedlings",
+      "cat": "spring2026",
+      "name": "Mapache jardinero",
+      "src": "mandala/sprm_raccoon_seedlings.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_bear_picnic",
+      "cat": "spring2026",
+      "name": "Picnic del osito",
+      "src": "mandala/sprm_bear_picnic.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_bunny_hammock",
+      "cat": "spring2026",
+      "name": "Conejito en la hamaca",
+      "src": "mandala/sprm_bunny_hammock.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_fox_berry_pie",
+      "cat": "spring2026",
+      "name": "Zorrito repostero",
+      "src": "mandala/sprm_fox_berry_pie.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_chick_kite",
+      "cat": "spring2026",
+      "name": "Pollito y cometa",
+      "src": "mandala/sprm_chick_kite.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_hedgehog_flower_stall",
+      "cat": "spring2026",
+      "name": "Puesto de flores del erizo",
+      "src": "mandala/sprm_hedgehog_flower_stall.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_fawn_garden",
+      "cat": "spring2026",
+      "name": "Jardín del cervatillo",
+      "src": "mandala/sprm_fawn_garden.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_owl_painted_eggs",
+      "cat": "spring2026",
+      "name": "Búho pintando huevos",
+      "src": "mandala/sprm_owl_painted_eggs.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_kitten_flower_shop",
+      "cat": "spring2026",
+      "name": "Floristería del gatito",
+      "src": "mandala/sprm_kitten_flower_shop.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_squirrel_hanging_flowers",
+      "cat": "spring2026",
+      "name": "Ardilla y flores colgantes",
+      "src": "mandala/sprm_squirrel_hanging_flowers.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_otter_garden",
+      "cat": "spring2026",
+      "name": "Nutria entre flores",
+      "src": "mandala/sprm_otter_garden.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_panda_reading",
+      "cat": "spring2026",
+      "name": "Panda lector",
+      "src": "mandala/sprm_panda_reading.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_piglet_lemonade",
+      "cat": "spring2026",
+      "name": "Cerdito y limonada",
+      "src": "mandala/sprm_piglet_lemonade.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_turtle_flower_stall",
+      "cat": "spring2026",
+      "name": "Puesto de flores de la tortuga",
+      "src": "mandala/sprm_turtle_flower_stall.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_springtime_nap",
+      "cat": "spring2026",
+      "name": "Siesta primaveral",
+      "src": "mandala/sprm_springtime_nap.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_bear_vegetable_garden",
+      "cat": "spring2026",
+      "name": "Osito en el huerto",
+      "src": "mandala/sprm_bear_vegetable_garden.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_frog_garden_tea",
+      "cat": "spring2026",
+      "name": "Té en el jardín",
+      "src": "mandala/sprm_frog_garden_tea.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_koala_window",
+      "cat": "spring2026",
+      "name": "Koala junto a la ventana",
+      "src": "mandala/sprm_koala_window.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_lamb_berry_pie",
+      "cat": "spring2026",
+      "name": "Tarta de la ovejita",
+      "src": "mandala/sprm_lamb_berry_pie.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_duckling_gardener",
+      "cat": "spring2026",
+      "name": "Patito jardinero",
+      "src": "mandala/sprm_duckling_gardener.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_bees_ladybugs",
+      "cat": "spring2026",
+      "name": "Abejas y mariquitas",
+      "src": "mandala/sprm_bees_ladybugs.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_floral_watering_cans",
+      "cat": "spring2026",
+      "name": "Regaderas florales",
+      "src": "mandala/sprm_floral_watering_cans.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_spring_nest",
+      "cat": "spring2026",
+      "name": "Nido de primavera",
+      "src": "mandala/sprm_spring_nest.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_butterfly_garden",
+      "cat": "spring2026",
+      "name": "Jardín de mariposas",
+      "src": "mandala/sprm_butterfly_garden.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "sprm_spring_blossoms",
+      "cat": "spring2026",
+      "name": "Flores de primavera",
+      "src": "mandala/sprm_spring_blossoms.webp",
+      "modes": [
+        "trad"
+      ]
+    }
+  ],
+  "sections": {
+    "mandala": [
+      "spring2026"
+    ]
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "spring2026": "Primavera encantada"
+      },
+      "en": {
+        "spring2026": "Enchanted Spring"
+      },
+      "pt": {
+        "spring2026": "Primavera encantada"
+      },
+      "fr": {
+        "spring2026": "Printemps enchanté"
+      },
+      "it": {
+        "spring2026": "Primavera incantata"
+      },
+      "ja": {
+        "spring2026": "魔法の春"
+      },
+      "de": {
+        "spring2026": "Zauberhafter Frühling"
+      },
+      "vi": {
+        "spring2026": "Mùa xuân diệu kỳ"
+      }
+    }
+  },
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Mapache jardinero",
+        "sprm_bear_picnic": "Picnic del osito",
+        "sprm_bunny_hammock": "Conejito en la hamaca",
+        "sprm_fox_berry_pie": "Zorrito repostero",
+        "sprm_chick_kite": "Pollito y cometa",
+        "sprm_hedgehog_flower_stall": "Puesto de flores del erizo",
+        "sprm_fawn_garden": "Jardín del cervatillo",
+        "sprm_owl_painted_eggs": "Búho pintando huevos",
+        "sprm_kitten_flower_shop": "Floristería del gatito",
+        "sprm_squirrel_hanging_flowers": "Ardilla y flores colgantes",
+        "sprm_otter_garden": "Nutria entre flores",
+        "sprm_panda_reading": "Panda lector",
+        "sprm_piglet_lemonade": "Cerdito y limonada",
+        "sprm_turtle_flower_stall": "Puesto de flores de la tortuga",
+        "sprm_springtime_nap": "Siesta primaveral",
+        "sprm_bear_vegetable_garden": "Osito en el huerto",
+        "sprm_frog_garden_tea": "Té en el jardín",
+        "sprm_koala_window": "Koala junto a la ventana",
+        "sprm_lamb_berry_pie": "Tarta de la ovejita",
+        "sprm_duckling_gardener": "Patito jardinero",
+        "sprm_bees_ladybugs": "Abejas y mariquitas",
+        "sprm_floral_watering_cans": "Regaderas florales",
+        "sprm_spring_nest": "Nido de primavera",
+        "sprm_butterfly_garden": "Jardín de mariposas",
+        "sprm_spring_blossoms": "Flores de primavera"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Raccoon Gardener",
+        "sprm_bear_picnic": "Bear’s Picnic",
+        "sprm_bunny_hammock": "Bunny in the Hammock",
+        "sprm_fox_berry_pie": "Fox Baking a Berry Pie",
+        "sprm_chick_kite": "Chick with a Kite",
+        "sprm_hedgehog_flower_stall": "Hedgehog’s Flower Stall",
+        "sprm_fawn_garden": "Fawn’s Garden",
+        "sprm_owl_painted_eggs": "Owl Painting Eggs",
+        "sprm_kitten_flower_shop": "Kitten’s Flower Shop",
+        "sprm_squirrel_hanging_flowers": "Squirrel and Hanging Flowers",
+        "sprm_otter_garden": "Otter in the Garden",
+        "sprm_panda_reading": "Panda Reading",
+        "sprm_piglet_lemonade": "Piglet’s Lemonade",
+        "sprm_turtle_flower_stall": "Turtle’s Flower Stall",
+        "sprm_springtime_nap": "Springtime Nap",
+        "sprm_bear_vegetable_garden": "Bear in the Vegetable Garden",
+        "sprm_frog_garden_tea": "Tea in the Garden",
+        "sprm_koala_window": "Koala by the Window",
+        "sprm_lamb_berry_pie": "Lamb’s Berry Pie",
+        "sprm_duckling_gardener": "Duckling Gardener",
+        "sprm_bees_ladybugs": "Bees and Ladybugs",
+        "sprm_floral_watering_cans": "Floral Watering Cans",
+        "sprm_spring_nest": "Spring Nest",
+        "sprm_butterfly_garden": "Butterfly Garden",
+        "sprm_spring_blossoms": "Spring Blossoms"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Guaxinim jardineiro",
+        "sprm_bear_picnic": "Piquenique do ursinho",
+        "sprm_bunny_hammock": "Coelhinho na rede",
+        "sprm_fox_berry_pie": "Raposa confeiteira",
+        "sprm_chick_kite": "Pintinho com pipa",
+        "sprm_hedgehog_flower_stall": "Barraca de flores do ouriço",
+        "sprm_fawn_garden": "Jardim do cervinho",
+        "sprm_owl_painted_eggs": "Coruja pintando ovos",
+        "sprm_kitten_flower_shop": "Floricultura do gatinho",
+        "sprm_squirrel_hanging_flowers": "Esquilo e flores suspensas",
+        "sprm_otter_garden": "Lontra no jardim",
+        "sprm_panda_reading": "Panda leitor",
+        "sprm_piglet_lemonade": "Limonada do porquinho",
+        "sprm_turtle_flower_stall": "Barraca de flores da tartaruga",
+        "sprm_springtime_nap": "Soneca de primavera",
+        "sprm_bear_vegetable_garden": "Ursinho na horta",
+        "sprm_frog_garden_tea": "Chá no jardim",
+        "sprm_koala_window": "Coala junto à janela",
+        "sprm_lamb_berry_pie": "Torta de frutas da ovelhinha",
+        "sprm_duckling_gardener": "Patinho jardineiro",
+        "sprm_bees_ladybugs": "Abelhas e joaninhas",
+        "sprm_floral_watering_cans": "Regadores florais",
+        "sprm_spring_nest": "Ninho de primavera",
+        "sprm_butterfly_garden": "Jardim de borboletas",
+        "sprm_spring_blossoms": "Flores de primavera"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Raton laveur jardinier",
+        "sprm_bear_picnic": "Pique-nique de l’ourson",
+        "sprm_bunny_hammock": "Lapin dans le hamac",
+        "sprm_fox_berry_pie": "Renard pâtissier",
+        "sprm_chick_kite": "Poussin au cerf-volant",
+        "sprm_hedgehog_flower_stall": "Stand de fleurs du hérisson",
+        "sprm_fawn_garden": "Jardin du faon",
+        "sprm_owl_painted_eggs": "Hibou peignant des œufs",
+        "sprm_kitten_flower_shop": "Boutique de fleurs du chaton",
+        "sprm_squirrel_hanging_flowers": "Écureuil et fleurs suspendues",
+        "sprm_otter_garden": "Loutre au jardin",
+        "sprm_panda_reading": "Panda lecteur",
+        "sprm_piglet_lemonade": "Limonade du porcelet",
+        "sprm_turtle_flower_stall": "Stand de fleurs de la tortue",
+        "sprm_springtime_nap": "Sieste printanière",
+        "sprm_bear_vegetable_garden": "Ourson au potager",
+        "sprm_frog_garden_tea": "Thé au jardin",
+        "sprm_koala_window": "Koala près de la fenêtre",
+        "sprm_lamb_berry_pie": "Tarte aux baies de l’agneau",
+        "sprm_duckling_gardener": "Caneton jardinier",
+        "sprm_bees_ladybugs": "Abeilles et coccinelles",
+        "sprm_floral_watering_cans": "Arrosoirs fleuris",
+        "sprm_spring_nest": "Nid de printemps",
+        "sprm_butterfly_garden": "Jardin des papillons",
+        "sprm_spring_blossoms": "Fleurs de printemps"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Procione giardiniere",
+        "sprm_bear_picnic": "Picnic dell’orsetto",
+        "sprm_bunny_hammock": "Coniglietto sull’amaca",
+        "sprm_fox_berry_pie": "Volpe pasticcera",
+        "sprm_chick_kite": "Pulcino con aquilone",
+        "sprm_hedgehog_flower_stall": "Bancarella di fiori del riccio",
+        "sprm_fawn_garden": "Giardino del cerbiatto",
+        "sprm_owl_painted_eggs": "Gufo che dipinge le uova",
+        "sprm_kitten_flower_shop": "Negozio di fiori del gattino",
+        "sprm_squirrel_hanging_flowers": "Scoiattolo e fiori sospesi",
+        "sprm_otter_garden": "Lontra in giardino",
+        "sprm_panda_reading": "Panda lettore",
+        "sprm_piglet_lemonade": "Limonata del maialino",
+        "sprm_turtle_flower_stall": "Bancarella di fiori della tartaruga",
+        "sprm_springtime_nap": "Pisolino di primavera",
+        "sprm_bear_vegetable_garden": "Orsetto nell’orto",
+        "sprm_frog_garden_tea": "Tè in giardino",
+        "sprm_koala_window": "Koala alla finestra",
+        "sprm_lamb_berry_pie": "Torta ai frutti di bosco dell’agnellino",
+        "sprm_duckling_gardener": "Anatroccolo giardiniere",
+        "sprm_bees_ladybugs": "Api e coccinelle",
+        "sprm_floral_watering_cans": "Annaffiatoi floreali",
+        "sprm_spring_nest": "Nido di primavera",
+        "sprm_butterfly_garden": "Giardino delle farfalle",
+        "sprm_spring_blossoms": "Fiori di primavera"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "庭仕事のアライグマ",
+        "sprm_bear_picnic": "くまのピクニック",
+        "sprm_bunny_hammock": "ハンモックのうさぎ",
+        "sprm_fox_berry_pie": "ベリーパイを焼くキツネ",
+        "sprm_chick_kite": "ひよことたこ",
+        "sprm_hedgehog_flower_stall": "ハリネズミのお花屋さん",
+        "sprm_fawn_garden": "子鹿の庭",
+        "sprm_owl_painted_eggs": "卵を描くフクロウ",
+        "sprm_kitten_flower_shop": "子猫のお花屋さん",
+        "sprm_squirrel_hanging_flowers": "リスとハンギングフラワー",
+        "sprm_otter_garden": "庭のカワウソ",
+        "sprm_panda_reading": "読書するパンダ",
+        "sprm_piglet_lemonade": "子豚のレモネード",
+        "sprm_turtle_flower_stall": "カメのお花屋さん",
+        "sprm_springtime_nap": "春のお昼寝",
+        "sprm_bear_vegetable_garden": "菜園のくま",
+        "sprm_frog_garden_tea": "庭のティータイム",
+        "sprm_koala_window": "窓辺のコアラ",
+        "sprm_lamb_berry_pie": "子羊のベリーパイ",
+        "sprm_duckling_gardener": "あひるの庭仕事",
+        "sprm_bees_ladybugs": "ミツバチとてんとう虫",
+        "sprm_floral_watering_cans": "花のじょうろ",
+        "sprm_spring_nest": "春の巣",
+        "sprm_butterfly_garden": "チョウの庭",
+        "sprm_spring_blossoms": "春の花々"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Waschbär im Garten",
+        "sprm_bear_picnic": "Picknick des Bären",
+        "sprm_bunny_hammock": "Häschen in der Hängematte",
+        "sprm_fox_berry_pie": "Fuchs beim Beerenkuchenbacken",
+        "sprm_chick_kite": "Küken mit Drachen",
+        "sprm_hedgehog_flower_stall": "Blumenstand des Igels",
+        "sprm_fawn_garden": "Garten des Rehkitzes",
+        "sprm_owl_painted_eggs": "Eule bemalt Eier",
+        "sprm_kitten_flower_shop": "Blumenladen des Kätzchens",
+        "sprm_squirrel_hanging_flowers": "Eichhörnchen und Hängeblumen",
+        "sprm_otter_garden": "Otter im Garten",
+        "sprm_panda_reading": "Lesender Panda",
+        "sprm_piglet_lemonade": "Limonade des Ferkels",
+        "sprm_turtle_flower_stall": "Blumenstand der Schildkröte",
+        "sprm_springtime_nap": "Frühlingsschlaf",
+        "sprm_bear_vegetable_garden": "Bär im Gemüsegarten",
+        "sprm_frog_garden_tea": "Tee im Garten",
+        "sprm_koala_window": "Koala am Fenster",
+        "sprm_lamb_berry_pie": "Beerenkuchen des Lämmchens",
+        "sprm_duckling_gardener": "Entchen im Garten",
+        "sprm_bees_ladybugs": "Bienen und Marienkäfer",
+        "sprm_floral_watering_cans": "Blumige Gießkannen",
+        "sprm_spring_nest": "Frühlingsnest",
+        "sprm_butterfly_garden": "Schmetterlingsgarten",
+        "sprm_spring_blossoms": "Frühlingsblüten"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "sprm_raccoon_seedlings": "Gấu mèo làm vườn",
+        "sprm_bear_picnic": "Chuyến dã ngoại của gấu",
+        "sprm_bunny_hammock": "Thỏ con trên võng",
+        "sprm_fox_berry_pie": "Cáo nướng bánh quả mọng",
+        "sprm_chick_kite": "Gà con và cánh diều",
+        "sprm_hedgehog_flower_stall": "Quầy hoa của nhím",
+        "sprm_fawn_garden": "Khu vườn của nai con",
+        "sprm_owl_painted_eggs": "Cú mèo tô trứng",
+        "sprm_kitten_flower_shop": "Tiệm hoa của mèo con",
+        "sprm_squirrel_hanging_flowers": "Sóc và giỏ hoa treo",
+        "sprm_otter_garden": "Rái cá trong vườn",
+        "sprm_panda_reading": "Gấu trúc đọc sách",
+        "sprm_piglet_lemonade": "Nước chanh của heo con",
+        "sprm_turtle_flower_stall": "Quầy hoa của rùa",
+        "sprm_springtime_nap": "Giấc ngủ mùa xuân",
+        "sprm_bear_vegetable_garden": "Gấu trong vườn rau",
+        "sprm_frog_garden_tea": "Tiệc trà trong vườn",
+        "sprm_koala_window": "Gấu koala bên cửa sổ",
+        "sprm_lamb_berry_pie": "Bánh quả mọng của cừu con",
+        "sprm_duckling_gardener": "Vịt con làm vườn",
+        "sprm_bees_ladybugs": "Ong và bọ rùa",
+        "sprm_floral_watering_cans": "Bình tưới hoa",
+        "sprm_spring_nest": "Tổ chim mùa xuân",
+        "sprm_butterfly_garden": "Vườn bướm",
+        "sprm_spring_blossoms": "Hoa mùa xuân"
+      }
+    }
+  }
+}
