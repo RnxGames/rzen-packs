@@ -1,0 +1,347 @@
+{
+  "v": 1,
+  "id": "nm-cozy-halloween-2026",
+  "name": "Cozy Halloween · Paint by Number",
+  "type": "pbn",
+  "pbnImages": [
+    {
+      "id": "chp_spooky_carnival",
+      "cat": "cozy-halloween-number",
+      "name": "Carnaval escalofriante",
+      "colors": 32,
+      "data": "numero/chp_spooky_carnival.json",
+      "thumb": "numero/chp_spooky_carnival-thumb.png"
+    },
+    {
+      "id": "chp_carnivorous_greenhouse",
+      "cat": "cozy-halloween-number",
+      "name": "Invernadero carnívoro",
+      "colors": 32,
+      "data": "numero/chp_carnivorous_greenhouse.json",
+      "thumb": "numero/chp_carnivorous_greenhouse-thumb.png"
+    },
+    {
+      "id": "chp_enchanted_library",
+      "cat": "cozy-halloween-number",
+      "name": "Biblioteca encantada",
+      "colors": 32,
+      "data": "numero/chp_enchanted_library.json",
+      "thumb": "numero/chp_enchanted_library-thumb.png"
+    },
+    {
+      "id": "chp_haunted_clocktower",
+      "cat": "cozy-halloween-number",
+      "name": "Torre del reloj embrujada",
+      "colors": 32,
+      "data": "numero/chp_haunted_clocktower.json",
+      "thumb": "numero/chp_haunted_clocktower-thumb.png"
+    },
+    {
+      "id": "chp_halloween_sweet_shop",
+      "cat": "cozy-halloween-number",
+      "name": "Dulcería de Halloween",
+      "colors": 32,
+      "data": "numero/chp_halloween_sweet_shop.json",
+      "thumb": "numero/chp_halloween_sweet_shop-thumb.png"
+    },
+    {
+      "id": "chp_moon_observatory",
+      "cat": "cozy-halloween-number",
+      "name": "Observatorio lunar",
+      "colors": 32,
+      "data": "numero/chp_moon_observatory.json",
+      "thumb": "numero/chp_moon_observatory-thumb.png"
+    },
+    {
+      "id": "chp_crystal_altar",
+      "cat": "cozy-halloween-number",
+      "name": "Altar de cristal",
+      "colors": 32,
+      "data": "numero/chp_crystal_altar.json",
+      "thumb": "numero/chp_crystal_altar-thumb.png"
+    },
+    {
+      "id": "chp_ghost_train_station",
+      "cat": "cozy-halloween-number",
+      "name": "Estación del tren fantasma",
+      "colors": 32,
+      "data": "numero/chp_ghost_train_station.json",
+      "thumb": "numero/chp_ghost_train_station-thumb.png"
+    },
+    {
+      "id": "chp_haunted_mansion_gate",
+      "cat": "cozy-halloween-number",
+      "name": "Entrada de la mansión encantada",
+      "colors": 32,
+      "data": "numero/chp_haunted_mansion_gate.json",
+      "thumb": "numero/chp_haunted_mansion_gate-thumb.png"
+    },
+    {
+      "id": "chp_witch_kitten",
+      "cat": "cozy-halloween-number",
+      "name": "Gatita bruja",
+      "colors": 32,
+      "data": "numero/chp_witch_kitten.json",
+      "thumb": "numero/chp_witch_kitten-thumb.png"
+    },
+    {
+      "id": "chp_candy_ghost",
+      "cat": "cozy-halloween-number",
+      "name": "Fantasma de caramelo",
+      "colors": 32,
+      "data": "numero/chp_candy_ghost.json",
+      "thumb": "numero/chp_candy_ghost-thumb.png"
+    },
+    {
+      "id": "chp_cookie_bat",
+      "cat": "cozy-halloween-number",
+      "name": "Murciélago con galleta",
+      "colors": 32,
+      "data": "numero/chp_cookie_bat.json",
+      "thumb": "numero/chp_cookie_bat-thumb.png"
+    },
+    {
+      "id": "chp_candy_raccoon",
+      "cat": "cozy-halloween-number",
+      "name": "Mapache goloso",
+      "colors": 32,
+      "data": "numero/chp_candy_raccoon.json",
+      "thumb": "numero/chp_candy_raccoon-thumb.png"
+    },
+    {
+      "id": "chp_cauldron_owl",
+      "cat": "cozy-halloween-number",
+      "name": "Búho del caldero",
+      "colors": 32,
+      "data": "numero/chp_cauldron_owl.json",
+      "thumb": "numero/chp_cauldron_owl-thumb.png"
+    },
+    {
+      "id": "chp_caramel_apple_fox",
+      "cat": "cozy-halloween-number",
+      "name": "Zorrito con manzana de caramelo",
+      "colors": 32,
+      "data": "numero/chp_caramel_apple_fox.json",
+      "thumb": "numero/chp_caramel_apple_fox-thumb.png"
+    },
+    {
+      "id": "chp_lollipop_spider",
+      "cat": "cozy-halloween-number",
+      "name": "Araña con piruleta",
+      "colors": 32,
+      "data": "numero/chp_lollipop_spider.json",
+      "thumb": "numero/chp_lollipop_spider-thumb.png"
+    },
+    {
+      "id": "chp_frog_wizard",
+      "cat": "cozy-halloween-number",
+      "name": "Rana hechicera",
+      "colors": 32,
+      "data": "numero/chp_frog_wizard.json",
+      "thumb": "numero/chp_frog_wizard-thumb.png"
+    },
+    {
+      "id": "chp_candy_snail",
+      "cat": "cozy-halloween-number",
+      "name": "Caracol de caramelo",
+      "colors": 32,
+      "data": "numero/chp_candy_snail.json",
+      "thumb": "numero/chp_candy_snail-thumb.png"
+    }
+  ],
+  "sections": {
+    "pbn": [
+      "cozy-halloween-number"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "cozy-halloween-number": "Halloween a todo color"
+      },
+      "en": {
+        "cozy-halloween-number": "Halloween in Full Color"
+      },
+      "pt": {
+        "cozy-halloween-number": "Halloween em cores"
+      },
+      "fr": {
+        "cozy-halloween-number": "Halloween en couleurs"
+      },
+      "it": {
+        "cozy-halloween-number": "Halloween a colori"
+      },
+      "ja": {
+        "cozy-halloween-number": "カラフル・ハロウィン"
+      },
+      "de": {
+        "cozy-halloween-number": "Halloween in Farbe"
+      },
+      "vi": {
+        "cozy-halloween-number": "Halloween rực rỡ sắc màu"
+      }
+    }
+  },
+  "pbnNames": {
+    "es": {
+      "chp_spooky_carnival": "Carnaval escalofriante",
+      "chp_carnivorous_greenhouse": "Invernadero carnívoro",
+      "chp_enchanted_library": "Biblioteca encantada",
+      "chp_haunted_clocktower": "Torre del reloj embrujada",
+      "chp_halloween_sweet_shop": "Dulcería de Halloween",
+      "chp_moon_observatory": "Observatorio lunar",
+      "chp_crystal_altar": "Altar de cristal",
+      "chp_ghost_train_station": "Estación del tren fantasma",
+      "chp_haunted_mansion_gate": "Entrada de la mansión encantada",
+      "chp_witch_kitten": "Gatita bruja",
+      "chp_candy_ghost": "Fantasma de caramelo",
+      "chp_cookie_bat": "Murciélago con galleta",
+      "chp_candy_raccoon": "Mapache goloso",
+      "chp_cauldron_owl": "Búho del caldero",
+      "chp_caramel_apple_fox": "Zorrito con manzana de caramelo",
+      "chp_lollipop_spider": "Araña con piruleta",
+      "chp_frog_wizard": "Rana hechicera",
+      "chp_candy_snail": "Caracol de caramelo"
+    },
+    "en": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "pt": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "fr": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "it": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "ja": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "de": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    },
+    "vi": {
+      "chp_spooky_carnival": "Spooky Carnival",
+      "chp_carnivorous_greenhouse": "Carnivorous Greenhouse",
+      "chp_enchanted_library": "Enchanted Library",
+      "chp_haunted_clocktower": "Haunted Clocktower",
+      "chp_halloween_sweet_shop": "Halloween Sweet Shop",
+      "chp_moon_observatory": "Moon Observatory",
+      "chp_crystal_altar": "Crystal Altar",
+      "chp_ghost_train_station": "Ghost Train Station",
+      "chp_haunted_mansion_gate": "Haunted Mansion Gate",
+      "chp_witch_kitten": "Witch Kitten",
+      "chp_candy_ghost": "Candy Ghost",
+      "chp_cookie_bat": "Cookie Bat",
+      "chp_candy_raccoon": "Candy Raccoon",
+      "chp_cauldron_owl": "Cauldron Owl",
+      "chp_caramel_apple_fox": "Caramel Apple Fox",
+      "chp_lollipop_spider": "Lollipop Spider",
+      "chp_frog_wizard": "Frog Wizard",
+      "chp_candy_snail": "Candy Snail"
+    }
+  }
+}

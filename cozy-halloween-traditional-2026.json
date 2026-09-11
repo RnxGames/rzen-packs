@@ -1,0 +1,732 @@
+{
+  "v": 1,
+  "id": "md-cozy-halloween-2026",
+  "name": "Cozy Halloween · Mandalas & Illustrations",
+  "type": "mandala",
+  "mandalaImages": [
+    {
+      "id": "chm_sunflower_pumpkins",
+      "cat": "cozy-halloween-patterns",
+      "name": "Girasoles y calabazas",
+      "src": "mandala/chm_sunflower_pumpkins.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_ghosts_and_moon",
+      "cat": "cozy-halloween-patterns",
+      "name": "Fantasmas bajo la luna",
+      "src": "mandala/chm_ghosts_and_moon.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_spiderweb_potions",
+      "cat": "cozy-halloween-patterns",
+      "name": "Telarañas y pociones",
+      "src": "mandala/chm_spiderweb_potions.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_witch_hats",
+      "cat": "cozy-halloween-patterns",
+      "name": "Sombreros de bruja",
+      "src": "mandala/chm_witch_hats.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_cat_and_moons",
+      "cat": "cozy-halloween-patterns",
+      "name": "Gato entre lunas",
+      "src": "mandala/chm_cat_and_moons.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_pumpkin_centerpiece",
+      "cat": "cozy-halloween-patterns",
+      "name": "Centro de calabazas",
+      "src": "mandala/chm_pumpkin_centerpiece.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_mushrooms_and_potion",
+      "cat": "cozy-halloween-patterns",
+      "name": "Hongos y poción mágica",
+      "src": "mandala/chm_mushrooms_and_potion.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_haunted_castle",
+      "cat": "cozy-halloween-patterns",
+      "name": "Castillo encantado",
+      "src": "mandala/chm_haunted_castle.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_owl_and_candy",
+      "cat": "cozy-halloween-patterns",
+      "name": "Búho y caramelos",
+      "src": "mandala/chm_owl_and_candy.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_jack_o_lantern",
+      "cat": "cozy-halloween-patterns",
+      "name": "Calabaza de medianoche",
+      "src": "mandala/chm_jack_o_lantern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_castle_night",
+      "cat": "cozy-halloween-patterns",
+      "name": "Noche en el castillo",
+      "src": "mandala/chm_castle_night.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_midnight_owl",
+      "cat": "cozy-halloween-patterns",
+      "name": "Búho de medianoche",
+      "src": "mandala/chm_midnight_owl.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_friendly_ghost",
+      "cat": "cozy-halloween-patterns",
+      "name": "Fantasma amistoso",
+      "src": "mandala/chm_friendly_ghost.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_spider_web",
+      "cat": "cozy-halloween-patterns",
+      "name": "Telaraña encantada",
+      "src": "mandala/chm_spider_web.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_mystic_cat",
+      "cat": "cozy-halloween-patterns",
+      "name": "Gato místico",
+      "src": "mandala/chm_mystic_cat.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_raven_lantern",
+      "cat": "cozy-halloween-patterns",
+      "name": "Cuervo y farol",
+      "src": "mandala/chm_raven_lantern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_coffin_roses",
+      "cat": "cozy-halloween-patterns",
+      "name": "Ataúd entre rosas",
+      "src": "mandala/chm_coffin_roses.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chm_witch_hat_broom",
+      "cat": "cozy-halloween-patterns",
+      "name": "Sombrero y escoba",
+      "src": "mandala/chm_witch_hat_broom.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "chi_trick_or_treat_friends",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Amigos de truco o trato",
+      "src": "mandala/chi_trick_or_treat_friends.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_witch_and_cat",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Brujita y su gato",
+      "src": "mandala/chi_witch_and_cat.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_skeleton_costume",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Disfraz de esqueleto",
+      "src": "mandala/chi_skeleton_costume.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_owl_pumpkin_barn",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Búho en el granero de calabazas",
+      "src": "mandala/chi_owl_pumpkin_barn.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_ghost_treat_stall",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Puesto de dulces fantasma",
+      "src": "mandala/chi_ghost_treat_stall.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_cemetery_friends",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Amigos del cementerio",
+      "src": "mandala/chi_cemetery_friends.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_witch_potion_room",
+      "cat": "cozy-halloween-illustrations",
+      "name": "La sala de pociones",
+      "src": "mandala/chi_witch_potion_room.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_scarecrow_field",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Espantapájaros del maizal",
+      "src": "mandala/chi_scarecrow_field.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_cats_pumpkin_patch",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Gatitos en el huerto de calabazas",
+      "src": "mandala/chi_cats_pumpkin_patch.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_mummy_ruins",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Momia entre ruinas",
+      "src": "mandala/chi_mummy_ruins.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_little_vampire",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Pequeño vampiro",
+      "src": "mandala/chi_little_vampire.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_werewolf_forest",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Hombre lobo del bosque",
+      "src": "mandala/chi_werewolf_forest.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_halloween_princess",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Princesa de Halloween",
+      "src": "mandala/chi_halloween_princess.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_pirate_octopus",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Pulpo pirata",
+      "src": "mandala/chi_pirate_octopus.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_hedgehog_wizard",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Erizo hechicero",
+      "src": "mandala/chi_hedgehog_wizard.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_harvest_witch",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Brujita de la cosecha",
+      "src": "mandala/chi_harvest_witch.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_frankenstein_friend",
+      "cat": "cozy-halloween-illustrations",
+      "name": "El amigo de Frankenstein",
+      "src": "mandala/chi_frankenstein_friend.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "chi_bunny_haunted_cottage",
+      "cat": "cozy-halloween-illustrations",
+      "name": "Conejito de la cabaña encantada",
+      "src": "mandala/chi_bunny_haunted_cottage.webp",
+      "modes": [
+        "illustration"
+      ]
+    }
+  ],
+  "sections": {
+    "mandala": [
+      "cozy-halloween-patterns"
+    ],
+    "illustration": [
+      "cozy-halloween-illustrations"
+    ]
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "cozy-halloween-patterns": "Patrones de Halloween",
+        "cozy-halloween-illustrations": "Historias de Halloween"
+      },
+      "en": {
+        "cozy-halloween-patterns": "Halloween Patterns",
+        "cozy-halloween-illustrations": "Halloween Stories"
+      },
+      "pt": {
+        "cozy-halloween-patterns": "Padrões de Halloween",
+        "cozy-halloween-illustrations": "Histórias de Halloween"
+      },
+      "fr": {
+        "cozy-halloween-patterns": "Motifs d’Halloween",
+        "cozy-halloween-illustrations": "Histoires d’Halloween"
+      },
+      "it": {
+        "cozy-halloween-patterns": "Motivi di Halloween",
+        "cozy-halloween-illustrations": "Storie di Halloween"
+      },
+      "ja": {
+        "cozy-halloween-patterns": "ハロウィンパターン",
+        "cozy-halloween-illustrations": "ハロウィンのお話"
+      },
+      "de": {
+        "cozy-halloween-patterns": "Halloween-Muster",
+        "cozy-halloween-illustrations": "Halloween-Geschichten"
+      },
+      "vi": {
+        "cozy-halloween-patterns": "Họa tiết Halloween",
+        "cozy-halloween-illustrations": "Câu chuyện Halloween"
+      }
+    },
+    "illustration": {
+      "es": {
+        "cozy-halloween-patterns": "Patrones de Halloween",
+        "cozy-halloween-illustrations": "Historias de Halloween"
+      },
+      "en": {
+        "cozy-halloween-patterns": "Halloween Patterns",
+        "cozy-halloween-illustrations": "Halloween Stories"
+      },
+      "pt": {
+        "cozy-halloween-patterns": "Padrões de Halloween",
+        "cozy-halloween-illustrations": "Histórias de Halloween"
+      },
+      "fr": {
+        "cozy-halloween-patterns": "Motifs d’Halloween",
+        "cozy-halloween-illustrations": "Histoires d’Halloween"
+      },
+      "it": {
+        "cozy-halloween-patterns": "Motivi di Halloween",
+        "cozy-halloween-illustrations": "Storie di Halloween"
+      },
+      "ja": {
+        "cozy-halloween-patterns": "ハロウィンパターン",
+        "cozy-halloween-illustrations": "ハロウィンのお話"
+      },
+      "de": {
+        "cozy-halloween-patterns": "Halloween-Muster",
+        "cozy-halloween-illustrations": "Halloween-Geschichten"
+      },
+      "vi": {
+        "cozy-halloween-patterns": "Họa tiết Halloween",
+        "cozy-halloween-illustrations": "Câu chuyện Halloween"
+      }
+    }
+  },
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Girasoles y calabazas",
+        "chm_ghosts_and_moon": "Fantasmas bajo la luna",
+        "chm_spiderweb_potions": "Telarañas y pociones",
+        "chm_witch_hats": "Sombreros de bruja",
+        "chm_cat_and_moons": "Gato entre lunas",
+        "chm_pumpkin_centerpiece": "Centro de calabazas",
+        "chm_mushrooms_and_potion": "Hongos y poción mágica",
+        "chm_haunted_castle": "Castillo encantado",
+        "chm_owl_and_candy": "Búho y caramelos",
+        "chm_jack_o_lantern": "Calabaza de medianoche",
+        "chm_castle_night": "Noche en el castillo",
+        "chm_midnight_owl": "Búho de medianoche",
+        "chm_friendly_ghost": "Fantasma amistoso",
+        "chm_spider_web": "Telaraña encantada",
+        "chm_mystic_cat": "Gato místico",
+        "chm_raven_lantern": "Cuervo y farol",
+        "chm_coffin_roses": "Ataúd entre rosas",
+        "chm_witch_hat_broom": "Sombrero y escoba",
+        "chi_trick_or_treat_friends": "Amigos de truco o trato",
+        "chi_witch_and_cat": "Brujita y su gato",
+        "chi_skeleton_costume": "Disfraz de esqueleto",
+        "chi_owl_pumpkin_barn": "Búho en el granero de calabazas",
+        "chi_ghost_treat_stall": "Puesto de dulces fantasma",
+        "chi_cemetery_friends": "Amigos del cementerio",
+        "chi_witch_potion_room": "La sala de pociones",
+        "chi_scarecrow_field": "Espantapájaros del maizal",
+        "chi_cats_pumpkin_patch": "Gatitos en el huerto de calabazas",
+        "chi_mummy_ruins": "Momia entre ruinas",
+        "chi_little_vampire": "Pequeño vampiro",
+        "chi_werewolf_forest": "Hombre lobo del bosque",
+        "chi_halloween_princess": "Princesa de Halloween",
+        "chi_pirate_octopus": "Pulpo pirata",
+        "chi_hedgehog_wizard": "Erizo hechicero",
+        "chi_harvest_witch": "Brujita de la cosecha",
+        "chi_frankenstein_friend": "El amigo de Frankenstein",
+        "chi_bunny_haunted_cottage": "Conejito de la cabaña encantada"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "chm_sunflower_pumpkins": "Sunflowers and Pumpkins",
+        "chm_ghosts_and_moon": "Ghosts Under the Moon",
+        "chm_spiderweb_potions": "Spiderwebs and Potions",
+        "chm_witch_hats": "Witch Hats",
+        "chm_cat_and_moons": "Cat Among Moons",
+        "chm_pumpkin_centerpiece": "Pumpkin Centerpiece",
+        "chm_mushrooms_and_potion": "Mushrooms and Magic Potion",
+        "chm_haunted_castle": "Haunted Castle",
+        "chm_owl_and_candy": "Owl and Candy",
+        "chm_jack_o_lantern": "Midnight Jack-o’-Lantern",
+        "chm_castle_night": "Castle Night",
+        "chm_midnight_owl": "Midnight Owl",
+        "chm_friendly_ghost": "Friendly Ghost",
+        "chm_spider_web": "Enchanted Spiderweb",
+        "chm_mystic_cat": "Mystic Cat",
+        "chm_raven_lantern": "Raven and Lantern",
+        "chm_coffin_roses": "Coffin Among Roses",
+        "chm_witch_hat_broom": "Witch Hat and Broom",
+        "chi_trick_or_treat_friends": "Trick-or-Treat Friends",
+        "chi_witch_and_cat": "Witch and Her Cat",
+        "chi_skeleton_costume": "Skeleton Costume",
+        "chi_owl_pumpkin_barn": "Owl at the Pumpkin Barn",
+        "chi_ghost_treat_stall": "Ghost Treat Stall",
+        "chi_cemetery_friends": "Cemetery Friends",
+        "chi_witch_potion_room": "The Potion Room",
+        "chi_scarecrow_field": "Scarecrow in the Cornfield",
+        "chi_cats_pumpkin_patch": "Cats in the Pumpkin Patch",
+        "chi_mummy_ruins": "Mummy Among Ruins",
+        "chi_little_vampire": "Little Vampire",
+        "chi_werewolf_forest": "Werewolf in the Forest",
+        "chi_halloween_princess": "Halloween Princess",
+        "chi_pirate_octopus": "Pirate Octopus",
+        "chi_hedgehog_wizard": "Hedgehog Wizard",
+        "chi_harvest_witch": "Harvest Witch",
+        "chi_frankenstein_friend": "Frankenstein’s Friend",
+        "chi_bunny_haunted_cottage": "Bunny at the Haunted Cottage"
+      }
+    }
+  }
+}
