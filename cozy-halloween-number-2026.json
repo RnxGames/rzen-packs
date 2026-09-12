@@ -1,5 +1,5 @@
 {
-  "v": 2,
+  "v": 3,
   "id": "nm-cozy-halloween-2026",
   "name": "Cozy Halloween · Paint by Number",
   "type": "pbn",
@@ -239,36 +239,28 @@
   "cats": {
     "pbn": {
       "es": {
-        "cozy-halloween-number": "Halloween a todo color",
-        "vida": "Cozy Halloween cobra vida"
+        "cozy-halloween-number": "Halloween a todo color"
       },
       "en": {
-        "cozy-halloween-number": "Halloween in Full Color",
-        "vida": "Cozy Halloween Comes Alive"
+        "cozy-halloween-number": "Halloween in Full Color"
       },
       "pt": {
-        "cozy-halloween-number": "Halloween em cores",
-        "vida": "Cozy Halloween ganha vida"
+        "cozy-halloween-number": "Halloween em cores"
       },
       "fr": {
-        "cozy-halloween-number": "Halloween en couleurs",
-        "vida": "Cozy Halloween prend vie"
+        "cozy-halloween-number": "Halloween en couleurs"
       },
       "it": {
-        "cozy-halloween-number": "Halloween a colori",
-        "vida": "Cozy Halloween prende vita"
+        "cozy-halloween-number": "Halloween a colori"
       },
       "ja": {
-        "cozy-halloween-number": "カラフル・ハロウィン",
-        "vida": "動きだすコージー・ハロウィン"
+        "cozy-halloween-number": "カラフル・ハロウィン"
       },
       "de": {
-        "cozy-halloween-number": "Halloween in Farbe",
-        "vida": "Cozy Halloween wird lebendig"
+        "cozy-halloween-number": "Halloween in Farbe"
       },
       "vi": {
-        "cozy-halloween-number": "Halloween rực rỡ sắc màu",
-        "vida": "Cozy Halloween sống động"
+        "cozy-halloween-number": "Halloween rực rỡ sắc màu"
       }
     }
   },
