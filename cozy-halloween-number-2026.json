@@ -1,5 +1,5 @@
 {
-  "v": 1,
+  "v": 2,
   "id": "nm-cozy-halloween-2026",
   "name": "Cozy Halloween · Paint by Number",
   "type": "pbn",
@@ -147,38 +147,128 @@
       "colors": 32,
       "data": "numero/chp_candy_snail.json",
       "thumb": "numero/chp_candy_snail-thumb.png"
+    },
+    {
+      "id": "chv_beaver_pumpkin",
+      "cat": "vida",
+      "name": "Castor tallando una calabaza",
+      "colors": 34,
+      "data": "vida/chv_beaver_pumpkin-f0.json",
+      "anim": "vida/chv_beaver_pumpkin.pk.json",
+      "thumb": "vida/chv_beaver_pumpkin-thumb.webp"
+    },
+    {
+      "id": "chv_bunny_garland",
+      "cat": "vida",
+      "name": "Conejita decora la guirnalda",
+      "colors": 34,
+      "data": "vida/chv_bunny_garland-f0.json",
+      "anim": "vida/chv_bunny_garland.pk.json",
+      "thumb": "vida/chv_bunny_garland-thumb.webp"
+    },
+    {
+      "id": "chv_deer_reading",
+      "cat": "vida",
+      "name": "Ciervo leyendo entre hojas",
+      "colors": 34,
+      "data": "vida/chv_deer_reading-f0.json",
+      "anim": "vida/chv_deer_reading.pk.json",
+      "thumb": "vida/chv_deer_reading-thumb.webp"
+    },
+    {
+      "id": "chv_duck_star_walk",
+      "cat": "vida",
+      "name": "Patito pasea con una estrella",
+      "colors": 34,
+      "data": "vida/chv_duck_star_walk-f0.json",
+      "anim": "vida/chv_duck_star_walk.pk.json",
+      "thumb": "vida/chv_duck_star_walk-thumb.webp"
+    },
+    {
+      "id": "chv_hedgehog_sweep",
+      "cat": "vida",
+      "name": "Erizo barriendo hojas",
+      "colors": 34,
+      "data": "vida/chv_hedgehog_sweep-f0.json",
+      "anim": "vida/chv_hedgehog_sweep.pk.json",
+      "thumb": "vida/chv_hedgehog_sweep-thumb.webp"
+    },
+    {
+      "id": "chv_koala_broom",
+      "cat": "vida",
+      "name": "Koala y la escoba encantada",
+      "colors": 34,
+      "data": "vida/chv_koala_broom-f0.json",
+      "anim": "vida/chv_koala_broom.pk.json",
+      "thumb": "vida/chv_koala_broom-thumb.webp"
+    },
+    {
+      "id": "chv_mouse_paper",
+      "cat": "vida",
+      "name": "Ratón tras el papel mágico",
+      "colors": 34,
+      "data": "vida/chv_mouse_paper-f0.json",
+      "anim": "vida/chv_mouse_paper.pk.json",
+      "thumb": "vida/chv_mouse_paper-thumb.webp"
+    },
+    {
+      "id": "chv_penguin_treasure",
+      "cat": "vida",
+      "name": "Pingüino descubre el tesoro",
+      "colors": 34,
+      "data": "vida/chv_penguin_treasure-f0.json",
+      "anim": "vida/chv_penguin_treasure.pk.json",
+      "thumb": "vida/chv_penguin_treasure-thumb.webp"
+    },
+    {
+      "id": "chv_pig_noodles",
+      "cat": "vida",
+      "name": "Cerdito cocina fideos mágicos",
+      "colors": 34,
+      "data": "vida/chv_pig_noodles-f0.json",
+      "anim": "vida/chv_pig_noodles.pk.json",
+      "thumb": "vida/chv_pig_noodles-thumb.webp"
     }
   ],
   "sections": {
     "pbn": [
-      "cozy-halloween-number"
+      "cozy-halloween-number",
+      "vida"
     ]
   },
   "cats": {
     "pbn": {
       "es": {
-        "cozy-halloween-number": "Halloween a todo color"
+        "cozy-halloween-number": "Halloween a todo color",
+        "vida": "Cozy Halloween cobra vida"
       },
       "en": {
-        "cozy-halloween-number": "Halloween in Full Color"
+        "cozy-halloween-number": "Halloween in Full Color",
+        "vida": "Cozy Halloween Comes Alive"
       },
       "pt": {
-        "cozy-halloween-number": "Halloween em cores"
+        "cozy-halloween-number": "Halloween em cores",
+        "vida": "Cozy Halloween ganha vida"
       },
       "fr": {
-        "cozy-halloween-number": "Halloween en couleurs"
+        "cozy-halloween-number": "Halloween en couleurs",
+        "vida": "Cozy Halloween prend vie"
       },
       "it": {
-        "cozy-halloween-number": "Halloween a colori"
+        "cozy-halloween-number": "Halloween a colori",
+        "vida": "Cozy Halloween prende vita"
       },
       "ja": {
-        "cozy-halloween-number": "カラフル・ハロウィン"
+        "cozy-halloween-number": "カラフル・ハロウィン",
+        "vida": "動きだすコージー・ハロウィン"
       },
       "de": {
-        "cozy-halloween-number": "Halloween in Farbe"
+        "cozy-halloween-number": "Halloween in Farbe",
+        "vida": "Cozy Halloween wird lebendig"
       },
       "vi": {
-        "cozy-halloween-number": "Halloween rực rỡ sắc màu"
+        "cozy-halloween-number": "Halloween rực rỡ sắc màu",
+        "vida": "Cozy Halloween sống động"
       }
     }
   },
@@ -201,7 +291,16 @@
       "chp_caramel_apple_fox": "Zorrito con manzana de caramelo",
       "chp_lollipop_spider": "Araña con piruleta",
       "chp_frog_wizard": "Rana hechicera",
-      "chp_candy_snail": "Caracol de caramelo"
+      "chp_candy_snail": "Caracol de caramelo",
+      "chv_beaver_pumpkin": "Castor tallando una calabaza",
+      "chv_bunny_garland": "Conejita decora la guirnalda",
+      "chv_deer_reading": "Ciervo leyendo entre hojas",
+      "chv_duck_star_walk": "Patito pasea con una estrella",
+      "chv_hedgehog_sweep": "Erizo barriendo hojas",
+      "chv_koala_broom": "Koala y la escoba encantada",
+      "chv_mouse_paper": "Ratón tras el papel mágico",
+      "chv_penguin_treasure": "Pingüino descubre el tesoro",
+      "chv_pig_noodles": "Cerdito cocina fideos mágicos"
     },
     "en": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -221,7 +320,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Beaver Carves a Pumpkin",
+      "chv_bunny_garland": "Bunny Decorates the Garland",
+      "chv_deer_reading": "Deer Reads Among the Leaves",
+      "chv_duck_star_walk": "Duckling Walks with a Star",
+      "chv_hedgehog_sweep": "Hedgehog Sweeps the Leaves",
+      "chv_koala_broom": "Koala and the Enchanted Broom",
+      "chv_mouse_paper": "Mouse Chases the Magic Paper",
+      "chv_penguin_treasure": "Penguin Discovers the Treasure",
+      "chv_pig_noodles": "Piglet Cooks Magic Noodles"
     },
     "pt": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -241,7 +349,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Castor esculpe uma abóbora",
+      "chv_bunny_garland": "Coelhinha decora a guirlanda",
+      "chv_deer_reading": "Cervo lê entre as folhas",
+      "chv_duck_star_walk": "Patinho passeia com uma estrela",
+      "chv_hedgehog_sweep": "Ouriço varre as folhas",
+      "chv_koala_broom": "Coala e a vassoura encantada",
+      "chv_mouse_paper": "Ratinho persegue o papel mágico",
+      "chv_penguin_treasure": "Pinguim descobre o tesouro",
+      "chv_pig_noodles": "Porquinho cozinha macarrão mágico"
     },
     "fr": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -261,7 +378,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Le castor sculpte une citrouille",
+      "chv_bunny_garland": "La lapine décore la guirlande",
+      "chv_deer_reading": "Le cerf lit parmi les feuilles",
+      "chv_duck_star_walk": "Le caneton se promène avec une étoile",
+      "chv_hedgehog_sweep": "Le hérisson balaie les feuilles",
+      "chv_koala_broom": "Le koala et le balai enchanté",
+      "chv_mouse_paper": "La souris poursuit le papier magique",
+      "chv_penguin_treasure": "Le pingouin découvre le trésor",
+      "chv_pig_noodles": "Le cochonnet cuisine des nouilles magiques"
     },
     "it": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -281,7 +407,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Il castoro intaglia una zucca",
+      "chv_bunny_garland": "La coniglietta decora la ghirlanda",
+      "chv_deer_reading": "Il cervo legge tra le foglie",
+      "chv_duck_star_walk": "L’anatroccolo passeggia con una stella",
+      "chv_hedgehog_sweep": "Il riccio spazza le foglie",
+      "chv_koala_broom": "Il koala e la scopa incantata",
+      "chv_mouse_paper": "Il topolino insegue il foglio magico",
+      "chv_penguin_treasure": "Il pinguino scopre il tesoro",
+      "chv_pig_noodles": "Il maialino cucina spaghetti magici"
     },
     "ja": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -301,7 +436,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "かぼちゃを彫るビーバー",
+      "chv_bunny_garland": "ガーランドを飾るウサギ",
+      "chv_deer_reading": "落ち葉の中で読むシカ",
+      "chv_duck_star_walk": "星と散歩するアヒル",
+      "chv_hedgehog_sweep": "落ち葉を掃くハリネズミ",
+      "chv_koala_broom": "コアラと魔法のほうき",
+      "chv_mouse_paper": "魔法の紙を追うネズミ",
+      "chv_penguin_treasure": "宝物を見つけたペンギン",
+      "chv_pig_noodles": "魔法の麺を作る子ブタ"
     },
     "de": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -321,7 +465,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Biber schnitzt einen Kürbis",
+      "chv_bunny_garland": "Häschen schmückt die Girlande",
+      "chv_deer_reading": "Reh liest zwischen Blättern",
+      "chv_duck_star_walk": "Entchen spaziert mit einem Stern",
+      "chv_hedgehog_sweep": "Igel fegt die Blätter",
+      "chv_koala_broom": "Koala und der verzauberte Besen",
+      "chv_mouse_paper": "Maus jagt dem Zauberpapier nach",
+      "chv_penguin_treasure": "Pinguin entdeckt den Schatz",
+      "chv_pig_noodles": "Ferkel kocht Zaubernudeln"
     },
     "vi": {
       "chp_spooky_carnival": "Spooky Carnival",
@@ -341,7 +494,16 @@
       "chp_caramel_apple_fox": "Caramel Apple Fox",
       "chp_lollipop_spider": "Lollipop Spider",
       "chp_frog_wizard": "Frog Wizard",
-      "chp_candy_snail": "Candy Snail"
+      "chp_candy_snail": "Candy Snail",
+      "chv_beaver_pumpkin": "Hải ly khắc bí ngô",
+      "chv_bunny_garland": "Thỏ trang trí vòng hoa",
+      "chv_deer_reading": "Hươu đọc sách giữa lá thu",
+      "chv_duck_star_walk": "Vịt con dạo chơi cùng ngôi sao",
+      "chv_hedgehog_sweep": "Nhím quét lá thu",
+      "chv_koala_broom": "Koala và cây chổi phép thuật",
+      "chv_mouse_paper": "Chuột đuổi theo tờ giấy phép thuật",
+      "chv_penguin_treasure": "Chim cánh cụt khám phá kho báu",
+      "chv_pig_noodles": "Heo con nấu mì phép thuật"
     }
   }
 }
