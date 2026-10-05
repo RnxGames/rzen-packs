@@ -1,0 +1,213 @@
+{
+  "id": "nm-dia-de-muertos-2026",
+  "v": 1,
+  "type": "pbn",
+  "sections": {
+    "mandala": [],
+    "illustration": [],
+    "pbn": [
+      "dm26-number"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "dm26-number": "Luz de cempasúchil"
+      },
+      "en": {
+        "dm26-number": "Marigold Light"
+      },
+      "pt": {
+        "dm26-number": "Luz de cempasúchil"
+      },
+      "fr": {
+        "dm26-number": "Lumière des soucis"
+      },
+      "it": {
+        "dm26-number": "Luce dei tageti"
+      },
+      "ja": {
+        "dm26-number": "マリーゴールドの光"
+      },
+      "de": {
+        "dm26-number": "Licht der Tagetes"
+      },
+      "vi": {
+        "dm26-number": "Ánh sáng hoa cúc vạn thọ"
+      }
+    }
+  },
+  "pbnImages": [
+    {
+      "id": "dm26_pixel_cute_armadillo",
+      "cat": "dm26-number",
+      "name": "Armadillo entre cempasúchiles",
+      "colors": 32,
+      "bg": "#ebe2dc",
+      "data": "numero/dm26_pixel_cute_armadillo.json",
+      "thumb": "numero/dm26_pixel_cute_armadillo-thumb.png"
+    },
+    {
+      "id": "dm26_pixel_taller_calaveras",
+      "cat": "dm26-number",
+      "name": "El taller de calaveras",
+      "colors": 48,
+      "bg": "#eadfdd",
+      "data": "numero/dm26_pixel_taller_calaveras.json",
+      "thumb": "numero/dm26_pixel_taller_calaveras-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_cute_tucan",
+      "cat": "dm26-number",
+      "name": "Tucán festivo",
+      "colors": 32,
+      "bg": "#eae6e1",
+      "data": "numero/dm26_pbn_cute_tucan.json",
+      "thumb": "numero/dm26_pbn_cute_tucan-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_cute_capibara",
+      "cat": "dm26-number",
+      "name": "Capibara de noviembre",
+      "colors": 32,
+      "bg": "#eee4de",
+      "data": "numero/dm26_pbn_cute_capibara.json",
+      "thumb": "numero/dm26_pbn_cute_capibara-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_cute_erizo",
+      "cat": "dm26-number",
+      "name": "Erizo del recuerdo",
+      "colors": 32,
+      "bg": "#efe3e1",
+      "data": "numero/dm26_pbn_cute_erizo.json",
+      "thumb": "numero/dm26_pbn_cute_erizo-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_cute_murcielago",
+      "cat": "dm26-number",
+      "name": "Murciélago entre flores",
+      "colors": 32,
+      "bg": "#ebe4e4",
+      "data": "numero/dm26_pbn_cute_murcielago.json",
+      "thumb": "numero/dm26_pbn_cute_murcielago-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_scene_cementerio",
+      "cat": "dm26-number",
+      "name": "Sendero de las velas",
+      "colors": 48,
+      "bg": "#ece0de",
+      "data": "numero/dm26_pbn_scene_cementerio.json",
+      "thumb": "numero/dm26_pbn_scene_cementerio-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_scene_callejon",
+      "cat": "dm26-number",
+      "name": "Callejón de papel picado",
+      "colors": 48,
+      "bg": "#ece0dd",
+      "data": "numero/dm26_pbn_scene_callejon.json",
+      "thumb": "numero/dm26_pbn_scene_callejon-thumb.png"
+    },
+    {
+      "id": "dm26_pbn_scene_puente",
+      "cat": "dm26-number",
+      "name": "Puente de los recuerdos",
+      "colors": 48,
+      "bg": "#ebdfdd",
+      "data": "numero/dm26_pbn_scene_puente.json",
+      "thumb": "numero/dm26_pbn_scene_puente-thumb.png"
+    }
+  ],
+  "pbnNames": {
+    "es": {
+      "dm26_pixel_cute_armadillo": "Armadillo entre cempasúchiles",
+      "dm26_pixel_taller_calaveras": "El taller de calaveras",
+      "dm26_pbn_cute_tucan": "Tucán festivo",
+      "dm26_pbn_cute_capibara": "Capibara de noviembre",
+      "dm26_pbn_cute_erizo": "Erizo del recuerdo",
+      "dm26_pbn_cute_murcielago": "Murciélago entre flores",
+      "dm26_pbn_scene_cementerio": "Sendero de las velas",
+      "dm26_pbn_scene_callejon": "Callejón de papel picado",
+      "dm26_pbn_scene_puente": "Puente de los recuerdos"
+    },
+    "en": {
+      "dm26_pixel_cute_armadillo": "Armadillo Among Marigolds",
+      "dm26_pixel_taller_calaveras": "The Calavera Workshop",
+      "dm26_pbn_cute_tucan": "Festive Toucan",
+      "dm26_pbn_cute_capibara": "November Capybara",
+      "dm26_pbn_cute_erizo": "Hedgehog of Remembrance",
+      "dm26_pbn_cute_murcielago": "Bat Among Flowers",
+      "dm26_pbn_scene_cementerio": "Path of Candles",
+      "dm26_pbn_scene_callejon": "Papel Picado Alley",
+      "dm26_pbn_scene_puente": "Bridge of Memories"
+    },
+    "pt": {
+      "dm26_pixel_cute_armadillo": "Tatu entre flores de cempasúchil",
+      "dm26_pixel_taller_calaveras": "A oficina de caveiras",
+      "dm26_pbn_cute_tucan": "Tucano festivo",
+      "dm26_pbn_cute_capibara": "Capivara de novembro",
+      "dm26_pbn_cute_erizo": "Ouriço da lembrança",
+      "dm26_pbn_cute_murcielago": "Morcego entre flores",
+      "dm26_pbn_scene_cementerio": "Caminho das velas",
+      "dm26_pbn_scene_callejon": "Viela de papel picado",
+      "dm26_pbn_scene_puente": "Ponte das memórias"
+    },
+    "fr": {
+      "dm26_pixel_cute_armadillo": "Tatou parmi les roses d’Inde",
+      "dm26_pixel_taller_calaveras": "L’atelier des calaveras",
+      "dm26_pbn_cute_tucan": "Toucan festif",
+      "dm26_pbn_cute_capibara": "Capybara de novembre",
+      "dm26_pbn_cute_erizo": "Hérisson du souvenir",
+      "dm26_pbn_cute_murcielago": "Chauve-souris parmi les fleurs",
+      "dm26_pbn_scene_cementerio": "Chemin des bougies",
+      "dm26_pbn_scene_callejon": "Ruelle de papier découpé",
+      "dm26_pbn_scene_puente": "Pont des souvenirs"
+    },
+    "it": {
+      "dm26_pixel_cute_armadillo": "Armadillo tra i fiori di tagete",
+      "dm26_pixel_taller_calaveras": "Il laboratorio delle calaveras",
+      "dm26_pbn_cute_tucan": "Tucano festoso",
+      "dm26_pbn_cute_capibara": "Capibara di novembre",
+      "dm26_pbn_cute_erizo": "Riccio del ricordo",
+      "dm26_pbn_cute_murcielago": "Pipistrello tra i fiori",
+      "dm26_pbn_scene_cementerio": "Sentiero delle candele",
+      "dm26_pbn_scene_callejon": "Vicolo di carta ritagliata",
+      "dm26_pbn_scene_puente": "Ponte dei ricordi"
+    },
+    "ja": {
+      "dm26_pixel_cute_armadillo": "マリーゴールドに囲まれたアルマジロ",
+      "dm26_pixel_taller_calaveras": "カラベラの工房",
+      "dm26_pbn_cute_tucan": "お祭りのオオハシ",
+      "dm26_pbn_cute_capibara": "十一月のカピバラ",
+      "dm26_pbn_cute_erizo": "追憶のハリネズミ",
+      "dm26_pbn_cute_murcielago": "花々の中のコウモリ",
+      "dm26_pbn_scene_cementerio": "ろうそくの道",
+      "dm26_pbn_scene_callejon": "切り紙飾りの路地",
+      "dm26_pbn_scene_puente": "思い出の橋"
+    },
+    "de": {
+      "dm26_pixel_cute_armadillo": "Gürteltier zwischen Studentenblumen",
+      "dm26_pixel_taller_calaveras": "Die Calavera-Werkstatt",
+      "dm26_pbn_cute_tucan": "Festlicher Tukan",
+      "dm26_pbn_cute_capibara": "November-Capybara",
+      "dm26_pbn_cute_erizo": "Igel der Erinnerung",
+      "dm26_pbn_cute_murcielago": "Fledermaus zwischen Blumen",
+      "dm26_pbn_scene_cementerio": "Weg der Kerzen",
+      "dm26_pbn_scene_callejon": "Gasse mit Scherenschnittgirlanden",
+      "dm26_pbn_scene_puente": "Brücke der Erinnerungen"
+    },
+    "vi": {
+      "dm26_pixel_cute_armadillo": "Tatu giữa hoa cúc vạn thọ",
+      "dm26_pixel_taller_calaveras": "Xưởng đầu lâu trang trí",
+      "dm26_pbn_cute_tucan": "Chim toucan ngày hội",
+      "dm26_pbn_cute_capibara": "Chuột lang nước tháng Mười Một",
+      "dm26_pbn_cute_erizo": "Nhím tưởng nhớ",
+      "dm26_pbn_cute_murcielago": "Dơi giữa những bông hoa",
+      "dm26_pbn_scene_cementerio": "Con đường ánh nến",
+      "dm26_pbn_scene_callejon": "Ngõ giấy cắt",
+      "dm26_pbn_scene_puente": "Cây cầu ký ức"
+    }
+  }
+}

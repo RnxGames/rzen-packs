@@ -1,0 +1,581 @@
+{
+  "id": "md-dia-de-muertos-2026",
+  "v": 1,
+  "type": "mandala",
+  "sections": {
+    "mandala": [
+      "dm26-mandalas",
+      "dm26-magic"
+    ],
+    "illustration": [
+      "dm26-illustrations"
+    ],
+    "pbn": []
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "dm26-mandalas": "Mandalas del recuerdo",
+        "dm26-magic": "Recuerdos de patchwork"
+      },
+      "en": {
+        "dm26-mandalas": "Mandalas of Remembrance",
+        "dm26-magic": "Patchwork Memories"
+      },
+      "pt": {
+        "dm26-mandalas": "Mandalas da lembrança",
+        "dm26-magic": "Memórias em patchwork"
+      },
+      "fr": {
+        "dm26-mandalas": "Mandalas du souvenir",
+        "dm26-magic": "Souvenirs en patchwork"
+      },
+      "it": {
+        "dm26-mandalas": "Mandala del ricordo",
+        "dm26-magic": "Ricordi patchwork"
+      },
+      "ja": {
+        "dm26-mandalas": "思い出のマンダラ",
+        "dm26-magic": "パッチワークの思い出"
+      },
+      "de": {
+        "dm26-mandalas": "Mandalas der Erinnerung",
+        "dm26-magic": "Patchwork-Erinnerungen"
+      },
+      "vi": {
+        "dm26-mandalas": "Mandala tưởng nhớ",
+        "dm26-magic": "Ký ức vải ghép"
+      }
+    },
+    "illustration": {
+      "es": {
+        "dm26-illustrations": "Recuerdos en tinta"
+      },
+      "en": {
+        "dm26-illustrations": "Memories in Ink"
+      },
+      "pt": {
+        "dm26-illustrations": "Memórias em tinta"
+      },
+      "fr": {
+        "dm26-illustrations": "Souvenirs à l’encre"
+      },
+      "it": {
+        "dm26-illustrations": "Ricordi a inchiostro"
+      },
+      "ja": {
+        "dm26-illustrations": "インクで描く思い出"
+      },
+      "de": {
+        "dm26-illustrations": "Erinnerungen in Tinte"
+      },
+      "vi": {
+        "dm26-illustrations": "Ký ức bằng mực"
+      }
+    }
+  },
+  "mandalaImages": [
+    {
+      "id": "dm26_mandala_calavera_floral",
+      "cat": "dm26-mandalas",
+      "name": "Calavera floral",
+      "src": "mandala/dm26_mandala_calavera_floral.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_illustration_xolo_ofrenda",
+      "cat": "dm26-illustrations",
+      "name": "Xolo junto a la ofrenda",
+      "src": "mandala/dm26_illustration_xolo_ofrenda.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_retro_guitarra_recuerdo",
+      "cat": "dm26-illustrations",
+      "name": "La guitarra del recuerdo",
+      "src": "mandala/dm26_retro_guitarra_recuerdo.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_retro_catrina_elegante",
+      "cat": "dm26-illustrations",
+      "name": "La Catrina elegante",
+      "src": "mandala/dm26_retro_catrina_elegante.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_magic_ajolote_patchwork",
+      "cat": "dm26-magic",
+      "name": "El ajolote de los recuerdos",
+      "src": "magic/dm26_magic_ajolote_patchwork-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_ajolote_patchwork-color.webp"
+    },
+    {
+      "id": "dm26_mandala_corazon",
+      "cat": "dm26-mandalas",
+      "name": "Corazón del recuerdo",
+      "src": "mandala/dm26_mandala_corazon.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_cempasuchil",
+      "cat": "dm26-mandalas",
+      "name": "Cempasúchil radiante",
+      "src": "mandala/dm26_mandala_cempasuchil.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_papel_picado",
+      "cat": "dm26-mandalas",
+      "name": "Estrella de papel picado",
+      "src": "mandala/dm26_mandala_papel_picado.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_velas",
+      "cat": "dm26-mandalas",
+      "name": "Luz de las velas",
+      "src": "mandala/dm26_mandala_velas.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_talavera",
+      "cat": "dm26-mandalas",
+      "name": "Talavera del recuerdo",
+      "src": "mandala/dm26_mandala_talavera.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_espiral_copal",
+      "cat": "dm26-mandalas",
+      "name": "Espirales de copal",
+      "src": "mandala/dm26_mandala_espiral_copal.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_abanicos",
+      "cat": "dm26-mandalas",
+      "name": "Abanicos de memoria",
+      "src": "mandala/dm26_mandala_abanicos.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_mandala_sol_luna",
+      "cat": "dm26-mandalas",
+      "name": "Sol y luna del recuerdo",
+      "src": "mandala/dm26_mandala_sol_luna.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "dm26_illustration_pan_muerto",
+      "cat": "dm26-illustrations",
+      "name": "Pan del recuerdo",
+      "src": "mandala/dm26_illustration_pan_muerto.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_illustration_monarca",
+      "cat": "dm26-illustrations",
+      "name": "El viaje de la monarca",
+      "src": "mandala/dm26_illustration_monarca.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_illustration_campanario",
+      "cat": "dm26-illustrations",
+      "name": "Campanas de noviembre",
+      "src": "mandala/dm26_illustration_campanario.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_illustration_copalero",
+      "cat": "dm26-illustrations",
+      "name": "Aroma de copal",
+      "src": "mandala/dm26_illustration_copalero.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_illustration_tejedora",
+      "cat": "dm26-illustrations",
+      "name": "La tejedora de memorias",
+      "src": "mandala/dm26_illustration_tejedora.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_illustration_alebrije_pez",
+      "cat": "dm26-illustrations",
+      "name": "El pez de los sueños",
+      "src": "mandala/dm26_illustration_alebrije_pez.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "dm26_magic_colibri",
+      "cat": "dm26-magic",
+      "name": "Colibrí de los recuerdos",
+      "src": "magic/dm26_magic_colibri-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_colibri-color.webp"
+    },
+    {
+      "id": "dm26_magic_jaguar",
+      "cat": "dm26-magic",
+      "name": "Jaguar entre retazos",
+      "src": "magic/dm26_magic_jaguar-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_jaguar-color.webp"
+    },
+    {
+      "id": "dm26_magic_buho",
+      "cat": "dm26-magic",
+      "name": "Búho de la noche",
+      "src": "magic/dm26_magic_buho-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_buho-color.webp"
+    },
+    {
+      "id": "dm26_magic_liebre",
+      "cat": "dm26-magic",
+      "name": "Liebre entre bordados",
+      "src": "magic/dm26_magic_liebre-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_liebre-color.webp"
+    },
+    {
+      "id": "dm26_magic_coati",
+      "cat": "dm26-magic",
+      "name": "Coatí del patio",
+      "src": "magic/dm26_magic_coati-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_coati-color.webp"
+    },
+    {
+      "id": "dm26_magic_tortuga",
+      "cat": "dm26-magic",
+      "name": "Tortuga de retazos",
+      "src": "magic/dm26_magic_tortuga-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_tortuga-color.webp"
+    },
+    {
+      "id": "dm26_magic_iguana",
+      "cat": "dm26-magic",
+      "name": "Iguana al sol",
+      "src": "magic/dm26_magic_iguana-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_iguana-color.webp"
+    },
+    {
+      "id": "dm26_magic_nutria",
+      "cat": "dm26-magic",
+      "name": "Nutria del canal",
+      "src": "magic/dm26_magic_nutria-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/dm26_magic_nutria-color.webp"
+    }
+  ],
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Calavera floral",
+        "dm26_illustration_xolo_ofrenda": "Xolo junto a la ofrenda",
+        "dm26_retro_guitarra_recuerdo": "La guitarra del recuerdo",
+        "dm26_retro_catrina_elegante": "La Catrina elegante",
+        "dm26_magic_ajolote_patchwork": "El ajolote de los recuerdos",
+        "dm26_mandala_corazon": "Corazón del recuerdo",
+        "dm26_mandala_cempasuchil": "Cempasúchil radiante",
+        "dm26_mandala_papel_picado": "Estrella de papel picado",
+        "dm26_mandala_velas": "Luz de las velas",
+        "dm26_mandala_talavera": "Talavera del recuerdo",
+        "dm26_mandala_espiral_copal": "Espirales de copal",
+        "dm26_mandala_abanicos": "Abanicos de memoria",
+        "dm26_mandala_sol_luna": "Sol y luna del recuerdo",
+        "dm26_illustration_pan_muerto": "Pan del recuerdo",
+        "dm26_illustration_monarca": "El viaje de la monarca",
+        "dm26_illustration_campanario": "Campanas de noviembre",
+        "dm26_illustration_copalero": "Aroma de copal",
+        "dm26_illustration_tejedora": "La tejedora de memorias",
+        "dm26_illustration_alebrije_pez": "El pez de los sueños",
+        "dm26_magic_colibri": "Colibrí de los recuerdos",
+        "dm26_magic_jaguar": "Jaguar entre retazos",
+        "dm26_magic_buho": "Búho de la noche",
+        "dm26_magic_liebre": "Liebre entre bordados",
+        "dm26_magic_coati": "Coatí del patio",
+        "dm26_magic_tortuga": "Tortuga de retazos",
+        "dm26_magic_iguana": "Iguana al sol",
+        "dm26_magic_nutria": "Nutria del canal"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Floral Sugar Skull",
+        "dm26_illustration_xolo_ofrenda": "Xolo by the Offering Altar",
+        "dm26_retro_guitarra_recuerdo": "The Guitar of Remembrance",
+        "dm26_retro_catrina_elegante": "The Elegant Catrina",
+        "dm26_magic_ajolote_patchwork": "The Axolotl of Memories",
+        "dm26_mandala_corazon": "Heart of Remembrance",
+        "dm26_mandala_cempasuchil": "Radiant Marigold",
+        "dm26_mandala_papel_picado": "Papel Picado Star",
+        "dm26_mandala_velas": "Candlelight",
+        "dm26_mandala_talavera": "Talavera of Remembrance",
+        "dm26_mandala_espiral_copal": "Copal Spirals",
+        "dm26_mandala_abanicos": "Fans of Memory",
+        "dm26_mandala_sol_luna": "Sun and Moon of Remembrance",
+        "dm26_illustration_pan_muerto": "Bread of Remembrance",
+        "dm26_illustration_monarca": "The Monarch’s Journey",
+        "dm26_illustration_campanario": "November Bells",
+        "dm26_illustration_copalero": "Scent of Copal",
+        "dm26_illustration_tejedora": "The Weaver of Memories",
+        "dm26_illustration_alebrije_pez": "The Fish of Dreams",
+        "dm26_magic_colibri": "Hummingbird of Memories",
+        "dm26_magic_jaguar": "Jaguar Among Patches",
+        "dm26_magic_buho": "Owl of the Night",
+        "dm26_magic_liebre": "Hare Among Embroidery",
+        "dm26_magic_coati": "Courtyard Coati",
+        "dm26_magic_tortuga": "Patchwork Turtle",
+        "dm26_magic_iguana": "Iguana in the Sun",
+        "dm26_magic_nutria": "Canal Otter"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Caveira floral",
+        "dm26_illustration_xolo_ofrenda": "Xolo junto ao altar de oferendas",
+        "dm26_retro_guitarra_recuerdo": "A guitarra da lembrança",
+        "dm26_retro_catrina_elegante": "A Catrina elegante",
+        "dm26_magic_ajolote_patchwork": "O axolote das memórias",
+        "dm26_mandala_corazon": "Coração da lembrança",
+        "dm26_mandala_cempasuchil": "Cempasúchil radiante",
+        "dm26_mandala_papel_picado": "Estrela de papel picado",
+        "dm26_mandala_velas": "Luz das velas",
+        "dm26_mandala_talavera": "Talavera da lembrança",
+        "dm26_mandala_espiral_copal": "Espirais de copal",
+        "dm26_mandala_abanicos": "Leques da memória",
+        "dm26_mandala_sol_luna": "Sol e lua da lembrança",
+        "dm26_illustration_pan_muerto": "Pão da lembrança",
+        "dm26_illustration_monarca": "A viagem da monarca",
+        "dm26_illustration_campanario": "Sinos de novembro",
+        "dm26_illustration_copalero": "Aroma de copal",
+        "dm26_illustration_tejedora": "A tecelã de memórias",
+        "dm26_illustration_alebrije_pez": "O peixe dos sonhos",
+        "dm26_magic_colibri": "Beija-flor das memórias",
+        "dm26_magic_jaguar": "Onça entre retalhos",
+        "dm26_magic_buho": "Coruja da noite",
+        "dm26_magic_liebre": "Lebre entre bordados",
+        "dm26_magic_coati": "Quati do pátio",
+        "dm26_magic_tortuga": "Tartaruga de retalhos",
+        "dm26_magic_iguana": "Iguana ao sol",
+        "dm26_magic_nutria": "Lontra do canal"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Calavera fleurie",
+        "dm26_illustration_xolo_ofrenda": "Xolo près de l’autel des offrandes",
+        "dm26_retro_guitarra_recuerdo": "La guitare du souvenir",
+        "dm26_retro_catrina_elegante": "L’élégante Catrina",
+        "dm26_magic_ajolote_patchwork": "L’axolotl des souvenirs",
+        "dm26_mandala_corazon": "Cœur du souvenir",
+        "dm26_mandala_cempasuchil": "Rose d’Inde rayonnante",
+        "dm26_mandala_papel_picado": "Étoile de papier découpé",
+        "dm26_mandala_velas": "Lumière des bougies",
+        "dm26_mandala_talavera": "Talavera du souvenir",
+        "dm26_mandala_espiral_copal": "Spirales de copal",
+        "dm26_mandala_abanicos": "Éventails de mémoire",
+        "dm26_mandala_sol_luna": "Soleil et lune du souvenir",
+        "dm26_illustration_pan_muerto": "Pain du souvenir",
+        "dm26_illustration_monarca": "Le voyage du monarque",
+        "dm26_illustration_campanario": "Cloches de novembre",
+        "dm26_illustration_copalero": "Parfum de copal",
+        "dm26_illustration_tejedora": "La tisseuse de souvenirs",
+        "dm26_illustration_alebrije_pez": "Le poisson des rêves",
+        "dm26_magic_colibri": "Colibri des souvenirs",
+        "dm26_magic_jaguar": "Jaguar parmi les tissus",
+        "dm26_magic_buho": "Hibou de la nuit",
+        "dm26_magic_liebre": "Lièvre parmi les broderies",
+        "dm26_magic_coati": "Coati du patio",
+        "dm26_magic_tortuga": "Tortue en patchwork",
+        "dm26_magic_iguana": "Iguane au soleil",
+        "dm26_magic_nutria": "Loutre du canal"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Teschio floreale",
+        "dm26_illustration_xolo_ofrenda": "Xolo accanto all’altare delle offerte",
+        "dm26_retro_guitarra_recuerdo": "La chitarra del ricordo",
+        "dm26_retro_catrina_elegante": "La Catrina elegante",
+        "dm26_magic_ajolote_patchwork": "L’axolotl dei ricordi",
+        "dm26_mandala_corazon": "Cuore del ricordo",
+        "dm26_mandala_cempasuchil": "Tagete radioso",
+        "dm26_mandala_papel_picado": "Stella di carta ritagliata",
+        "dm26_mandala_velas": "Luce delle candele",
+        "dm26_mandala_talavera": "Talavera del ricordo",
+        "dm26_mandala_espiral_copal": "Spirali di copale",
+        "dm26_mandala_abanicos": "Ventagli della memoria",
+        "dm26_mandala_sol_luna": "Sole e luna del ricordo",
+        "dm26_illustration_pan_muerto": "Pane del ricordo",
+        "dm26_illustration_monarca": "Il viaggio della monarca",
+        "dm26_illustration_campanario": "Campane di novembre",
+        "dm26_illustration_copalero": "Profumo di copale",
+        "dm26_illustration_tejedora": "La tessitrice di ricordi",
+        "dm26_illustration_alebrije_pez": "Il pesce dei sogni",
+        "dm26_magic_colibri": "Colibrì dei ricordi",
+        "dm26_magic_jaguar": "Giaguaro tra le toppe",
+        "dm26_magic_buho": "Gufo della notte",
+        "dm26_magic_liebre": "Lepre tra i ricami",
+        "dm26_magic_coati": "Coati del cortile",
+        "dm26_magic_tortuga": "Tartaruga patchwork",
+        "dm26_magic_iguana": "Iguana al sole",
+        "dm26_magic_nutria": "Lontra del canale"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "花のカラベラ",
+        "dm26_illustration_xolo_ofrenda": "供物の祭壇とショロ",
+        "dm26_retro_guitarra_recuerdo": "思い出のギター",
+        "dm26_retro_catrina_elegante": "優雅なカトリーナ",
+        "dm26_magic_ajolote_patchwork": "思い出のアホロートル",
+        "dm26_mandala_corazon": "追憶のハート",
+        "dm26_mandala_cempasuchil": "輝くマリーゴールド",
+        "dm26_mandala_papel_picado": "切り紙の星",
+        "dm26_mandala_velas": "ろうそくの光",
+        "dm26_mandala_talavera": "追憶のタラベラ",
+        "dm26_mandala_espiral_copal": "コパルの渦",
+        "dm26_mandala_abanicos": "思い出の扇",
+        "dm26_mandala_sol_luna": "追憶の太陽と月",
+        "dm26_illustration_pan_muerto": "追憶のパン",
+        "dm26_illustration_monarca": "オオカバマダラの旅",
+        "dm26_illustration_campanario": "十一月の鐘",
+        "dm26_illustration_copalero": "コパルの香り",
+        "dm26_illustration_tejedora": "思い出を織る人",
+        "dm26_illustration_alebrije_pez": "夢の魚",
+        "dm26_magic_colibri": "思い出のハチドリ",
+        "dm26_magic_jaguar": "布切れの中のジャガー",
+        "dm26_magic_buho": "夜のフクロウ",
+        "dm26_magic_liebre": "刺繍の中のノウサギ",
+        "dm26_magic_coati": "中庭のハナグマ",
+        "dm26_magic_tortuga": "パッチワークのカメ",
+        "dm26_magic_iguana": "日向のイグアナ",
+        "dm26_magic_nutria": "運河のカワウソ"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Blumen-Calavera",
+        "dm26_illustration_xolo_ofrenda": "Xolo am Opferaltar",
+        "dm26_retro_guitarra_recuerdo": "Die Gitarre der Erinnerung",
+        "dm26_retro_catrina_elegante": "Die elegante Catrina",
+        "dm26_magic_ajolote_patchwork": "Der Axolotl der Erinnerungen",
+        "dm26_mandala_corazon": "Herz der Erinnerung",
+        "dm26_mandala_cempasuchil": "Strahlende Studentenblume",
+        "dm26_mandala_papel_picado": "Stern aus Scherenschnitt",
+        "dm26_mandala_velas": "Kerzenlicht",
+        "dm26_mandala_talavera": "Talavera der Erinnerung",
+        "dm26_mandala_espiral_copal": "Kopalspiralen",
+        "dm26_mandala_abanicos": "Fächer der Erinnerung",
+        "dm26_mandala_sol_luna": "Sonne und Mond der Erinnerung",
+        "dm26_illustration_pan_muerto": "Brot der Erinnerung",
+        "dm26_illustration_monarca": "Die Reise des Monarchfalters",
+        "dm26_illustration_campanario": "Novemberglocken",
+        "dm26_illustration_copalero": "Duft von Kopal",
+        "dm26_illustration_tejedora": "Die Weberin der Erinnerungen",
+        "dm26_illustration_alebrije_pez": "Der Fisch der Träume",
+        "dm26_magic_colibri": "Kolibri der Erinnerungen",
+        "dm26_magic_jaguar": "Jaguar zwischen Stoffstücken",
+        "dm26_magic_buho": "Eule der Nacht",
+        "dm26_magic_liebre": "Hase zwischen Stickereien",
+        "dm26_magic_coati": "Nasenbär im Innenhof",
+        "dm26_magic_tortuga": "Patchwork-Schildkröte",
+        "dm26_magic_iguana": "Leguan in der Sonne",
+        "dm26_magic_nutria": "Otter am Kanal"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "dm26_mandala_calavera_floral": "Đầu lâu hoa",
+        "dm26_illustration_xolo_ofrenda": "Chó Xolo bên bàn thờ lễ vật",
+        "dm26_retro_guitarra_recuerdo": "Cây đàn ghi-ta tưởng nhớ",
+        "dm26_retro_catrina_elegante": "Catrina thanh lịch",
+        "dm26_magic_ajolote_patchwork": "Kỳ nhông Mexico của ký ức",
+        "dm26_mandala_corazon": "Trái tim tưởng nhớ",
+        "dm26_mandala_cempasuchil": "Cúc vạn thọ rực rỡ",
+        "dm26_mandala_papel_picado": "Ngôi sao giấy cắt",
+        "dm26_mandala_velas": "Ánh nến",
+        "dm26_mandala_talavera": "Gốm Talavera tưởng nhớ",
+        "dm26_mandala_espiral_copal": "Vòng xoắn hương copal",
+        "dm26_mandala_abanicos": "Những chiếc quạt ký ức",
+        "dm26_mandala_sol_luna": "Mặt Trời và Mặt Trăng tưởng nhớ",
+        "dm26_illustration_pan_muerto": "Bánh mì tưởng nhớ",
+        "dm26_illustration_monarca": "Hành trình của bướm vua",
+        "dm26_illustration_campanario": "Tiếng chuông tháng Mười Một",
+        "dm26_illustration_copalero": "Hương copal",
+        "dm26_illustration_tejedora": "Người dệt ký ức",
+        "dm26_illustration_alebrije_pez": "Chú cá của những giấc mơ",
+        "dm26_magic_colibri": "Chim ruồi ký ức",
+        "dm26_magic_jaguar": "Báo đốm giữa những mảnh vải",
+        "dm26_magic_buho": "Cú đêm",
+        "dm26_magic_liebre": "Thỏ rừng giữa họa tiết thêu",
+        "dm26_magic_coati": "Coati trong sân",
+        "dm26_magic_tortuga": "Rùa chắp vải",
+        "dm26_magic_iguana": "Kỳ nhông dưới nắng",
+        "dm26_magic_nutria": "Rái cá bên kênh"
+      }
+    }
+  }
+}
