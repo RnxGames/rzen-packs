@@ -1,13 +1,15 @@
 {
   "id": "md-noir",
-  "v": 1,
+  "v": 2,
   "type": "mandala",
   "sections": {
     "mandala": [
       "noir-mandalas",
       "noir-reveal"
     ],
-    "illustration": [],
+    "illustration": [
+      "noir-illustrations"
+    ],
     "pbn": []
   },
   "cats": {
@@ -43,6 +45,32 @@
       "vi": {
         "noir-mandalas": "Những đêm Noir · Mandala",
         "noir-reveal": "Những đêm Noir · Khám phá"
+      }
+    },
+    "illustration": {
+      "es": {
+        "noir-illustrations": "Noches Noir · Ilustraciones"
+      },
+      "en": {
+        "noir-illustrations": "Noir Nights · Illustrations"
+      },
+      "pt": {
+        "noir-illustrations": "Noites Noir · Ilustrações"
+      },
+      "fr": {
+        "noir-illustrations": "Nuits Noir · Illustrations"
+      },
+      "it": {
+        "noir-illustrations": "Notti Noir · Illustrazioni"
+      },
+      "ja": {
+        "noir-illustrations": "Noirの夜 · イラスト"
+      },
+      "de": {
+        "noir-illustrations": "Noir-Nächte · Illustrationen"
+      },
+      "vi": {
+        "noir-illustrations": "Những đêm Noir · Tranh minh họa"
       }
     }
   },
@@ -236,6 +264,87 @@
         "reveal"
       ],
       "reveal": "reveal/noir_reveal_lunar_terrace.webp"
+    },
+    {
+      "id": "noir_illustration_office",
+      "cat": "noir-illustrations",
+      "name": "El despacho del detective",
+      "src": "mandala/noir_illustration_office.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_jazz",
+      "cat": "noir-illustrations",
+      "name": "Jazz bajo la luna",
+      "src": "mandala/noir_illustration_jazz.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_cinema",
+      "cat": "noir-illustrations",
+      "name": "El cine de medianoche",
+      "src": "mandala/noir_illustration_cinema.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_cafe",
+      "cat": "noir-illustrations",
+      "name": "Café bajo la lluvia",
+      "src": "mandala/noir_illustration_cafe.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_station",
+      "cat": "noir-illustrations",
+      "name": "El último tren",
+      "src": "mandala/noir_illustration_station.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_antiques",
+      "cat": "noir-illustrations",
+      "name": "Ecos del gramófono",
+      "src": "mandala/noir_illustration_antiques.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_bookshop",
+      "cat": "noir-illustrations",
+      "name": "La librería nocturna",
+      "src": "mandala/noir_illustration_bookshop.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_photography",
+      "cat": "noir-illustrations",
+      "name": "Retratos de la ciudad",
+      "src": "mandala/noir_illustration_photography.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "noir_illustration_clockmaker",
+      "cat": "noir-illustrations",
+      "name": "La hora del misterio",
+      "src": "mandala/noir_illustration_clockmaker.webp",
+      "modes": [
+        "illustration"
+      ]
     }
   ],
   "i18n": {
@@ -260,7 +369,16 @@
         "noir_reveal_night_tram": "Tranvía de luz",
         "noir_reveal_city_study": "Escritorio mirador",
         "noir_reveal_midnight_theater": "Teatro de medianoche",
-        "noir_reveal_lunar_terrace": "Terraza lunar"
+        "noir_reveal_lunar_terrace": "Terraza lunar",
+        "noir_illustration_office": "El despacho del detective",
+        "noir_illustration_jazz": "Jazz bajo la luna",
+        "noir_illustration_cinema": "El cine de medianoche",
+        "noir_illustration_cafe": "Café bajo la lluvia",
+        "noir_illustration_station": "El último tren",
+        "noir_illustration_antiques": "Ecos del gramófono",
+        "noir_illustration_bookshop": "La librería nocturna",
+        "noir_illustration_photography": "Retratos de la ciudad",
+        "noir_illustration_clockmaker": "La hora del misterio"
       }
     },
     "en": {
@@ -284,7 +402,16 @@
         "noir_reveal_night_tram": "Tram of light",
         "noir_reveal_city_study": "City-view study",
         "noir_reveal_midnight_theater": "Midnight theater",
-        "noir_reveal_lunar_terrace": "Moonlit terrace"
+        "noir_reveal_lunar_terrace": "Moonlit terrace",
+        "noir_illustration_office": "The Detective’s Office",
+        "noir_illustration_jazz": "Jazz Under the Moon",
+        "noir_illustration_cinema": "The Midnight Cinema",
+        "noir_illustration_cafe": "Coffee in the Rain",
+        "noir_illustration_station": "The Last Train",
+        "noir_illustration_antiques": "Echoes of the Gramophone",
+        "noir_illustration_bookshop": "The Night Bookshop",
+        "noir_illustration_photography": "Portraits of the City",
+        "noir_illustration_clockmaker": "The Hour of Mystery"
       }
     },
     "pt": {
@@ -308,7 +435,16 @@
         "noir_reveal_night_tram": "Bonde de luz",
         "noir_reveal_city_study": "Escritório com vista",
         "noir_reveal_midnight_theater": "Teatro da meia-noite",
-        "noir_reveal_lunar_terrace": "Terraço ao luar"
+        "noir_reveal_lunar_terrace": "Terraço ao luar",
+        "noir_illustration_office": "O escritório do detetive",
+        "noir_illustration_jazz": "Jazz sob a lua",
+        "noir_illustration_cinema": "O cinema da meia-noite",
+        "noir_illustration_cafe": "Café sob a chuva",
+        "noir_illustration_station": "O último trem",
+        "noir_illustration_antiques": "Ecos do gramofone",
+        "noir_illustration_bookshop": "A livraria noturna",
+        "noir_illustration_photography": "Retratos da cidade",
+        "noir_illustration_clockmaker": "A hora do mistério"
       }
     },
     "fr": {
@@ -332,7 +468,16 @@
         "noir_reveal_night_tram": "Tramway de lumière",
         "noir_reveal_city_study": "Bureau avec vue",
         "noir_reveal_midnight_theater": "Théâtre de minuit",
-        "noir_reveal_lunar_terrace": "Terrasse au clair de lune"
+        "noir_reveal_lunar_terrace": "Terrasse au clair de lune",
+        "noir_illustration_office": "Le bureau du détective",
+        "noir_illustration_jazz": "Jazz sous la lune",
+        "noir_illustration_cinema": "Le cinéma de minuit",
+        "noir_illustration_cafe": "Café sous la pluie",
+        "noir_illustration_station": "Le dernier train",
+        "noir_illustration_antiques": "Échos du gramophone",
+        "noir_illustration_bookshop": "La librairie nocturne",
+        "noir_illustration_photography": "Portraits de la ville",
+        "noir_illustration_clockmaker": "L’heure du mystère"
       }
     },
     "it": {
@@ -356,7 +501,16 @@
         "noir_reveal_night_tram": "Tram di luce",
         "noir_reveal_city_study": "Studio con vista",
         "noir_reveal_midnight_theater": "Teatro di mezzanotte",
-        "noir_reveal_lunar_terrace": "Terrazza al chiaro di luna"
+        "noir_reveal_lunar_terrace": "Terrazza al chiaro di luna",
+        "noir_illustration_office": "Lo studio del detective",
+        "noir_illustration_jazz": "Jazz sotto la luna",
+        "noir_illustration_cinema": "Il cinema di mezzanotte",
+        "noir_illustration_cafe": "Caffè sotto la pioggia",
+        "noir_illustration_station": "L’ultimo treno",
+        "noir_illustration_antiques": "Echi del grammofono",
+        "noir_illustration_bookshop": "La libreria notturna",
+        "noir_illustration_photography": "Ritratti della città",
+        "noir_illustration_clockmaker": "L’ora del mistero"
       }
     },
     "ja": {
@@ -380,7 +534,16 @@
         "noir_reveal_night_tram": "光の路面電車",
         "noir_reveal_city_study": "街を望む書斎",
         "noir_reveal_midnight_theater": "真夜中の劇場",
-        "noir_reveal_lunar_terrace": "月明かりのテラス"
+        "noir_reveal_lunar_terrace": "月明かりのテラス",
+        "noir_illustration_office": "探偵の書斎",
+        "noir_illustration_jazz": "月夜のジャズ",
+        "noir_illustration_cinema": "真夜中の映画館",
+        "noir_illustration_cafe": "雨の日のカフェ",
+        "noir_illustration_station": "最終列車",
+        "noir_illustration_antiques": "蓄音機の響き",
+        "noir_illustration_bookshop": "夜の本屋",
+        "noir_illustration_photography": "街のポートレート",
+        "noir_illustration_clockmaker": "謎の時刻"
       }
     },
     "de": {
@@ -404,7 +567,16 @@
         "noir_reveal_night_tram": "Straßenbahn im Licht",
         "noir_reveal_city_study": "Arbeitszimmer mit Aussicht",
         "noir_reveal_midnight_theater": "Mitternachtstheater",
-        "noir_reveal_lunar_terrace": "Mondterrasse"
+        "noir_reveal_lunar_terrace": "Mondterrasse",
+        "noir_illustration_office": "Das Detektivbüro",
+        "noir_illustration_jazz": "Jazz im Mondschein",
+        "noir_illustration_cinema": "Das Mitternachtskino",
+        "noir_illustration_cafe": "Kaffee im Regen",
+        "noir_illustration_station": "Der letzte Zug",
+        "noir_illustration_antiques": "Klänge des Grammophons",
+        "noir_illustration_bookshop": "Die nächtliche Buchhandlung",
+        "noir_illustration_photography": "Porträts der Stadt",
+        "noir_illustration_clockmaker": "Die Stunde des Geheimnisses"
       }
     },
     "vi": {
@@ -428,9 +600,17 @@
         "noir_reveal_night_tram": "Xe điện ánh sáng",
         "noir_reveal_city_study": "Bàn làm việc nhìn ra phố",
         "noir_reveal_midnight_theater": "Nhà hát lúc nửa đêm",
-        "noir_reveal_lunar_terrace": "Sân hiên dưới trăng"
+        "noir_reveal_lunar_terrace": "Sân hiên dưới trăng",
+        "noir_illustration_office": "Văn phòng thám tử",
+        "noir_illustration_jazz": "Jazz dưới ánh trăng",
+        "noir_illustration_cinema": "Rạp phim lúc nửa đêm",
+        "noir_illustration_cafe": "Cà phê trong mưa",
+        "noir_illustration_station": "Chuyến tàu cuối",
+        "noir_illustration_antiques": "Âm vang máy hát",
+        "noir_illustration_bookshop": "Hiệu sách về đêm",
+        "noir_illustration_photography": "Chân dung thành phố",
+        "noir_illustration_clockmaker": "Giờ của bí ẩn"
       }
     }
-  },
-  "name": "Noches Noir"
+  }
 }
