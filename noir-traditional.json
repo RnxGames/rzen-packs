@@ -1,0 +1,436 @@
+{
+  "id": "md-noir",
+  "v": 1,
+  "type": "mandala",
+  "sections": {
+    "mandala": [
+      "noir-mandalas",
+      "noir-reveal"
+    ],
+    "illustration": [],
+    "pbn": []
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "noir-mandalas": "Noches Noir · Mandalas",
+        "noir-reveal": "Noches Noir · Revelar"
+      },
+      "en": {
+        "noir-mandalas": "Noir Nights · Mandalas",
+        "noir-reveal": "Noir Nights · Reveal"
+      },
+      "pt": {
+        "noir-mandalas": "Noites Noir · Mandalas",
+        "noir-reveal": "Noites Noir · Revelar"
+      },
+      "fr": {
+        "noir-mandalas": "Nuits Noir · Mandalas",
+        "noir-reveal": "Nuits Noir · Révéler"
+      },
+      "it": {
+        "noir-mandalas": "Notti Noir · Mandala",
+        "noir-reveal": "Notti Noir · Rivela"
+      },
+      "ja": {
+        "noir-mandalas": "Noirの夜 · マンダラ",
+        "noir-reveal": "Noirの夜 · リビール"
+      },
+      "de": {
+        "noir-mandalas": "Noir-Nächte · Mandalas",
+        "noir-reveal": "Noir-Nächte · Enthüllen"
+      },
+      "vi": {
+        "noir-mandalas": "Những đêm Noir · Mandala",
+        "noir-reveal": "Những đêm Noir · Khám phá"
+      }
+    }
+  },
+  "mandalaImages": [
+    {
+      "id": "noir_city_moon_mandala",
+      "cat": "noir-mandalas",
+      "name": "Ciudad y luna",
+      "src": "mandala/noir_city_moon_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_city_reflections",
+      "cat": "noir-mandalas",
+      "name": "Reflejos de ciudad",
+      "src": "mandala/noir_city_reflections.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_city_arch",
+      "cat": "noir-mandalas",
+      "name": "Arco de la ciudad",
+      "src": "mandala/noir_city_arch.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_night_bridge",
+      "cat": "noir-mandalas",
+      "name": "Puente nocturno",
+      "src": "mandala/noir_night_bridge.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_starry_city",
+      "cat": "noir-mandalas",
+      "name": "Ciudad estrellada",
+      "src": "mandala/noir_starry_city.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_art_deco_street",
+      "cat": "noir-mandalas",
+      "name": "Calle Art Déco",
+      "src": "mandala/noir_art_deco_street.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_coffee_cinema",
+      "cat": "noir-mandalas",
+      "name": "Café y cine",
+      "src": "mandala/noir_coffee_cinema.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_skyscraper_rosette",
+      "cat": "noir-mandalas",
+      "name": "Roseta de rascacielos",
+      "src": "mandala/noir_skyscraper_rosette.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_skyline_moon",
+      "cat": "noir-mandalas",
+      "name": "Luna sobre la ciudad",
+      "src": "mandala/noir_skyline_moon.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_rooftop_detective",
+      "cat": "noir-mandalas",
+      "name": "Detective en la azotea",
+      "src": "mandala/noir_rooftop_detective.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "noir_reveal_window_silence",
+      "cat": "noir-reveal",
+      "name": "Silencio junto a la ventana",
+      "src": "reveal/noir_reveal_window_silence.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_window_silence.webp"
+    },
+    {
+      "id": "noir_reveal_rainy_reading",
+      "cat": "noir-reveal",
+      "name": "Lectura bajo la lluvia",
+      "src": "reveal/noir_reveal_rainy_reading.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_rainy_reading.webp"
+    },
+    {
+      "id": "noir_reveal_glowing_cafe",
+      "cat": "noir-reveal",
+      "name": "Café luminoso",
+      "src": "reveal/noir_reveal_glowing_cafe.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_glowing_cafe.webp"
+    },
+    {
+      "id": "noir_reveal_reading_corner",
+      "cat": "noir-reveal",
+      "name": "Rincón de lectura",
+      "src": "reveal/noir_reveal_reading_corner.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_reading_corner.webp"
+    },
+    {
+      "id": "noir_reveal_flower_balcony",
+      "cat": "noir-reveal",
+      "name": "Balcón florido",
+      "src": "reveal/noir_reveal_flower_balcony.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_flower_balcony.webp"
+    },
+    {
+      "id": "noir_reveal_rainy_avenue",
+      "cat": "noir-reveal",
+      "name": "Avenida lluviosa",
+      "src": "reveal/noir_reveal_rainy_avenue.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_rainy_avenue.webp"
+    },
+    {
+      "id": "noir_reveal_night_tram",
+      "cat": "noir-reveal",
+      "name": "Tranvía de luz",
+      "src": "reveal/noir_reveal_night_tram.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_night_tram.webp"
+    },
+    {
+      "id": "noir_reveal_city_study",
+      "cat": "noir-reveal",
+      "name": "Escritorio mirador",
+      "src": "reveal/noir_reveal_city_study.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_city_study.webp"
+    },
+    {
+      "id": "noir_reveal_midnight_theater",
+      "cat": "noir-reveal",
+      "name": "Teatro de medianoche",
+      "src": "reveal/noir_reveal_midnight_theater.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_midnight_theater.webp"
+    },
+    {
+      "id": "noir_reveal_lunar_terrace",
+      "cat": "noir-reveal",
+      "name": "Terraza lunar",
+      "src": "reveal/noir_reveal_lunar_terrace.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/noir_reveal_lunar_terrace.webp"
+    }
+  ],
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Ciudad y luna",
+        "noir_city_reflections": "Reflejos de ciudad",
+        "noir_city_arch": "Arco de la ciudad",
+        "noir_night_bridge": "Puente nocturno",
+        "noir_starry_city": "Ciudad estrellada",
+        "noir_art_deco_street": "Calle Art Déco",
+        "noir_coffee_cinema": "Café y cine",
+        "noir_skyscraper_rosette": "Roseta de rascacielos",
+        "noir_skyline_moon": "Luna sobre la ciudad",
+        "noir_rooftop_detective": "Detective en la azotea",
+        "noir_reveal_window_silence": "Silencio junto a la ventana",
+        "noir_reveal_rainy_reading": "Lectura bajo la lluvia",
+        "noir_reveal_glowing_cafe": "Café luminoso",
+        "noir_reveal_reading_corner": "Rincón de lectura",
+        "noir_reveal_flower_balcony": "Balcón florido",
+        "noir_reveal_rainy_avenue": "Avenida lluviosa",
+        "noir_reveal_night_tram": "Tranvía de luz",
+        "noir_reveal_city_study": "Escritorio mirador",
+        "noir_reveal_midnight_theater": "Teatro de medianoche",
+        "noir_reveal_lunar_terrace": "Terraza lunar"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "noir_city_moon_mandala": "City and moon",
+        "noir_city_reflections": "City reflections",
+        "noir_city_arch": "City arch",
+        "noir_night_bridge": "Night bridge",
+        "noir_starry_city": "Starry city",
+        "noir_art_deco_street": "Art Deco street",
+        "noir_coffee_cinema": "Coffee and cinema",
+        "noir_skyscraper_rosette": "Skyscraper rosette",
+        "noir_skyline_moon": "Moon over the city",
+        "noir_rooftop_detective": "Rooftop detective",
+        "noir_reveal_window_silence": "Silence by the window",
+        "noir_reveal_rainy_reading": "Reading in the rain",
+        "noir_reveal_glowing_cafe": "Glowing café",
+        "noir_reveal_reading_corner": "Reading corner",
+        "noir_reveal_flower_balcony": "Flower balcony",
+        "noir_reveal_rainy_avenue": "Rainy avenue",
+        "noir_reveal_night_tram": "Tram of light",
+        "noir_reveal_city_study": "City-view study",
+        "noir_reveal_midnight_theater": "Midnight theater",
+        "noir_reveal_lunar_terrace": "Moonlit terrace"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Cidade e lua",
+        "noir_city_reflections": "Reflexos da cidade",
+        "noir_city_arch": "Arco da cidade",
+        "noir_night_bridge": "Ponte noturna",
+        "noir_starry_city": "Cidade estrelada",
+        "noir_art_deco_street": "Rua Art Déco",
+        "noir_coffee_cinema": "Café e cinema",
+        "noir_skyscraper_rosette": "Rosácea de arranha-céus",
+        "noir_skyline_moon": "Lua sobre a cidade",
+        "noir_rooftop_detective": "Detetive no terraço",
+        "noir_reveal_window_silence": "Silêncio à janela",
+        "noir_reveal_rainy_reading": "Leitura na chuva",
+        "noir_reveal_glowing_cafe": "Café iluminado",
+        "noir_reveal_reading_corner": "Cantinho de leitura",
+        "noir_reveal_flower_balcony": "Varanda florida",
+        "noir_reveal_rainy_avenue": "Avenida chuvosa",
+        "noir_reveal_night_tram": "Bonde de luz",
+        "noir_reveal_city_study": "Escritório com vista",
+        "noir_reveal_midnight_theater": "Teatro da meia-noite",
+        "noir_reveal_lunar_terrace": "Terraço ao luar"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Ville et lune",
+        "noir_city_reflections": "Reflets de la ville",
+        "noir_city_arch": "Arche de la ville",
+        "noir_night_bridge": "Pont de nuit",
+        "noir_starry_city": "Ville étoilée",
+        "noir_art_deco_street": "Rue Art déco",
+        "noir_coffee_cinema": "Café et cinéma",
+        "noir_skyscraper_rosette": "Rosace de gratte-ciel",
+        "noir_skyline_moon": "Lune sur la ville",
+        "noir_rooftop_detective": "Détective sur le toit",
+        "noir_reveal_window_silence": "Silence à la fenêtre",
+        "noir_reveal_rainy_reading": "Lecture sous la pluie",
+        "noir_reveal_glowing_cafe": "Café lumineux",
+        "noir_reveal_reading_corner": "Coin lecture",
+        "noir_reveal_flower_balcony": "Balcon fleuri",
+        "noir_reveal_rainy_avenue": "Avenue pluvieuse",
+        "noir_reveal_night_tram": "Tramway de lumière",
+        "noir_reveal_city_study": "Bureau avec vue",
+        "noir_reveal_midnight_theater": "Théâtre de minuit",
+        "noir_reveal_lunar_terrace": "Terrasse au clair de lune"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Città e luna",
+        "noir_city_reflections": "Riflessi della città",
+        "noir_city_arch": "Arco della città",
+        "noir_night_bridge": "Ponte notturno",
+        "noir_starry_city": "Città stellata",
+        "noir_art_deco_street": "Via Art Déco",
+        "noir_coffee_cinema": "Caffè e cinema",
+        "noir_skyscraper_rosette": "Rosone di grattacieli",
+        "noir_skyline_moon": "Luna sulla città",
+        "noir_rooftop_detective": "Detective sul tetto",
+        "noir_reveal_window_silence": "Silenzio alla finestra",
+        "noir_reveal_rainy_reading": "Lettura sotto la pioggia",
+        "noir_reveal_glowing_cafe": "Caffè luminoso",
+        "noir_reveal_reading_corner": "Angolo di lettura",
+        "noir_reveal_flower_balcony": "Balcone fiorito",
+        "noir_reveal_rainy_avenue": "Viale piovoso",
+        "noir_reveal_night_tram": "Tram di luce",
+        "noir_reveal_city_study": "Studio con vista",
+        "noir_reveal_midnight_theater": "Teatro di mezzanotte",
+        "noir_reveal_lunar_terrace": "Terrazza al chiaro di luna"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "noir_city_moon_mandala": "街と月",
+        "noir_city_reflections": "街の反射",
+        "noir_city_arch": "街のアーチ",
+        "noir_night_bridge": "夜の橋",
+        "noir_starry_city": "星空の街",
+        "noir_art_deco_street": "アールデコの通り",
+        "noir_coffee_cinema": "コーヒーと映画",
+        "noir_skyscraper_rosette": "摩天楼のロゼット",
+        "noir_skyline_moon": "街に浮かぶ月",
+        "noir_rooftop_detective": "屋上の探偵",
+        "noir_reveal_window_silence": "窓辺の静けさ",
+        "noir_reveal_rainy_reading": "雨の日の読書",
+        "noir_reveal_glowing_cafe": "光るカフェ",
+        "noir_reveal_reading_corner": "読書の一角",
+        "noir_reveal_flower_balcony": "花のバルコニー",
+        "noir_reveal_rainy_avenue": "雨の大通り",
+        "noir_reveal_night_tram": "光の路面電車",
+        "noir_reveal_city_study": "街を望む書斎",
+        "noir_reveal_midnight_theater": "真夜中の劇場",
+        "noir_reveal_lunar_terrace": "月明かりのテラス"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Stadt und Mond",
+        "noir_city_reflections": "Spiegelungen der Stadt",
+        "noir_city_arch": "Stadtbogen",
+        "noir_night_bridge": "Nachtbrücke",
+        "noir_starry_city": "Sternenstadt",
+        "noir_art_deco_street": "Art-déco-Straße",
+        "noir_coffee_cinema": "Kaffee und Kino",
+        "noir_skyscraper_rosette": "Wolkenkratzerrosette",
+        "noir_skyline_moon": "Mond über der Stadt",
+        "noir_rooftop_detective": "Detektiv auf dem Dach",
+        "noir_reveal_window_silence": "Stille am Fenster",
+        "noir_reveal_rainy_reading": "Lesen im Regen",
+        "noir_reveal_glowing_cafe": "Leuchtendes Café",
+        "noir_reveal_reading_corner": "Leseecke",
+        "noir_reveal_flower_balcony": "Blumenbalkon",
+        "noir_reveal_rainy_avenue": "Regnerische Allee",
+        "noir_reveal_night_tram": "Straßenbahn im Licht",
+        "noir_reveal_city_study": "Arbeitszimmer mit Aussicht",
+        "noir_reveal_midnight_theater": "Mitternachtstheater",
+        "noir_reveal_lunar_terrace": "Mondterrasse"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "noir_city_moon_mandala": "Thành phố và mặt trăng",
+        "noir_city_reflections": "Bóng thành phố",
+        "noir_city_arch": "Vòm thành phố",
+        "noir_night_bridge": "Cầu đêm",
+        "noir_starry_city": "Thành phố đầy sao",
+        "noir_art_deco_street": "Phố Art Deco",
+        "noir_coffee_cinema": "Cà phê và điện ảnh",
+        "noir_skyscraper_rosette": "Hoa văn nhà chọc trời",
+        "noir_skyline_moon": "Trăng trên thành phố",
+        "noir_rooftop_detective": "Thám tử trên sân thượng",
+        "noir_reveal_window_silence": "Yên tĩnh bên cửa sổ",
+        "noir_reveal_rainy_reading": "Đọc sách trong mưa",
+        "noir_reveal_glowing_cafe": "Quán cà phê lung linh",
+        "noir_reveal_reading_corner": "Góc đọc sách",
+        "noir_reveal_flower_balcony": "Ban công hoa",
+        "noir_reveal_rainy_avenue": "Đại lộ trong mưa",
+        "noir_reveal_night_tram": "Xe điện ánh sáng",
+        "noir_reveal_city_study": "Bàn làm việc nhìn ra phố",
+        "noir_reveal_midnight_theater": "Nhà hát lúc nửa đêm",
+        "noir_reveal_lunar_terrace": "Sân hiên dưới trăng"
+      }
+    }
+  },
+  "name": "Noches Noir"
+}
