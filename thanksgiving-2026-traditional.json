@@ -1,0 +1,332 @@
+{
+  "id": "md-thanksgiving-2026",
+  "v": 1,
+  "type": "mandala",
+  "sections": {
+    "mandala": [
+      "tg26-mandalas",
+      "tg26-reveal",
+      "tg26-magic"
+    ],
+    "illustration": [
+      "tg26-illustrations"
+    ],
+    "pbn": []
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "tg26-mandalas": "Mandalas de Acción de Gracias",
+        "tg26-reveal": "Acción de Gracias · Revelar",
+        "tg26-magic": "Acción de Gracias · Color mágico"
+      },
+      "en": {
+        "tg26-mandalas": "Thanksgiving Mandalas",
+        "tg26-reveal": "Thanksgiving · Reveal",
+        "tg26-magic": "Thanksgiving · Magic Color"
+      },
+      "pt": {
+        "tg26-mandalas": "Mandalas de Ação de Graças",
+        "tg26-reveal": "Ação de Graças · Revelar",
+        "tg26-magic": "Ação de Graças · Cor mágica"
+      },
+      "fr": {
+        "tg26-mandalas": "Mandalas de l'Action de grâce",
+        "tg26-reveal": "Action de grâce · Révéler",
+        "tg26-magic": "Action de grâce · Couleur magique"
+      },
+      "it": {
+        "tg26-mandalas": "Mandala del Ringraziamento",
+        "tg26-reveal": "Ringraziamento · Rivela",
+        "tg26-magic": "Ringraziamento · Colore magico"
+      },
+      "ja": {
+        "tg26-mandalas": "サンクスギビングのマンダラ",
+        "tg26-reveal": "サンクスギビング · リビール",
+        "tg26-magic": "サンクスギビング · 魔法の色"
+      },
+      "de": {
+        "tg26-mandalas": "Thanksgiving-Mandalas",
+        "tg26-reveal": "Thanksgiving · Enthüllen",
+        "tg26-magic": "Thanksgiving · Zauberfarbe"
+      },
+      "vi": {
+        "tg26-mandalas": "Mandala Lễ Tạ ơn",
+        "tg26-reveal": "Lễ Tạ ơn · Khám phá",
+        "tg26-magic": "Lễ Tạ ơn · Màu kỳ diệu"
+      }
+    },
+    "illustration": {
+      "es": {
+        "tg26-illustrations": "Ilustraciones de Acción de Gracias"
+      },
+      "en": {
+        "tg26-illustrations": "Thanksgiving Illustrations"
+      },
+      "pt": {
+        "tg26-illustrations": "Ilustrações de Ação de Graças"
+      },
+      "fr": {
+        "tg26-illustrations": "Illustrations de l'Action de grâce"
+      },
+      "it": {
+        "tg26-illustrations": "Illustrazioni del Ringraziamento"
+      },
+      "ja": {
+        "tg26-illustrations": "サンクスギビングのイラスト"
+      },
+      "de": {
+        "tg26-illustrations": "Thanksgiving-Illustrationen"
+      },
+      "vi": {
+        "tg26-illustrations": "Tranh minh họa Lễ Tạ ơn"
+      }
+    }
+  },
+  "mandalaImages": [
+    {
+      "id": "tg26_trad_cornucopia",
+      "cat": "tg26-mandalas",
+      "name": "Cornucopia de la cosecha",
+      "src": "mandala/tg26_trad_cornucopia.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "tg26_trad_harvest_farm",
+      "cat": "tg26-mandalas",
+      "name": "Granja de la cosecha",
+      "src": "mandala/tg26_trad_harvest_farm.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "tg26_trad_pie_pattern",
+      "cat": "tg26-mandalas",
+      "name": "Tartas y hojas de otoño",
+      "src": "mandala/tg26_trad_pie_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "tg26_illustration_family_dinner",
+      "cat": "tg26-illustrations",
+      "name": "Cena en familia",
+      "src": "mandala/tg26_illustration_family_dinner.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "tg26_illustration_fox_pie",
+      "cat": "tg26-illustrations",
+      "name": "Zorrito y la tarta de calabaza",
+      "src": "mandala/tg26_illustration_fox_pie.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "tg26_illustration_balloon_parade",
+      "cat": "tg26-illustrations",
+      "name": "Desfile de globos",
+      "src": "mandala/tg26_illustration_balloon_parade.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "tg26_reveal_cornucopia",
+      "cat": "tg26-reveal",
+      "name": "Cornucopia brillante",
+      "src": "reveal/tg26_reveal_cornucopia.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/tg26_reveal_cornucopia.webp"
+    },
+    {
+      "id": "tg26_reveal_turkey",
+      "cat": "tg26-reveal",
+      "name": "Pavo de plumas de colores",
+      "src": "reveal/tg26_reveal_turkey.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/tg26_reveal_turkey.webp"
+    },
+    {
+      "id": "tg26_reveal_autumn_wreath",
+      "cat": "tg26-reveal",
+      "name": "Corona de otoño",
+      "src": "reveal/tg26_reveal_autumn_wreath.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/tg26_reveal_autumn_wreath.webp"
+    },
+    {
+      "id": "tg26_magic_turkey_farm",
+      "cat": "tg26-magic",
+      "name": "Pavito en la granja",
+      "src": "magic/tg26_magic_turkey_farm-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/tg26_magic_turkey_farm-color.webp"
+    },
+    {
+      "id": "tg26_magic_friends_feast",
+      "cat": "tg26-magic",
+      "name": "Banquete de amigos",
+      "src": "magic/tg26_magic_friends_feast-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/tg26_magic_friends_feast-color.webp"
+    },
+    {
+      "id": "tg26_magic_harvest_market",
+      "cat": "tg26-magic",
+      "name": "Mercado de la cosecha",
+      "src": "magic/tg26_magic_harvest_market-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/tg26_magic_harvest_market-color.webp"
+    }
+  ],
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Cornucopia de la cosecha",
+        "tg26_trad_harvest_farm": "Granja de la cosecha",
+        "tg26_trad_pie_pattern": "Tartas y hojas de otoño",
+        "tg26_illustration_family_dinner": "Cena en familia",
+        "tg26_illustration_fox_pie": "Zorrito y la tarta de calabaza",
+        "tg26_illustration_balloon_parade": "Desfile de globos",
+        "tg26_reveal_cornucopia": "Cornucopia brillante",
+        "tg26_reveal_turkey": "Pavo de plumas de colores",
+        "tg26_reveal_autumn_wreath": "Corona de otoño",
+        "tg26_magic_turkey_farm": "Pavito en la granja",
+        "tg26_magic_friends_feast": "Banquete de amigos",
+        "tg26_magic_harvest_market": "Mercado de la cosecha"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Harvest Cornucopia",
+        "tg26_trad_harvest_farm": "Harvest Farm",
+        "tg26_trad_pie_pattern": "Pies and Autumn Leaves",
+        "tg26_illustration_family_dinner": "Family Dinner",
+        "tg26_illustration_fox_pie": "Fox Bakes a Pumpkin Pie",
+        "tg26_illustration_balloon_parade": "Balloon Parade",
+        "tg26_reveal_cornucopia": "Glowing Cornucopia",
+        "tg26_reveal_turkey": "Rainbow-Feather Turkey",
+        "tg26_reveal_autumn_wreath": "Autumn Wreath",
+        "tg26_magic_turkey_farm": "Little Turkey on the Farm",
+        "tg26_magic_friends_feast": "Friends' Feast",
+        "tg26_magic_harvest_market": "Harvest Market"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Cornucópia da colheita",
+        "tg26_trad_harvest_farm": "Quinta da colheita",
+        "tg26_trad_pie_pattern": "Tartes e folhas de outono",
+        "tg26_illustration_family_dinner": "Jantar em família",
+        "tg26_illustration_fox_pie": "Raposinha e a tarte de abóbora",
+        "tg26_illustration_balloon_parade": "Desfile de balões",
+        "tg26_reveal_cornucopia": "Cornucópia brilhante",
+        "tg26_reveal_turkey": "Peru de penas coloridas",
+        "tg26_reveal_autumn_wreath": "Coroa de outono",
+        "tg26_magic_turkey_farm": "Peruzinho na quinta",
+        "tg26_magic_friends_feast": "Banquete de amigos",
+        "tg26_magic_harvest_market": "Mercado da colheita"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Corne d'abondance des récoltes",
+        "tg26_trad_harvest_farm": "Ferme des récoltes",
+        "tg26_trad_pie_pattern": "Tartes et feuilles d'automne",
+        "tg26_illustration_family_dinner": "Dîner en famille",
+        "tg26_illustration_fox_pie": "Renardeau et la tarte à la citrouille",
+        "tg26_illustration_balloon_parade": "Défilé de ballons",
+        "tg26_reveal_cornucopia": "Corne d'abondance lumineuse",
+        "tg26_reveal_turkey": "Dindon aux plumes colorées",
+        "tg26_reveal_autumn_wreath": "Couronne d'automne",
+        "tg26_magic_turkey_farm": "Petit dindon à la ferme",
+        "tg26_magic_friends_feast": "Festin entre amis",
+        "tg26_magic_harvest_market": "Marché des récoltes"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Cornucopia del raccolto",
+        "tg26_trad_harvest_farm": "Fattoria del raccolto",
+        "tg26_trad_pie_pattern": "Torte e foglie d'autunno",
+        "tg26_illustration_family_dinner": "Cena in famiglia",
+        "tg26_illustration_fox_pie": "Volpacchiotto e la torta di zucca",
+        "tg26_illustration_balloon_parade": "Parata di palloncini",
+        "tg26_reveal_cornucopia": "Cornucopia luminosa",
+        "tg26_reveal_turkey": "Tacchino dalle piume colorate",
+        "tg26_reveal_autumn_wreath": "Ghirlanda d'autunno",
+        "tg26_magic_turkey_farm": "Tacchinotto in fattoria",
+        "tg26_magic_friends_feast": "Banchetto tra amici",
+        "tg26_magic_harvest_market": "Mercato del raccolto"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "収穫の豊穣の角",
+        "tg26_trad_harvest_farm": "収穫の農場",
+        "tg26_trad_pie_pattern": "パイと秋の葉",
+        "tg26_illustration_family_dinner": "家族のディナー",
+        "tg26_illustration_fox_pie": "かぼちゃパイを焼くこぎつね",
+        "tg26_illustration_balloon_parade": "バルーンパレード",
+        "tg26_reveal_cornucopia": "輝く豊穣の角",
+        "tg26_reveal_turkey": "カラフルな羽の七面鳥",
+        "tg26_reveal_autumn_wreath": "秋のリース",
+        "tg26_magic_turkey_farm": "農場の子七面鳥",
+        "tg26_magic_friends_feast": "友だちのごちそう",
+        "tg26_magic_harvest_market": "収穫マーケット"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Füllhorn der Ernte",
+        "tg26_trad_harvest_farm": "Erntehof",
+        "tg26_trad_pie_pattern": "Kuchen und Herbstblätter",
+        "tg26_illustration_family_dinner": "Familienessen",
+        "tg26_illustration_fox_pie": "Füchschen backt Kürbiskuchen",
+        "tg26_illustration_balloon_parade": "Ballonparade",
+        "tg26_reveal_cornucopia": "Leuchtendes Füllhorn",
+        "tg26_reveal_turkey": "Truthahn mit bunten Federn",
+        "tg26_reveal_autumn_wreath": "Herbstkranz",
+        "tg26_magic_turkey_farm": "Truthähnchen auf dem Hof",
+        "tg26_magic_friends_feast": "Festmahl unter Freunden",
+        "tg26_magic_harvest_market": "Erntemarkt"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "tg26_trad_cornucopia": "Sừng sung túc mùa gặt",
+        "tg26_trad_harvest_farm": "Nông trại mùa gặt",
+        "tg26_trad_pie_pattern": "Bánh và lá thu",
+        "tg26_illustration_family_dinner": "Bữa tối gia đình",
+        "tg26_illustration_fox_pie": "Cáo con nướng bánh bí ngô",
+        "tg26_illustration_balloon_parade": "Diễu hành bóng bay",
+        "tg26_reveal_cornucopia": "Sừng sung túc rực rỡ",
+        "tg26_reveal_turkey": "Gà tây lông sặc sỡ",
+        "tg26_reveal_autumn_wreath": "Vòng hoa mùa thu",
+        "tg26_magic_turkey_farm": "Gà tây con ở nông trại",
+        "tg26_magic_friends_feast": "Bữa tiệc của bạn bè",
+        "tg26_magic_harvest_market": "Chợ mùa gặt"
+      }
+    }
+  }
+}

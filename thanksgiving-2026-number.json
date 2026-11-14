@@ -1,0 +1,174 @@
+{
+  "id": "nm-thanksgiving-2026",
+  "v": 1,
+  "type": "pbn",
+  "sections": {
+    "mandala": [],
+    "illustration": [],
+    "pbn": [
+      "tg26-number",
+      "vida"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "tg26-number": "Acción de Gracias por números",
+        "vida": "Cobra vida"
+      },
+      "en": {
+        "tg26-number": "Thanksgiving by Number",
+        "vida": "Comes Alive"
+      },
+      "pt": {
+        "tg26-number": "Ação de Graças por números",
+        "vida": "Ganha vida"
+      },
+      "fr": {
+        "tg26-number": "Action de grâce par numéros",
+        "vida": "Prend vie"
+      },
+      "it": {
+        "tg26-number": "Ringraziamento con i numeri",
+        "vida": "Prende vita"
+      },
+      "ja": {
+        "tg26-number": "ナンバーで塗るサンクスギビング",
+        "vida": "動きだす"
+      },
+      "de": {
+        "tg26-number": "Thanksgiving nach Zahlen",
+        "vida": "Wird lebendig"
+      },
+      "vi": {
+        "tg26-number": "Lễ Tạ ơn tô theo số",
+        "vida": "Sống động"
+      }
+    }
+  },
+  "pbnImages": [
+    {
+      "id": "tg26_pbn_pumpkin_pie",
+      "cat": "tg26-number",
+      "name": "Tarta de calabaza",
+      "colors": 32,
+      "bg": "#f3e5dc",
+      "data": "numero/tg26_pbn_pumpkin_pie.json",
+      "thumb": "numero/tg26_pbn_pumpkin_pie-thumb.png"
+    },
+    {
+      "id": "tg26_pbn_cornucopia",
+      "cat": "tg26-number",
+      "name": "Cornucopia",
+      "colors": 32,
+      "bg": "#f3e2db",
+      "data": "numero/tg26_pbn_cornucopia.json",
+      "thumb": "numero/tg26_pbn_cornucopia-thumb.png"
+    },
+    {
+      "id": "tg26_pbn_thanksgiving_table",
+      "cat": "tg26-number",
+      "name": "Mesa de Acción de Gracias",
+      "colors": 40,
+      "bg": "#efe1dd",
+      "data": "numero/tg26_pbn_thanksgiving_table.json",
+      "thumb": "numero/tg26_pbn_thanksgiving_table-thumb.png"
+    },
+    {
+      "id": "tg26_vida_turkey_wave",
+      "cat": "vida",
+      "name": "Pavito saludando",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/tg26_vida_turkey_wave-f0.json",
+      "thumb": "vida/tg26_vida_turkey_wave-thumb.webp",
+      "anim": "vida/tg26_vida_turkey_wave.pk.json"
+    },
+    {
+      "id": "tg26_vida_bear_cider",
+      "cat": "vida",
+      "name": "Osito con sidra caliente",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/tg26_vida_bear_cider-f0.json",
+      "thumb": "vida/tg26_vida_bear_cider-thumb.webp",
+      "anim": "vida/tg26_vida_bear_cider.pk.json"
+    },
+    {
+      "id": "tg26_vida_squirrel_acorn",
+      "cat": "vida",
+      "name": "Ardilla y su bellota",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/tg26_vida_squirrel_acorn-f0.json",
+      "thumb": "vida/tg26_vida_squirrel_acorn-thumb.webp",
+      "anim": "vida/tg26_vida_squirrel_acorn.pk.json"
+    }
+  ],
+  "pbnNames": {
+    "es": {
+      "tg26_pbn_pumpkin_pie": "Tarta de calabaza",
+      "tg26_pbn_cornucopia": "Cornucopia",
+      "tg26_pbn_thanksgiving_table": "Mesa de Acción de Gracias",
+      "tg26_vida_turkey_wave": "Pavito saludando",
+      "tg26_vida_bear_cider": "Osito con sidra caliente",
+      "tg26_vida_squirrel_acorn": "Ardilla y su bellota"
+    },
+    "en": {
+      "tg26_pbn_pumpkin_pie": "Pumpkin Pie",
+      "tg26_pbn_cornucopia": "Cornucopia",
+      "tg26_pbn_thanksgiving_table": "Thanksgiving Table",
+      "tg26_vida_turkey_wave": "Waving Little Turkey",
+      "tg26_vida_bear_cider": "Bear with Hot Cider",
+      "tg26_vida_squirrel_acorn": "Squirrel and Acorn"
+    },
+    "pt": {
+      "tg26_pbn_pumpkin_pie": "Tarte de abóbora",
+      "tg26_pbn_cornucopia": "Cornucópia",
+      "tg26_pbn_thanksgiving_table": "Mesa de Ação de Graças",
+      "tg26_vida_turkey_wave": "Peruzinho a acenar",
+      "tg26_vida_bear_cider": "Ursinho com sidra quente",
+      "tg26_vida_squirrel_acorn": "Esquilo e a bolota"
+    },
+    "fr": {
+      "tg26_pbn_pumpkin_pie": "Tarte à la citrouille",
+      "tg26_pbn_cornucopia": "Corne d'abondance",
+      "tg26_pbn_thanksgiving_table": "Table de l'Action de grâce",
+      "tg26_vida_turkey_wave": "Petit dindon qui salue",
+      "tg26_vida_bear_cider": "Ourson au cidre chaud",
+      "tg26_vida_squirrel_acorn": "Écureuil et son gland"
+    },
+    "it": {
+      "tg26_pbn_pumpkin_pie": "Torta di zucca",
+      "tg26_pbn_cornucopia": "Cornucopia",
+      "tg26_pbn_thanksgiving_table": "Tavola del Ringraziamento",
+      "tg26_vida_turkey_wave": "Tacchinotto che saluta",
+      "tg26_vida_bear_cider": "Orsetto con il sidro caldo",
+      "tg26_vida_squirrel_acorn": "Scoiattolo e la ghianda"
+    },
+    "ja": {
+      "tg26_pbn_pumpkin_pie": "かぼちゃパイ",
+      "tg26_pbn_cornucopia": "豊穣の角",
+      "tg26_pbn_thanksgiving_table": "サンクスギビングの食卓",
+      "tg26_vida_turkey_wave": "手をふる子七面鳥",
+      "tg26_vida_bear_cider": "ホットサイダーとこぐま",
+      "tg26_vida_squirrel_acorn": "どんぐりとリス"
+    },
+    "de": {
+      "tg26_pbn_pumpkin_pie": "Kürbiskuchen",
+      "tg26_pbn_cornucopia": "Füllhorn",
+      "tg26_pbn_thanksgiving_table": "Thanksgiving-Tafel",
+      "tg26_vida_turkey_wave": "Winkendes Truthähnchen",
+      "tg26_vida_bear_cider": "Bärchen mit heißem Apfelsaft",
+      "tg26_vida_squirrel_acorn": "Eichhörnchen mit Eichel"
+    },
+    "vi": {
+      "tg26_pbn_pumpkin_pie": "Bánh bí ngô",
+      "tg26_pbn_cornucopia": "Sừng sung túc",
+      "tg26_pbn_thanksgiving_table": "Bàn tiệc Lễ Tạ ơn",
+      "tg26_vida_turkey_wave": "Gà tây con vẫy chào",
+      "tg26_vida_bear_cider": "Gấu con với nước táo nóng",
+      "tg26_vida_squirrel_acorn": "Sóc và hạt sồi"
+    }
+  }
+}

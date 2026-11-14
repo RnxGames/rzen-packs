@@ -1,0 +1,1382 @@
+{
+  "id": "md-navidad-2026",
+  "v": 1,
+  "type": "mandala",
+  "sections": {
+    "mandala": [
+      "nv26-mandalas",
+      "nv26-reveal",
+      "nv26-magic"
+    ],
+    "illustration": [
+      "nv26-illustrations"
+    ],
+    "pbn": []
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "nv26-mandalas": "Mandalas de Navidad",
+        "nv26-reveal": "Navidad · Revelar",
+        "nv26-magic": "Navidad · Color mágico"
+      },
+      "en": {
+        "nv26-mandalas": "Christmas Mandalas",
+        "nv26-reveal": "Christmas · Reveal",
+        "nv26-magic": "Christmas · Magic Color"
+      },
+      "pt": {
+        "nv26-mandalas": "Mandalas de Natal",
+        "nv26-reveal": "Natal · Revelar",
+        "nv26-magic": "Natal · Cor mágica"
+      },
+      "fr": {
+        "nv26-mandalas": "Mandalas de Noël",
+        "nv26-reveal": "Noël · Révéler",
+        "nv26-magic": "Noël · Couleur magique"
+      },
+      "it": {
+        "nv26-mandalas": "Mandala di Natale",
+        "nv26-reveal": "Natale · Rivela",
+        "nv26-magic": "Natale · Colore magico"
+      },
+      "ja": {
+        "nv26-mandalas": "クリスマスのマンダラ",
+        "nv26-reveal": "クリスマス · リビール",
+        "nv26-magic": "クリスマス · 魔法の色"
+      },
+      "de": {
+        "nv26-mandalas": "Weihnachtsmandalas",
+        "nv26-reveal": "Weihnachten · Enthüllen",
+        "nv26-magic": "Weihnachten · Zauberfarbe"
+      },
+      "vi": {
+        "nv26-mandalas": "Mandala Giáng sinh",
+        "nv26-reveal": "Giáng sinh · Khám phá",
+        "nv26-magic": "Giáng sinh · Màu kỳ diệu"
+      }
+    },
+    "illustration": {
+      "es": {
+        "nv26-illustrations": "Ilustraciones de Navidad"
+      },
+      "en": {
+        "nv26-illustrations": "Christmas Illustrations"
+      },
+      "pt": {
+        "nv26-illustrations": "Ilustrações de Natal"
+      },
+      "fr": {
+        "nv26-illustrations": "Illustrations de Noël"
+      },
+      "it": {
+        "nv26-illustrations": "Illustrazioni di Natale"
+      },
+      "ja": {
+        "nv26-illustrations": "クリスマスのイラスト"
+      },
+      "de": {
+        "nv26-illustrations": "Weihnachtsillustrationen"
+      },
+      "vi": {
+        "nv26-illustrations": "Tranh minh họa Giáng sinh"
+      }
+    }
+  },
+  "mandalaImages": [
+    {
+      "id": "nv26_trad_tree",
+      "cat": "nv26-mandalas",
+      "name": "Árbol de Navidad",
+      "src": "mandala/nv26_trad_tree.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_midnight_clock",
+      "cat": "nv26-mandalas",
+      "name": "Reloj de medianoche",
+      "src": "mandala/nv26_trad_midnight_clock.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_snow_village",
+      "cat": "nv26-mandalas",
+      "name": "Pueblo nevado flotante",
+      "src": "mandala/nv26_trad_snow_village.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_city_fireworks",
+      "cat": "nv26-mandalas",
+      "name": "Fuegos sobre la ciudad",
+      "src": "mandala/nv26_trad_city_fireworks.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_wreath_pattern",
+      "cat": "nv26-mandalas",
+      "name": "Coronas y campanas",
+      "src": "mandala/nv26_trad_wreath_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_party_pattern",
+      "cat": "nv26-mandalas",
+      "name": "Fiesta de Año Nuevo",
+      "src": "mandala/nv26_trad_party_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_reindeer",
+      "cat": "nv26-mandalas",
+      "name": "Reno majestuoso",
+      "src": "mandala/nv26_trad_reindeer.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_twelve_grapes",
+      "cat": "nv26-mandalas",
+      "name": "Doce uvas de la suerte",
+      "src": "mandala/nv26_trad_twelve_grapes.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_santa_sleigh",
+      "cat": "nv26-mandalas",
+      "name": "El trineo de Papá Noel",
+      "src": "mandala/nv26_trad_santa_sleigh.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_toast",
+      "cat": "nv26-mandalas",
+      "name": "Brindis de medianoche",
+      "src": "mandala/nv26_trad_toast.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_nativity",
+      "cat": "nv26-mandalas",
+      "name": "Estrella de Belén",
+      "src": "mandala/nv26_trad_nativity.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_phoenix",
+      "cat": "nv26-mandalas",
+      "name": "Fénix del nuevo comienzo",
+      "src": "mandala/nv26_trad_phoenix.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_snowflake_pattern",
+      "cat": "nv26-mandalas",
+      "name": "Caleidoscopio de nieve",
+      "src": "mandala/nv26_trad_snowflake_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_fireworks_pattern",
+      "cat": "nv26-mandalas",
+      "name": "Fuegos y reloj",
+      "src": "mandala/nv26_trad_fireworks_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_snowy_forest",
+      "cat": "nv26-mandalas",
+      "name": "Bosque nevado",
+      "src": "mandala/nv26_trad_snowy_forest.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_balloon_festival",
+      "cat": "nv26-mandalas",
+      "name": "Festival de globos",
+      "src": "mandala/nv26_trad_balloon_festival.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_nutcracker_pattern",
+      "cat": "nv26-mandalas",
+      "name": "Cascanueces y velas",
+      "src": "mandala/nv26_trad_nutcracker_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_trad_new_dawn",
+      "cat": "nv26-mandalas",
+      "name": "Amanecer de un nuevo año",
+      "src": "mandala/nv26_trad_new_dawn.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "nv26_illustration_bunny_cookies",
+      "cat": "nv26-illustrations",
+      "name": "Conejita horneando galletas",
+      "src": "mandala/nv26_illustration_bunny_cookies.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_party_streamers",
+      "cat": "nv26-illustrations",
+      "name": "Preparando la fiesta",
+      "src": "mandala/nv26_illustration_party_streamers.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_panda_gifts",
+      "cat": "nv26-illustrations",
+      "name": "Panda envolviendo regalos",
+      "src": "mandala/nv26_illustration_panda_gifts.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_raccoon_fireworks",
+      "cat": "nv26-illustrations",
+      "name": "Mapache y los fuegos",
+      "src": "mandala/nv26_illustration_raccoon_fireworks.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_gingerbread_house",
+      "cat": "nv26-illustrations",
+      "name": "Casita de jengibre",
+      "src": "mandala/nv26_illustration_gingerbread_house.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_cat_dog_toast",
+      "cat": "nv26-illustrations",
+      "name": "Brindis de gato y perro",
+      "src": "mandala/nv26_illustration_cat_dog_toast.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_penguin_skating",
+      "cat": "nv26-illustrations",
+      "name": "Pingüino patinador",
+      "src": "mandala/nv26_illustration_penguin_skating.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_duck_lanterns",
+      "cat": "nv26-illustrations",
+      "name": "Desfile de farolillos",
+      "src": "mandala/nv26_illustration_duck_lanterns.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_bear_stockings",
+      "cat": "nv26-illustrations",
+      "name": "Osito y los calcetines",
+      "src": "mandala/nv26_illustration_bear_stockings.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_turtle_grapes",
+      "cat": "nv26-illustrations",
+      "name": "Tortuga de la suerte",
+      "src": "mandala/nv26_illustration_turtle_grapes.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_deer_cabin",
+      "cat": "nv26-illustrations",
+      "name": "Ciervo decorando el pino",
+      "src": "mandala/nv26_illustration_deer_cabin.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_owl_resolutions",
+      "cat": "nv26-illustrations",
+      "name": "Búho y sus propósitos",
+      "src": "mandala/nv26_illustration_owl_resolutions.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_mouse_dinner",
+      "cat": "nv26-illustrations",
+      "name": "Cena de los ratoncitos",
+      "src": "mandala/nv26_illustration_mouse_dinner.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_monkey_sparklers",
+      "cat": "nv26-illustrations",
+      "name": "Monito con bengalas",
+      "src": "mandala/nv26_illustration_monkey_sparklers.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_snow_fort",
+      "cat": "nv26-illustrations",
+      "name": "Fuerte de nieve",
+      "src": "mandala/nv26_illustration_snow_fort.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_dance_party",
+      "cat": "nv26-illustrations",
+      "name": "Baile de Año Nuevo",
+      "src": "mandala/nv26_illustration_dance_party.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_koala_nap",
+      "cat": "nv26-illustrations",
+      "name": "Siesta del koala",
+      "src": "mandala/nv26_illustration_koala_nap.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_illustration_giraffe_star",
+      "cat": "nv26-illustrations",
+      "name": "Jirafa y la estrella",
+      "src": "mandala/nv26_illustration_giraffe_star.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "nv26_reveal_tree",
+      "cat": "nv26-reveal",
+      "name": "Árbol radiante",
+      "src": "reveal/nv26_reveal_tree.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_tree.webp"
+    },
+    {
+      "id": "nv26_reveal_fireworks",
+      "cat": "nv26-reveal",
+      "name": "Gran castillo de fuegos",
+      "src": "reveal/nv26_reveal_fireworks.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_fireworks.webp"
+    },
+    {
+      "id": "nv26_reveal_snowflake",
+      "cat": "nv26-reveal",
+      "name": "Copo de encaje",
+      "src": "reveal/nv26_reveal_snowflake.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_snowflake.webp"
+    },
+    {
+      "id": "nv26_reveal_clock",
+      "cat": "nv26-reveal",
+      "name": "Reloj de estrellas",
+      "src": "reveal/nv26_reveal_clock.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_clock.webp"
+    },
+    {
+      "id": "nv26_reveal_reindeer",
+      "cat": "nv26-reveal",
+      "name": "Reno de cristal",
+      "src": "reveal/nv26_reveal_reindeer.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_reindeer.webp"
+    },
+    {
+      "id": "nv26_reveal_toast",
+      "cat": "nv26-reveal",
+      "name": "Brindis de estrellas",
+      "src": "reveal/nv26_reveal_toast.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_toast.webp"
+    },
+    {
+      "id": "nv26_reveal_bell",
+      "cat": "nv26-reveal",
+      "name": "Campana y acebo",
+      "src": "reveal/nv26_reveal_bell.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_bell.webp"
+    },
+    {
+      "id": "nv26_reveal_phoenix",
+      "cat": "nv26-reveal",
+      "name": "Fénix brillante",
+      "src": "reveal/nv26_reveal_phoenix.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_phoenix.webp"
+    },
+    {
+      "id": "nv26_reveal_nativity",
+      "cat": "nv26-reveal",
+      "name": "Estrella sobre el establo",
+      "src": "reveal/nv26_reveal_nativity.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_nativity.webp"
+    },
+    {
+      "id": "nv26_reveal_peacock_fan",
+      "cat": "nv26-reveal",
+      "name": "Abanico de pavo real",
+      "src": "reveal/nv26_reveal_peacock_fan.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_peacock_fan.webp"
+    },
+    {
+      "id": "nv26_reveal_gift",
+      "cat": "nv26-reveal",
+      "name": "Regalo mágico",
+      "src": "reveal/nv26_reveal_gift.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_gift.webp"
+    },
+    {
+      "id": "nv26_reveal_lotus",
+      "cat": "nv26-reveal",
+      "name": "Loto de bengalas",
+      "src": "reveal/nv26_reveal_lotus.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_lotus.webp"
+    },
+    {
+      "id": "nv26_reveal_sleigh_moon",
+      "cat": "nv26-reveal",
+      "name": "Trineo bajo la luna",
+      "src": "reveal/nv26_reveal_sleigh_moon.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_sleigh_moon.webp"
+    },
+    {
+      "id": "nv26_reveal_lucky_wreath",
+      "cat": "nv26-reveal",
+      "name": "Corona de la suerte",
+      "src": "reveal/nv26_reveal_lucky_wreath.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_lucky_wreath.webp"
+    },
+    {
+      "id": "nv26_reveal_gingerbread",
+      "cat": "nv26-reveal",
+      "name": "Casita brillante",
+      "src": "reveal/nv26_reveal_gingerbread.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_gingerbread.webp"
+    },
+    {
+      "id": "nv26_reveal_star_crown",
+      "cat": "nv26-reveal",
+      "name": "Corona de estrellas",
+      "src": "reveal/nv26_reveal_star_crown.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_star_crown.webp"
+    },
+    {
+      "id": "nv26_reveal_poinsettia",
+      "cat": "nv26-reveal",
+      "name": "Flor de Pascua",
+      "src": "reveal/nv26_reveal_poinsettia.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_poinsettia.webp"
+    },
+    {
+      "id": "nv26_reveal_sunrise",
+      "cat": "nv26-reveal",
+      "name": "Amanecer en el mar",
+      "src": "reveal/nv26_reveal_sunrise.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/nv26_reveal_sunrise.webp"
+    },
+    {
+      "id": "nv26_magic_tree_party",
+      "cat": "nv26-magic",
+      "name": "Pingüino y conejita en el árbol",
+      "src": "magic/nv26_magic_tree_party-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_tree_party-color.webp"
+    },
+    {
+      "id": "nv26_magic_countdown",
+      "cat": "nv26-magic",
+      "name": "Cuenta atrás de Año Nuevo",
+      "src": "magic/nv26_magic_countdown-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_countdown-color.webp"
+    },
+    {
+      "id": "nv26_magic_fox_workshop",
+      "cat": "nv26-magic",
+      "name": "El taller del zorro Noel",
+      "src": "magic/nv26_magic_fox_workshop-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_fox_workshop-color.webp"
+    },
+    {
+      "id": "nv26_magic_rooftop_toast",
+      "cat": "nv26-magic",
+      "name": "Brindis en la azotea",
+      "src": "magic/nv26_magic_rooftop_toast-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_rooftop_toast-color.webp"
+    },
+    {
+      "id": "nv26_magic_hedgehog_bakery",
+      "cat": "nv26-magic",
+      "name": "La pastelería del erizo",
+      "src": "magic/nv26_magic_hedgehog_bakery-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_hedgehog_bakery-color.webp"
+    },
+    {
+      "id": "nv26_magic_lantern_river",
+      "cat": "nv26-magic",
+      "name": "Farolillos en el río",
+      "src": "magic/nv26_magic_lantern_river-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_lantern_river-color.webp"
+    },
+    {
+      "id": "nv26_magic_christmas_market",
+      "cat": "nv26-magic",
+      "name": "Mercadillo de Navidad",
+      "src": "magic/nv26_magic_christmas_market-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_christmas_market-color.webp"
+    },
+    {
+      "id": "nv26_magic_twelve_grapes",
+      "cat": "nv26-magic",
+      "name": "Las doce uvas en familia",
+      "src": "magic/nv26_magic_twelve_grapes-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_twelve_grapes-color.webp"
+    },
+    {
+      "id": "nv26_magic_forest_cabin",
+      "cat": "nv26-magic",
+      "name": "Cabaña en el bosque nevado",
+      "src": "magic/nv26_magic_forest_cabin-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_forest_cabin-color.webp"
+    },
+    {
+      "id": "nv26_magic_party_hall",
+      "cat": "nv26-magic",
+      "name": "Fiesta de globos y confeti",
+      "src": "magic/nv26_magic_party_hall-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_party_hall-color.webp"
+    },
+    {
+      "id": "nv26_magic_mouse_dinner",
+      "cat": "nv26-magic",
+      "name": "Cena en la casa del tronco",
+      "src": "magic/nv26_magic_mouse_dinner-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_mouse_dinner-color.webp"
+    },
+    {
+      "id": "nv26_magic_harbor_fireworks",
+      "cat": "nv26-magic",
+      "name": "Fuegos en el puerto",
+      "src": "magic/nv26_magic_harbor_fireworks-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_harbor_fireworks-color.webp"
+    },
+    {
+      "id": "nv26_magic_christmas_eve",
+      "cat": "nv26-magic",
+      "name": "Nochebuena con gatito",
+      "src": "magic/nv26_magic_christmas_eve-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_christmas_eve-color.webp"
+    },
+    {
+      "id": "nv26_magic_safari_toast",
+      "cat": "nv26-magic",
+      "name": "Brindis de la sabana",
+      "src": "magic/nv26_magic_safari_toast-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_safari_toast-color.webp"
+    },
+    {
+      "id": "nv26_magic_snowman_village",
+      "cat": "nv26-magic",
+      "name": "Pueblo de muñecos de nieve",
+      "src": "magic/nv26_magic_snowman_village-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_snowman_village-color.webp"
+    },
+    {
+      "id": "nv26_magic_castle_fireworks",
+      "cat": "nv26-magic",
+      "name": "Dragón y unicornio en el castillo",
+      "src": "magic/nv26_magic_castle_fireworks-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_castle_fireworks-color.webp"
+    },
+    {
+      "id": "nv26_magic_toy_workshop",
+      "cat": "nv26-magic",
+      "name": "Taller de juguetes",
+      "src": "magic/nv26_magic_toy_workshop-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_toy_workshop-color.webp"
+    },
+    {
+      "id": "nv26_magic_first_sunrise",
+      "cat": "nv26-magic",
+      "name": "Primer sol del año",
+      "src": "magic/nv26_magic_first_sunrise-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/nv26_magic_first_sunrise-color.webp"
+    }
+  ],
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "nv26_trad_tree": "Árbol de Navidad",
+        "nv26_trad_midnight_clock": "Reloj de medianoche",
+        "nv26_trad_snow_village": "Pueblo nevado flotante",
+        "nv26_trad_city_fireworks": "Fuegos sobre la ciudad",
+        "nv26_trad_wreath_pattern": "Coronas y campanas",
+        "nv26_trad_party_pattern": "Fiesta de Año Nuevo",
+        "nv26_trad_reindeer": "Reno majestuoso",
+        "nv26_trad_twelve_grapes": "Doce uvas de la suerte",
+        "nv26_trad_santa_sleigh": "El trineo de Papá Noel",
+        "nv26_trad_toast": "Brindis de medianoche",
+        "nv26_trad_nativity": "Estrella de Belén",
+        "nv26_trad_phoenix": "Fénix del nuevo comienzo",
+        "nv26_trad_snowflake_pattern": "Caleidoscopio de nieve",
+        "nv26_trad_fireworks_pattern": "Fuegos y reloj",
+        "nv26_trad_snowy_forest": "Bosque nevado",
+        "nv26_trad_balloon_festival": "Festival de globos",
+        "nv26_trad_nutcracker_pattern": "Cascanueces y velas",
+        "nv26_trad_new_dawn": "Amanecer de un nuevo año",
+        "nv26_illustration_bunny_cookies": "Conejita horneando galletas",
+        "nv26_illustration_party_streamers": "Preparando la fiesta",
+        "nv26_illustration_panda_gifts": "Panda envolviendo regalos",
+        "nv26_illustration_raccoon_fireworks": "Mapache y los fuegos",
+        "nv26_illustration_gingerbread_house": "Casita de jengibre",
+        "nv26_illustration_cat_dog_toast": "Brindis de gato y perro",
+        "nv26_illustration_penguin_skating": "Pingüino patinador",
+        "nv26_illustration_duck_lanterns": "Desfile de farolillos",
+        "nv26_illustration_bear_stockings": "Osito y los calcetines",
+        "nv26_illustration_turtle_grapes": "Tortuga de la suerte",
+        "nv26_illustration_deer_cabin": "Ciervo decorando el pino",
+        "nv26_illustration_owl_resolutions": "Búho y sus propósitos",
+        "nv26_illustration_mouse_dinner": "Cena de los ratoncitos",
+        "nv26_illustration_monkey_sparklers": "Monito con bengalas",
+        "nv26_illustration_snow_fort": "Fuerte de nieve",
+        "nv26_illustration_dance_party": "Baile de Año Nuevo",
+        "nv26_illustration_koala_nap": "Siesta del koala",
+        "nv26_illustration_giraffe_star": "Jirafa y la estrella",
+        "nv26_reveal_tree": "Árbol radiante",
+        "nv26_reveal_fireworks": "Gran castillo de fuegos",
+        "nv26_reveal_snowflake": "Copo de encaje",
+        "nv26_reveal_clock": "Reloj de estrellas",
+        "nv26_reveal_reindeer": "Reno de cristal",
+        "nv26_reveal_toast": "Brindis de estrellas",
+        "nv26_reveal_bell": "Campana y acebo",
+        "nv26_reveal_phoenix": "Fénix brillante",
+        "nv26_reveal_nativity": "Estrella sobre el establo",
+        "nv26_reveal_peacock_fan": "Abanico de pavo real",
+        "nv26_reveal_gift": "Regalo mágico",
+        "nv26_reveal_lotus": "Loto de bengalas",
+        "nv26_reveal_sleigh_moon": "Trineo bajo la luna",
+        "nv26_reveal_lucky_wreath": "Corona de la suerte",
+        "nv26_reveal_gingerbread": "Casita brillante",
+        "nv26_reveal_star_crown": "Corona de estrellas",
+        "nv26_reveal_poinsettia": "Flor de Pascua",
+        "nv26_reveal_sunrise": "Amanecer en el mar",
+        "nv26_magic_tree_party": "Pingüino y conejita en el árbol",
+        "nv26_magic_countdown": "Cuenta atrás de Año Nuevo",
+        "nv26_magic_fox_workshop": "El taller del zorro Noel",
+        "nv26_magic_rooftop_toast": "Brindis en la azotea",
+        "nv26_magic_hedgehog_bakery": "La pastelería del erizo",
+        "nv26_magic_lantern_river": "Farolillos en el río",
+        "nv26_magic_christmas_market": "Mercadillo de Navidad",
+        "nv26_magic_twelve_grapes": "Las doce uvas en familia",
+        "nv26_magic_forest_cabin": "Cabaña en el bosque nevado",
+        "nv26_magic_party_hall": "Fiesta de globos y confeti",
+        "nv26_magic_mouse_dinner": "Cena en la casa del tronco",
+        "nv26_magic_harbor_fireworks": "Fuegos en el puerto",
+        "nv26_magic_christmas_eve": "Nochebuena con gatito",
+        "nv26_magic_safari_toast": "Brindis de la sabana",
+        "nv26_magic_snowman_village": "Pueblo de muñecos de nieve",
+        "nv26_magic_castle_fireworks": "Dragón y unicornio en el castillo",
+        "nv26_magic_toy_workshop": "Taller de juguetes",
+        "nv26_magic_first_sunrise": "Primer sol del año"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "nv26_trad_tree": "Christmas Tree",
+        "nv26_trad_midnight_clock": "Midnight Clock",
+        "nv26_trad_snow_village": "Floating Snow Village",
+        "nv26_trad_city_fireworks": "Fireworks over the City",
+        "nv26_trad_wreath_pattern": "Wreaths and Bells",
+        "nv26_trad_party_pattern": "New Year Party",
+        "nv26_trad_reindeer": "Majestic Reindeer",
+        "nv26_trad_twelve_grapes": "Twelve Lucky Grapes",
+        "nv26_trad_santa_sleigh": "Santa's Sleigh",
+        "nv26_trad_toast": "Midnight Toast",
+        "nv26_trad_nativity": "Star of Bethlehem",
+        "nv26_trad_phoenix": "Phoenix of New Beginnings",
+        "nv26_trad_snowflake_pattern": "Snowflake Kaleidoscope",
+        "nv26_trad_fireworks_pattern": "Fireworks and Clock",
+        "nv26_trad_snowy_forest": "Snowy Forest",
+        "nv26_trad_balloon_festival": "Balloon Festival",
+        "nv26_trad_nutcracker_pattern": "Nutcrackers and Candles",
+        "nv26_trad_new_dawn": "New Year Sunrise",
+        "nv26_illustration_bunny_cookies": "Bunny Baking Cookies",
+        "nv26_illustration_party_streamers": "Getting the Party Ready",
+        "nv26_illustration_panda_gifts": "Panda Wrapping Gifts",
+        "nv26_illustration_raccoon_fireworks": "Raccoon's Fireworks",
+        "nv26_illustration_gingerbread_house": "Gingerbread House",
+        "nv26_illustration_cat_dog_toast": "Cat and Dog Toast",
+        "nv26_illustration_penguin_skating": "Skating Penguin",
+        "nv26_illustration_duck_lanterns": "Lantern Parade",
+        "nv26_illustration_bear_stockings": "Bear Hanging Stockings",
+        "nv26_illustration_turtle_grapes": "Lucky Turtle",
+        "nv26_illustration_deer_cabin": "Deer Decorating the Pine",
+        "nv26_illustration_owl_resolutions": "Owl's Resolutions",
+        "nv26_illustration_mouse_dinner": "Mouse Family Dinner",
+        "nv26_illustration_monkey_sparklers": "Monkey with Sparklers",
+        "nv26_illustration_snow_fort": "Snow Fort",
+        "nv26_illustration_dance_party": "New Year Dance",
+        "nv26_illustration_koala_nap": "Koala's Nap",
+        "nv26_illustration_giraffe_star": "Giraffe and the Star",
+        "nv26_reveal_tree": "Radiant Tree",
+        "nv26_reveal_fireworks": "Grand Fireworks",
+        "nv26_reveal_snowflake": "Lace Snowflake",
+        "nv26_reveal_clock": "Starry Clock",
+        "nv26_reveal_reindeer": "Crystal Reindeer",
+        "nv26_reveal_toast": "Starry Toast",
+        "nv26_reveal_bell": "Bell and Holly",
+        "nv26_reveal_phoenix": "Shining Phoenix",
+        "nv26_reveal_nativity": "Star over the Stable",
+        "nv26_reveal_peacock_fan": "Peacock Fan",
+        "nv26_reveal_gift": "Magic Gift",
+        "nv26_reveal_lotus": "Sparkler Lotus",
+        "nv26_reveal_sleigh_moon": "Sleigh under the Moon",
+        "nv26_reveal_lucky_wreath": "Lucky Wreath",
+        "nv26_reveal_gingerbread": "Glowing Gingerbread House",
+        "nv26_reveal_star_crown": "Crown of Stars",
+        "nv26_reveal_poinsettia": "Poinsettia",
+        "nv26_reveal_sunrise": "Sunrise at Sea",
+        "nv26_magic_tree_party": "Penguin and Bunny Trim the Tree",
+        "nv26_magic_countdown": "New Year Countdown",
+        "nv26_magic_fox_workshop": "Fox Santa's Workshop",
+        "nv26_magic_rooftop_toast": "Rooftop Toast",
+        "nv26_magic_hedgehog_bakery": "Hedgehog's Bakery",
+        "nv26_magic_lantern_river": "Lanterns on the River",
+        "nv26_magic_christmas_market": "Christmas Market",
+        "nv26_magic_twelve_grapes": "Twelve Grapes Together",
+        "nv26_magic_forest_cabin": "Snowy Forest Cabin",
+        "nv26_magic_party_hall": "Balloons and Confetti Party",
+        "nv26_magic_mouse_dinner": "Dinner in the Tree Trunk",
+        "nv26_magic_harbor_fireworks": "Harbor Fireworks",
+        "nv26_magic_christmas_eve": "Christmas Eve with Kitten",
+        "nv26_magic_safari_toast": "Savanna Toast",
+        "nv26_magic_snowman_village": "Snowman Village",
+        "nv26_magic_castle_fireworks": "Dragon and Unicorn at the Castle",
+        "nv26_magic_toy_workshop": "Toy Workshop",
+        "nv26_magic_first_sunrise": "First Sun of the Year"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "nv26_trad_tree": "Árvore de Natal",
+        "nv26_trad_midnight_clock": "Relógio da meia-noite",
+        "nv26_trad_snow_village": "Aldeia nevada flutuante",
+        "nv26_trad_city_fireworks": "Fogos sobre a cidade",
+        "nv26_trad_wreath_pattern": "Guirlandas e sinos",
+        "nv26_trad_party_pattern": "Festa de Ano Novo",
+        "nv26_trad_reindeer": "Rena majestosa",
+        "nv26_trad_twelve_grapes": "Doze uvas da sorte",
+        "nv26_trad_santa_sleigh": "O trenó do Pai Natal",
+        "nv26_trad_toast": "Brinde da meia-noite",
+        "nv26_trad_nativity": "Estrela de Belém",
+        "nv26_trad_phoenix": "Fénix do recomeço",
+        "nv26_trad_snowflake_pattern": "Caleidoscópio de neve",
+        "nv26_trad_fireworks_pattern": "Fogos e relógio",
+        "nv26_trad_snowy_forest": "Floresta nevada",
+        "nv26_trad_balloon_festival": "Festival de balões",
+        "nv26_trad_nutcracker_pattern": "Quebra-nozes e velas",
+        "nv26_trad_new_dawn": "Amanhecer de um novo ano",
+        "nv26_illustration_bunny_cookies": "Coelhinha a fazer bolachas",
+        "nv26_illustration_party_streamers": "A preparar a festa",
+        "nv26_illustration_panda_gifts": "Panda a embrulhar presentes",
+        "nv26_illustration_raccoon_fireworks": "O guaxinim e os fogos",
+        "nv26_illustration_gingerbread_house": "Casinha de gengibre",
+        "nv26_illustration_cat_dog_toast": "Brinde do gato e do cão",
+        "nv26_illustration_penguin_skating": "Pinguim patinador",
+        "nv26_illustration_duck_lanterns": "Desfile de lanternas",
+        "nv26_illustration_bear_stockings": "Ursinho e as meias",
+        "nv26_illustration_turtle_grapes": "Tartaruga da sorte",
+        "nv26_illustration_deer_cabin": "Veado a enfeitar o pinheiro",
+        "nv26_illustration_owl_resolutions": "Os desejos do mocho",
+        "nv26_illustration_mouse_dinner": "Jantar dos ratinhos",
+        "nv26_illustration_monkey_sparklers": "Macaquinho com estrelinhas",
+        "nv26_illustration_snow_fort": "Forte de neve",
+        "nv26_illustration_dance_party": "Baile de Ano Novo",
+        "nv26_illustration_koala_nap": "A sesta do coala",
+        "nv26_illustration_giraffe_star": "A girafa e a estrela",
+        "nv26_reveal_tree": "Árvore radiante",
+        "nv26_reveal_fireworks": "Grande fogo de artifício",
+        "nv26_reveal_snowflake": "Floco de renda",
+        "nv26_reveal_clock": "Relógio estrelado",
+        "nv26_reveal_reindeer": "Rena de cristal",
+        "nv26_reveal_toast": "Brinde de estrelas",
+        "nv26_reveal_bell": "Sino e azevinho",
+        "nv26_reveal_phoenix": "Fénix brilhante",
+        "nv26_reveal_nativity": "Estrela sobre o estábulo",
+        "nv26_reveal_peacock_fan": "Leque de pavão",
+        "nv26_reveal_gift": "Presente mágico",
+        "nv26_reveal_lotus": "Lótus de estrelinhas",
+        "nv26_reveal_sleigh_moon": "Trenó sob a lua",
+        "nv26_reveal_lucky_wreath": "Coroa da sorte",
+        "nv26_reveal_gingerbread": "Casinha brilhante",
+        "nv26_reveal_star_crown": "Coroa de estrelas",
+        "nv26_reveal_poinsettia": "Flor do Natal",
+        "nv26_reveal_sunrise": "Amanhecer no mar",
+        "nv26_magic_tree_party": "Pinguim e coelhinha no pinheiro",
+        "nv26_magic_countdown": "Contagem decrescente de Ano Novo",
+        "nv26_magic_fox_workshop": "A oficina da raposa Pai Natal",
+        "nv26_magic_rooftop_toast": "Brinde no terraço",
+        "nv26_magic_hedgehog_bakery": "A pastelaria do ouriço",
+        "nv26_magic_lantern_river": "Lanternas no rio",
+        "nv26_magic_christmas_market": "Mercado de Natal",
+        "nv26_magic_twelve_grapes": "As doze uvas em família",
+        "nv26_magic_forest_cabin": "Cabana na floresta nevada",
+        "nv26_magic_party_hall": "Festa de balões e confetes",
+        "nv26_magic_mouse_dinner": "Jantar na casa do tronco",
+        "nv26_magic_harbor_fireworks": "Fogos no porto",
+        "nv26_magic_christmas_eve": "Consoada com gatinho",
+        "nv26_magic_safari_toast": "Brinde da savana",
+        "nv26_magic_snowman_village": "Aldeia de bonecos de neve",
+        "nv26_magic_castle_fireworks": "Dragão e unicórnio no castelo",
+        "nv26_magic_toy_workshop": "Oficina de brinquedos",
+        "nv26_magic_first_sunrise": "Primeiro sol do ano"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "nv26_trad_tree": "Sapin de Noël",
+        "nv26_trad_midnight_clock": "Horloge de minuit",
+        "nv26_trad_snow_village": "Village enneigé flottant",
+        "nv26_trad_city_fireworks": "Feux d'artifice sur la ville",
+        "nv26_trad_wreath_pattern": "Couronnes et cloches",
+        "nv26_trad_party_pattern": "Fête du Nouvel An",
+        "nv26_trad_reindeer": "Renne majestueux",
+        "nv26_trad_twelve_grapes": "Douze raisins porte-bonheur",
+        "nv26_trad_santa_sleigh": "Le traîneau du père Noël",
+        "nv26_trad_toast": "Toast de minuit",
+        "nv26_trad_nativity": "Étoile de Bethléem",
+        "nv26_trad_phoenix": "Phénix du renouveau",
+        "nv26_trad_snowflake_pattern": "Kaléidoscope de flocons",
+        "nv26_trad_fireworks_pattern": "Feux d'artifice et horloge",
+        "nv26_trad_snowy_forest": "Forêt enneigée",
+        "nv26_trad_balloon_festival": "Festival de montgolfières",
+        "nv26_trad_nutcracker_pattern": "Casse-noisettes et bougies",
+        "nv26_trad_new_dawn": "Aube d'une nouvelle année",
+        "nv26_illustration_bunny_cookies": "Lapine qui fait des biscuits",
+        "nv26_illustration_party_streamers": "On prépare la fête",
+        "nv26_illustration_panda_gifts": "Panda qui emballe des cadeaux",
+        "nv26_illustration_raccoon_fireworks": "Le raton laveur et les feux",
+        "nv26_illustration_gingerbread_house": "Maison en pain d'épices",
+        "nv26_illustration_cat_dog_toast": "Toast du chat et du chien",
+        "nv26_illustration_penguin_skating": "Pingouin patineur",
+        "nv26_illustration_duck_lanterns": "Défilé de lanternes",
+        "nv26_illustration_bear_stockings": "Ourson et les chaussettes",
+        "nv26_illustration_turtle_grapes": "Tortue porte-bonheur",
+        "nv26_illustration_deer_cabin": "Cerf qui décore le sapin",
+        "nv26_illustration_owl_resolutions": "Les bonnes résolutions du hibou",
+        "nv26_illustration_mouse_dinner": "Dîner des souris",
+        "nv26_illustration_monkey_sparklers": "Singe aux cierges magiques",
+        "nv26_illustration_snow_fort": "Fort de neige",
+        "nv26_illustration_dance_party": "Bal du Nouvel An",
+        "nv26_illustration_koala_nap": "La sieste du koala",
+        "nv26_illustration_giraffe_star": "La girafe et l'étoile",
+        "nv26_reveal_tree": "Sapin radieux",
+        "nv26_reveal_fireworks": "Grand feu d'artifice",
+        "nv26_reveal_snowflake": "Flocon de dentelle",
+        "nv26_reveal_clock": "Horloge étoilée",
+        "nv26_reveal_reindeer": "Renne de cristal",
+        "nv26_reveal_toast": "Toast étoilé",
+        "nv26_reveal_bell": "Cloche et houx",
+        "nv26_reveal_phoenix": "Phénix scintillant",
+        "nv26_reveal_nativity": "Étoile sur l'étable",
+        "nv26_reveal_peacock_fan": "Éventail de paon",
+        "nv26_reveal_gift": "Cadeau magique",
+        "nv26_reveal_lotus": "Lotus scintillant",
+        "nv26_reveal_sleigh_moon": "Traîneau sous la lune",
+        "nv26_reveal_lucky_wreath": "Couronne porte-bonheur",
+        "nv26_reveal_gingerbread": "Maisonnette scintillante",
+        "nv26_reveal_star_crown": "Couronne d'étoiles",
+        "nv26_reveal_poinsettia": "Étoile de Noël",
+        "nv26_reveal_sunrise": "Lever de soleil sur la mer",
+        "nv26_magic_tree_party": "Pingouin et lapine au sapin",
+        "nv26_magic_countdown": "Compte à rebours du Nouvel An",
+        "nv26_magic_fox_workshop": "L'atelier du renard Noël",
+        "nv26_magic_rooftop_toast": "Toast sur le toit",
+        "nv26_magic_hedgehog_bakery": "La pâtisserie du hérisson",
+        "nv26_magic_lantern_river": "Lanternes sur la rivière",
+        "nv26_magic_christmas_market": "Marché de Noël",
+        "nv26_magic_twelve_grapes": "Les douze raisins en famille",
+        "nv26_magic_forest_cabin": "Chalet dans la forêt enneigée",
+        "nv26_magic_party_hall": "Fête de ballons et confettis",
+        "nv26_magic_mouse_dinner": "Dîner dans la maison-tronc",
+        "nv26_magic_harbor_fireworks": "Feux d'artifice sur le port",
+        "nv26_magic_christmas_eve": "Réveillon avec chaton",
+        "nv26_magic_safari_toast": "Toast de la savane",
+        "nv26_magic_snowman_village": "Village de bonshommes de neige",
+        "nv26_magic_castle_fireworks": "Dragon et licorne au château",
+        "nv26_magic_toy_workshop": "Atelier de jouets",
+        "nv26_magic_first_sunrise": "Premier soleil de l'année"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "nv26_trad_tree": "Albero di Natale",
+        "nv26_trad_midnight_clock": "Orologio di mezzanotte",
+        "nv26_trad_snow_village": "Villaggio innevato fluttuante",
+        "nv26_trad_city_fireworks": "Fuochi sulla città",
+        "nv26_trad_wreath_pattern": "Ghirlande e campane",
+        "nv26_trad_party_pattern": "Festa di Capodanno",
+        "nv26_trad_reindeer": "Renna maestosa",
+        "nv26_trad_twelve_grapes": "Dodici chicchi fortunati",
+        "nv26_trad_santa_sleigh": "La slitta di Babbo Natale",
+        "nv26_trad_toast": "Brindisi di mezzanotte",
+        "nv26_trad_nativity": "Stella di Betlemme",
+        "nv26_trad_phoenix": "Fenice della rinascita",
+        "nv26_trad_snowflake_pattern": "Caleidoscopio di neve",
+        "nv26_trad_fireworks_pattern": "Fuochi e orologio",
+        "nv26_trad_snowy_forest": "Bosco innevato",
+        "nv26_trad_balloon_festival": "Festival delle mongolfiere",
+        "nv26_trad_nutcracker_pattern": "Schiaccianoci e candele",
+        "nv26_trad_new_dawn": "Alba di un nuovo anno",
+        "nv26_illustration_bunny_cookies": "Coniglietta che prepara biscotti",
+        "nv26_illustration_party_streamers": "Si prepara la festa",
+        "nv26_illustration_panda_gifts": "Panda che incarta i regali",
+        "nv26_illustration_raccoon_fireworks": "Il procione e i fuochi",
+        "nv26_illustration_gingerbread_house": "Casetta di pan di zenzero",
+        "nv26_illustration_cat_dog_toast": "Brindisi di gatto e cane",
+        "nv26_illustration_penguin_skating": "Pinguino pattinatore",
+        "nv26_illustration_duck_lanterns": "Parata delle lanterne",
+        "nv26_illustration_bear_stockings": "Orsetto e le calze",
+        "nv26_illustration_turtle_grapes": "Tartaruga fortunata",
+        "nv26_illustration_deer_cabin": "Cervo che addobba il pino",
+        "nv26_illustration_owl_resolutions": "I buoni propositi del gufo",
+        "nv26_illustration_mouse_dinner": "Cena dei topolini",
+        "nv26_illustration_monkey_sparklers": "Scimmietta con le stelline",
+        "nv26_illustration_snow_fort": "Fortino di neve",
+        "nv26_illustration_dance_party": "Ballo di Capodanno",
+        "nv26_illustration_koala_nap": "Il pisolino del koala",
+        "nv26_illustration_giraffe_star": "La giraffa e la stella",
+        "nv26_reveal_tree": "Albero radioso",
+        "nv26_reveal_fireworks": "Grande fuoco d'artificio",
+        "nv26_reveal_snowflake": "Fiocco di pizzo",
+        "nv26_reveal_clock": "Orologio stellato",
+        "nv26_reveal_reindeer": "Renna di cristallo",
+        "nv26_reveal_toast": "Brindisi di stelle",
+        "nv26_reveal_bell": "Campana e agrifoglio",
+        "nv26_reveal_phoenix": "Fenice splendente",
+        "nv26_reveal_nativity": "Stella sulla capanna",
+        "nv26_reveal_peacock_fan": "Ventaglio di pavone",
+        "nv26_reveal_gift": "Regalo magico",
+        "nv26_reveal_lotus": "Loto scintillante",
+        "nv26_reveal_sleigh_moon": "Slitta sotto la luna",
+        "nv26_reveal_lucky_wreath": "Ghirlanda fortunata",
+        "nv26_reveal_gingerbread": "Casetta luminosa",
+        "nv26_reveal_star_crown": "Corona di stelle",
+        "nv26_reveal_poinsettia": "Stella di Natale",
+        "nv26_reveal_sunrise": "Alba sul mare",
+        "nv26_magic_tree_party": "Pinguino e coniglietta all'albero",
+        "nv26_magic_countdown": "Conto alla rovescia di Capodanno",
+        "nv26_magic_fox_workshop": "Il laboratorio della volpe Babbo Natale",
+        "nv26_magic_rooftop_toast": "Brindisi sul tetto",
+        "nv26_magic_hedgehog_bakery": "La pasticceria del riccio",
+        "nv26_magic_lantern_river": "Lanterne sul fiume",
+        "nv26_magic_christmas_market": "Mercatino di Natale",
+        "nv26_magic_twelve_grapes": "I dodici chicchi in famiglia",
+        "nv26_magic_forest_cabin": "Baita nel bosco innevato",
+        "nv26_magic_party_hall": "Festa di palloncini e coriandoli",
+        "nv26_magic_mouse_dinner": "Cena nella casa nel tronco",
+        "nv26_magic_harbor_fireworks": "Fuochi al porto",
+        "nv26_magic_christmas_eve": "Vigilia con il gattino",
+        "nv26_magic_safari_toast": "Brindisi della savana",
+        "nv26_magic_snowman_village": "Villaggio dei pupazzi di neve",
+        "nv26_magic_castle_fireworks": "Drago e unicorno al castello",
+        "nv26_magic_toy_workshop": "Laboratorio dei giocattoli",
+        "nv26_magic_first_sunrise": "Primo sole dell'anno"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "nv26_trad_tree": "クリスマスツリー",
+        "nv26_trad_midnight_clock": "真夜中の時計",
+        "nv26_trad_snow_village": "浮かぶ雪の村",
+        "nv26_trad_city_fireworks": "街の花火",
+        "nv26_trad_wreath_pattern": "リースとベル",
+        "nv26_trad_party_pattern": "新年パーティー",
+        "nv26_trad_reindeer": "堂々としたトナカイ",
+        "nv26_trad_twelve_grapes": "幸運の12粒のぶどう",
+        "nv26_trad_santa_sleigh": "サンタのそり",
+        "nv26_trad_toast": "真夜中の乾杯",
+        "nv26_trad_nativity": "ベツレヘムの星",
+        "nv26_trad_phoenix": "新しい始まりの不死鳥",
+        "nv26_trad_snowflake_pattern": "雪の結晶の万華鏡",
+        "nv26_trad_fireworks_pattern": "花火と時計",
+        "nv26_trad_snowy_forest": "雪の森",
+        "nv26_trad_balloon_festival": "気球フェスティバル",
+        "nv26_trad_nutcracker_pattern": "くるみ割り人形とキャンドル",
+        "nv26_trad_new_dawn": "新年の日の出",
+        "nv26_illustration_bunny_cookies": "クッキーを焼くうさぎ",
+        "nv26_illustration_party_streamers": "パーティーの準備",
+        "nv26_illustration_panda_gifts": "プレゼントを包むパンダ",
+        "nv26_illustration_raccoon_fireworks": "アライグマの花火",
+        "nv26_illustration_gingerbread_house": "ジンジャーブレッドハウス",
+        "nv26_illustration_cat_dog_toast": "猫と犬の乾杯",
+        "nv26_illustration_penguin_skating": "スケートするペンギン",
+        "nv26_illustration_duck_lanterns": "ランタンのパレード",
+        "nv26_illustration_bear_stockings": "靴下を飾るくま",
+        "nv26_illustration_turtle_grapes": "幸運のカメ",
+        "nv26_illustration_deer_cabin": "もみの木を飾るシカ",
+        "nv26_illustration_owl_resolutions": "フクロウの新年の目標",
+        "nv26_illustration_mouse_dinner": "ねずみ一家のディナー",
+        "nv26_illustration_monkey_sparklers": "線香花火とおさる",
+        "nv26_illustration_snow_fort": "雪のとりで",
+        "nv26_illustration_dance_party": "新年のダンス",
+        "nv26_illustration_koala_nap": "コアラのお昼寝",
+        "nv26_illustration_giraffe_star": "キリンと星",
+        "nv26_reveal_tree": "輝くツリー",
+        "nv26_reveal_fireworks": "大きな花火",
+        "nv26_reveal_snowflake": "レースの雪の結晶",
+        "nv26_reveal_clock": "星の時計",
+        "nv26_reveal_reindeer": "クリスタルのトナカイ",
+        "nv26_reveal_toast": "星の乾杯",
+        "nv26_reveal_bell": "ベルとヒイラギ",
+        "nv26_reveal_phoenix": "輝く不死鳥",
+        "nv26_reveal_nativity": "馬小屋の上の星",
+        "nv26_reveal_peacock_fan": "孔雀の扇",
+        "nv26_reveal_gift": "魔法のプレゼント",
+        "nv26_reveal_lotus": "線香花火の蓮",
+        "nv26_reveal_sleigh_moon": "月夜のそり",
+        "nv26_reveal_lucky_wreath": "幸運のリース",
+        "nv26_reveal_gingerbread": "輝くお菓子の家",
+        "nv26_reveal_star_crown": "星の冠",
+        "nv26_reveal_poinsettia": "ポインセチア",
+        "nv26_reveal_sunrise": "海の日の出",
+        "nv26_magic_tree_party": "ツリーを飾るペンギンとうさぎ",
+        "nv26_magic_countdown": "新年のカウントダウン",
+        "nv26_magic_fox_workshop": "キツネのサンタの工房",
+        "nv26_magic_rooftop_toast": "屋上の乾杯",
+        "nv26_magic_hedgehog_bakery": "ハリネズミのお菓子屋さん",
+        "nv26_magic_lantern_river": "川に浮かぶランタン",
+        "nv26_magic_christmas_market": "クリスマスマーケット",
+        "nv26_magic_twelve_grapes": "家族で食べる12粒のぶどう",
+        "nv26_magic_forest_cabin": "雪の森の小屋",
+        "nv26_magic_party_hall": "風船と紙吹雪のパーティー",
+        "nv26_magic_mouse_dinner": "木のおうちのディナー",
+        "nv26_magic_harbor_fireworks": "港の花火",
+        "nv26_magic_christmas_eve": "子猫のクリスマスイブ",
+        "nv26_magic_safari_toast": "サバンナの乾杯",
+        "nv26_magic_snowman_village": "雪だるまの村",
+        "nv26_magic_castle_fireworks": "お城のドラゴンとユニコーン",
+        "nv26_magic_toy_workshop": "おもちゃ工房",
+        "nv26_magic_first_sunrise": "初日の出"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "nv26_trad_tree": "Weihnachtsbaum",
+        "nv26_trad_midnight_clock": "Mitternachtsuhr",
+        "nv26_trad_snow_village": "Schwebendes Schneedorf",
+        "nv26_trad_city_fireworks": "Feuerwerk über der Stadt",
+        "nv26_trad_wreath_pattern": "Kränze und Glocken",
+        "nv26_trad_party_pattern": "Silvesterparty",
+        "nv26_trad_reindeer": "Majestätisches Rentier",
+        "nv26_trad_twelve_grapes": "Zwölf Glückstrauben",
+        "nv26_trad_santa_sleigh": "Der Schlitten des Weihnachtsmanns",
+        "nv26_trad_toast": "Mitternachtstoast",
+        "nv26_trad_nativity": "Stern von Bethlehem",
+        "nv26_trad_phoenix": "Phönix des Neubeginns",
+        "nv26_trad_snowflake_pattern": "Schneeflocken-Kaleidoskop",
+        "nv26_trad_fireworks_pattern": "Feuerwerk und Uhr",
+        "nv26_trad_snowy_forest": "Verschneiter Wald",
+        "nv26_trad_balloon_festival": "Ballonfestival",
+        "nv26_trad_nutcracker_pattern": "Nussknacker und Kerzen",
+        "nv26_trad_new_dawn": "Sonnenaufgang im neuen Jahr",
+        "nv26_illustration_bunny_cookies": "Häschen backt Plätzchen",
+        "nv26_illustration_party_streamers": "Die Party wird vorbereitet",
+        "nv26_illustration_panda_gifts": "Panda packt Geschenke ein",
+        "nv26_illustration_raccoon_fireworks": "Waschbär und das Feuerwerk",
+        "nv26_illustration_gingerbread_house": "Lebkuchenhaus",
+        "nv26_illustration_cat_dog_toast": "Katze und Hund stoßen an",
+        "nv26_illustration_penguin_skating": "Eislaufender Pinguin",
+        "nv26_illustration_duck_lanterns": "Laternenumzug",
+        "nv26_illustration_bear_stockings": "Bär hängt Strümpfe auf",
+        "nv26_illustration_turtle_grapes": "Glücksschildkröte",
+        "nv26_illustration_deer_cabin": "Hirsch schmückt die Tanne",
+        "nv26_illustration_owl_resolutions": "Die Vorsätze der Eule",
+        "nv26_illustration_mouse_dinner": "Festessen der Mäuse",
+        "nv26_illustration_monkey_sparklers": "Äffchen mit Wunderkerzen",
+        "nv26_illustration_snow_fort": "Schneeburg",
+        "nv26_illustration_dance_party": "Silvestertanz",
+        "nv26_illustration_koala_nap": "Koalas Nickerchen",
+        "nv26_illustration_giraffe_star": "Giraffe und der Stern",
+        "nv26_reveal_tree": "Strahlender Baum",
+        "nv26_reveal_fireworks": "Großes Feuerwerk",
+        "nv26_reveal_snowflake": "Spitzen-Schneeflocke",
+        "nv26_reveal_clock": "Sternenuhr",
+        "nv26_reveal_reindeer": "Kristallrentier",
+        "nv26_reveal_toast": "Sternentoast",
+        "nv26_reveal_bell": "Glocke und Stechpalme",
+        "nv26_reveal_phoenix": "Leuchtender Phönix",
+        "nv26_reveal_nativity": "Stern über dem Stall",
+        "nv26_reveal_peacock_fan": "Pfauenfächer",
+        "nv26_reveal_gift": "Magisches Geschenk",
+        "nv26_reveal_lotus": "Wunderkerzen-Lotus",
+        "nv26_reveal_sleigh_moon": "Schlitten unter dem Mond",
+        "nv26_reveal_lucky_wreath": "Glückskranz",
+        "nv26_reveal_gingerbread": "Leuchtendes Lebkuchenhaus",
+        "nv26_reveal_star_crown": "Sternenkrone",
+        "nv26_reveal_poinsettia": "Weihnachtsstern",
+        "nv26_reveal_sunrise": "Sonnenaufgang am Meer",
+        "nv26_magic_tree_party": "Pinguin und Häschen am Baum",
+        "nv26_magic_countdown": "Silvester-Countdown",
+        "nv26_magic_fox_workshop": "Die Werkstatt des Fuchs-Weihnachtsmanns",
+        "nv26_magic_rooftop_toast": "Anstoßen auf dem Dach",
+        "nv26_magic_hedgehog_bakery": "Die Bäckerei des Igels",
+        "nv26_magic_lantern_river": "Laternen auf dem Fluss",
+        "nv26_magic_christmas_market": "Weihnachtsmarkt",
+        "nv26_magic_twelve_grapes": "Zwölf Trauben mit der Familie",
+        "nv26_magic_forest_cabin": "Hütte im verschneiten Wald",
+        "nv26_magic_party_hall": "Party mit Ballons und Konfetti",
+        "nv26_magic_mouse_dinner": "Festessen im Baumstamm",
+        "nv26_magic_harbor_fireworks": "Feuerwerk am Hafen",
+        "nv26_magic_christmas_eve": "Heiligabend mit Kätzchen",
+        "nv26_magic_safari_toast": "Anstoßen in der Savanne",
+        "nv26_magic_snowman_village": "Schneemanndorf",
+        "nv26_magic_castle_fireworks": "Drache und Einhorn im Schloss",
+        "nv26_magic_toy_workshop": "Spielzeugwerkstatt",
+        "nv26_magic_first_sunrise": "Erste Sonne des Jahres"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "nv26_trad_tree": "Cây thông Noel",
+        "nv26_trad_midnight_clock": "Đồng hồ nửa đêm",
+        "nv26_trad_snow_village": "Ngôi làng tuyết lơ lửng",
+        "nv26_trad_city_fireworks": "Pháo hoa trên thành phố",
+        "nv26_trad_wreath_pattern": "Vòng hoa và chuông",
+        "nv26_trad_party_pattern": "Tiệc năm mới",
+        "nv26_trad_reindeer": "Tuần lộc uy nghi",
+        "nv26_trad_twelve_grapes": "Mười hai quả nho may mắn",
+        "nv26_trad_santa_sleigh": "Xe trượt tuyết của ông già Noel",
+        "nv26_trad_toast": "Nâng ly nửa đêm",
+        "nv26_trad_nativity": "Ngôi sao Bê-lem",
+        "nv26_trad_phoenix": "Phượng hoàng khởi đầu mới",
+        "nv26_trad_snowflake_pattern": "Kính vạn hoa bông tuyết",
+        "nv26_trad_fireworks_pattern": "Pháo hoa và đồng hồ",
+        "nv26_trad_snowy_forest": "Khu rừng tuyết",
+        "nv26_trad_balloon_festival": "Lễ hội khinh khí cầu",
+        "nv26_trad_nutcracker_pattern": "Kẹp hạt dẻ và nến",
+        "nv26_trad_new_dawn": "Bình minh năm mới",
+        "nv26_illustration_bunny_cookies": "Thỏ con nướng bánh quy",
+        "nv26_illustration_party_streamers": "Chuẩn bị bữa tiệc",
+        "nv26_illustration_panda_gifts": "Gấu trúc gói quà",
+        "nv26_illustration_raccoon_fireworks": "Gấu mèo và pháo hoa",
+        "nv26_illustration_gingerbread_house": "Ngôi nhà bánh gừng",
+        "nv26_illustration_cat_dog_toast": "Mèo và chó nâng ly",
+        "nv26_illustration_penguin_skating": "Chim cánh cụt trượt băng",
+        "nv26_illustration_duck_lanterns": "Diễu hành đèn lồng",
+        "nv26_illustration_bear_stockings": "Gấu treo tất Giáng sinh",
+        "nv26_illustration_turtle_grapes": "Rùa may mắn",
+        "nv26_illustration_deer_cabin": "Hươu trang trí cây thông",
+        "nv26_illustration_owl_resolutions": "Những dự định của cú",
+        "nv26_illustration_mouse_dinner": "Bữa tối nhà chuột",
+        "nv26_illustration_monkey_sparklers": "Khỉ con với que pháo bông",
+        "nv26_illustration_snow_fort": "Pháo đài tuyết",
+        "nv26_illustration_dance_party": "Điệu nhảy năm mới",
+        "nv26_illustration_koala_nap": "Giấc ngủ của gấu túi",
+        "nv26_illustration_giraffe_star": "Hươu cao cổ và ngôi sao",
+        "nv26_reveal_tree": "Cây thông rực rỡ",
+        "nv26_reveal_fireworks": "Pháo hoa rực trời",
+        "nv26_reveal_snowflake": "Bông tuyết ren",
+        "nv26_reveal_clock": "Đồng hồ sao",
+        "nv26_reveal_reindeer": "Tuần lộc pha lê",
+        "nv26_reveal_toast": "Nâng ly ánh sao",
+        "nv26_reveal_bell": "Chuông và cây nhựa ruồi",
+        "nv26_reveal_phoenix": "Phượng hoàng tỏa sáng",
+        "nv26_reveal_nativity": "Ngôi sao trên máng cỏ",
+        "nv26_reveal_peacock_fan": "Quạt lông công",
+        "nv26_reveal_gift": "Món quà kỳ diệu",
+        "nv26_reveal_lotus": "Hoa sen pháo bông",
+        "nv26_reveal_sleigh_moon": "Xe trượt dưới trăng",
+        "nv26_reveal_lucky_wreath": "Vòng hoa may mắn",
+        "nv26_reveal_gingerbread": "Nhà bánh gừng lấp lánh",
+        "nv26_reveal_star_crown": "Vương miện sao",
+        "nv26_reveal_poinsettia": "Hoa trạng nguyên",
+        "nv26_reveal_sunrise": "Bình minh trên biển",
+        "nv26_magic_tree_party": "Chim cánh cụt và thỏ trang trí cây",
+        "nv26_magic_countdown": "Đếm ngược năm mới",
+        "nv26_magic_fox_workshop": "Xưởng của cáo ông già Noel",
+        "nv26_magic_rooftop_toast": "Nâng ly trên sân thượng",
+        "nv26_magic_hedgehog_bakery": "Tiệm bánh của nhím",
+        "nv26_magic_lantern_river": "Đèn lồng trên sông",
+        "nv26_magic_christmas_market": "Chợ Giáng sinh",
+        "nv26_magic_twelve_grapes": "Mười hai quả nho cùng gia đình",
+        "nv26_magic_forest_cabin": "Căn nhà gỗ trong rừng tuyết",
+        "nv26_magic_party_hall": "Tiệc bóng bay và hoa giấy",
+        "nv26_magic_mouse_dinner": "Bữa tối trong nhà thân cây",
+        "nv26_magic_harbor_fireworks": "Pháo hoa bến cảng",
+        "nv26_magic_christmas_eve": "Đêm Giáng sinh cùng mèo con",
+        "nv26_magic_safari_toast": "Nâng ly thảo nguyên",
+        "nv26_magic_snowman_village": "Làng người tuyết",
+        "nv26_magic_castle_fireworks": "Rồng và kỳ lân ở lâu đài",
+        "nv26_magic_toy_workshop": "Xưởng đồ chơi",
+        "nv26_magic_first_sunrise": "Mặt trời đầu năm"
+      }
+    }
+  }
+}
