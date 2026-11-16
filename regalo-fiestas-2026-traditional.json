@@ -1,0 +1,332 @@
+{
+  "id": "md-regalo-fiestas-2026",
+  "v": 1,
+  "type": "mandala",
+  "sections": {
+    "mandala": [
+      "rg26-mandalas",
+      "rg26-reveal",
+      "rg26-magic"
+    ],
+    "illustration": [
+      "rg26-illustrations"
+    ],
+    "pbn": []
+  },
+  "cats": {
+    "mandala": {
+      "es": {
+        "rg26-mandalas": "Mandalas de regalo",
+        "rg26-reveal": "Regalo · Revelar",
+        "rg26-magic": "Regalo · Color mágico"
+      },
+      "en": {
+        "rg26-mandalas": "Gift Mandalas",
+        "rg26-reveal": "Gift · Reveal",
+        "rg26-magic": "Gift · Magic Color"
+      },
+      "pt": {
+        "rg26-mandalas": "Mandalas de presente",
+        "rg26-reveal": "Presente · Revelar",
+        "rg26-magic": "Presente · Cor mágica"
+      },
+      "fr": {
+        "rg26-mandalas": "Mandalas cadeau",
+        "rg26-reveal": "Cadeau · Révéler",
+        "rg26-magic": "Cadeau · Couleur magique"
+      },
+      "it": {
+        "rg26-mandalas": "Mandala regalo",
+        "rg26-reveal": "Regalo · Rivela",
+        "rg26-magic": "Regalo · Colore magico"
+      },
+      "ja": {
+        "rg26-mandalas": "ギフトのマンダラ",
+        "rg26-reveal": "ギフト · リビール",
+        "rg26-magic": "ギフト · 魔法の色"
+      },
+      "de": {
+        "rg26-mandalas": "Geschenk-Mandalas",
+        "rg26-reveal": "Geschenk · Enthüllen",
+        "rg26-magic": "Geschenk · Zauberfarbe"
+      },
+      "vi": {
+        "rg26-mandalas": "Mandala quà tặng",
+        "rg26-reveal": "Quà tặng · Khám phá",
+        "rg26-magic": "Quà tặng · Màu kỳ diệu"
+      }
+    },
+    "illustration": {
+      "es": {
+        "rg26-illustrations": "Ilustraciones de regalo"
+      },
+      "en": {
+        "rg26-illustrations": "Gift Illustrations"
+      },
+      "pt": {
+        "rg26-illustrations": "Ilustrações de presente"
+      },
+      "fr": {
+        "rg26-illustrations": "Illustrations cadeau"
+      },
+      "it": {
+        "rg26-illustrations": "Illustrazioni regalo"
+      },
+      "ja": {
+        "rg26-illustrations": "ギフトのイラスト"
+      },
+      "de": {
+        "rg26-illustrations": "Geschenk-Illustrationen"
+      },
+      "vi": {
+        "rg26-illustrations": "Tranh minh họa quà tặng"
+      }
+    }
+  },
+  "mandalaImages": [
+    {
+      "id": "rg26_trad_gift_mandala",
+      "cat": "rg26-mandalas",
+      "name": "Regalo con lazo",
+      "src": "mandala/rg26_trad_gift_mandala.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "rg26_trad_hearth_cabin",
+      "cat": "rg26-mandalas",
+      "name": "Hogar junto a la chimenea",
+      "src": "mandala/rg26_trad_hearth_cabin.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "rg26_trad_cozy_pattern",
+      "cat": "rg26-mandalas",
+      "name": "Patrón de regalos y tazas",
+      "src": "mandala/rg26_trad_cozy_pattern.webp",
+      "modes": [
+        "trad"
+      ]
+    },
+    {
+      "id": "rg26_illustration_presents_fireplace",
+      "cat": "rg26-illustrations",
+      "name": "Regalos junto a la chimenea",
+      "src": "mandala/rg26_illustration_presents_fireplace.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "rg26_illustration_bear_knitting",
+      "cat": "rg26-illustrations",
+      "name": "Osito tejiendo una bufanda",
+      "src": "mandala/rg26_illustration_bear_knitting.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "rg26_illustration_blanket_friends",
+      "cat": "rg26-illustrations",
+      "name": "Amigos bajo la manta",
+      "src": "mandala/rg26_illustration_blanket_friends.webp",
+      "modes": [
+        "illustration"
+      ]
+    },
+    {
+      "id": "rg26_reveal_gift_bow",
+      "cat": "rg26-reveal",
+      "name": "Regalo brillante",
+      "src": "reveal/rg26_reveal_gift_bow.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/rg26_reveal_gift_bow.webp"
+    },
+    {
+      "id": "rg26_reveal_fireplace",
+      "cat": "rg26-reveal",
+      "name": "Chimenea con calcetines",
+      "src": "reveal/rg26_reveal_fireplace.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/rg26_reveal_fireplace.webp"
+    },
+    {
+      "id": "rg26_reveal_holly_wreath",
+      "cat": "rg26-reveal",
+      "name": "Corona de acebo y vela",
+      "src": "reveal/rg26_reveal_holly_wreath.webp",
+      "modes": [
+        "reveal"
+      ],
+      "reveal": "reveal/rg26_reveal_holly_wreath.webp"
+    },
+    {
+      "id": "rg26_magic_fox_living_room",
+      "cat": "rg26-magic",
+      "name": "Familia de zorros junto al fuego",
+      "src": "magic/rg26_magic_fox_living_room-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/rg26_magic_fox_living_room-color.webp"
+    },
+    {
+      "id": "rg26_magic_wrapping_friends",
+      "cat": "rg26-magic",
+      "name": "Amigos envolviendo regalos",
+      "src": "magic/rg26_magic_wrapping_friends-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/rg26_magic_wrapping_friends-color.webp"
+    },
+    {
+      "id": "rg26_magic_winter_market",
+      "cat": "rg26-magic",
+      "name": "Mercado de invierno",
+      "src": "magic/rg26_magic_winter_market-line.webp",
+      "modes": [
+        "magic"
+      ],
+      "reveal": "magic/rg26_magic_winter_market-color.webp"
+    }
+  ],
+  "i18n": {
+    "es": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Regalo con lazo",
+        "rg26_trad_hearth_cabin": "Hogar junto a la chimenea",
+        "rg26_trad_cozy_pattern": "Patrón de regalos y tazas",
+        "rg26_illustration_presents_fireplace": "Regalos junto a la chimenea",
+        "rg26_illustration_bear_knitting": "Osito tejiendo una bufanda",
+        "rg26_illustration_blanket_friends": "Amigos bajo la manta",
+        "rg26_reveal_gift_bow": "Regalo brillante",
+        "rg26_reveal_fireplace": "Chimenea con calcetines",
+        "rg26_reveal_holly_wreath": "Corona de acebo y vela",
+        "rg26_magic_fox_living_room": "Familia de zorros junto al fuego",
+        "rg26_magic_wrapping_friends": "Amigos envolviendo regalos",
+        "rg26_magic_winter_market": "Mercado de invierno"
+      }
+    },
+    "en": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Gift with a Bow",
+        "rg26_trad_hearth_cabin": "Cabin Hearth",
+        "rg26_trad_cozy_pattern": "Gifts and Cocoa Pattern",
+        "rg26_illustration_presents_fireplace": "Presents by the Fireplace",
+        "rg26_illustration_bear_knitting": "Bear Knitting a Scarf",
+        "rg26_illustration_blanket_friends": "Friends Under the Blanket",
+        "rg26_reveal_gift_bow": "Glowing Gift",
+        "rg26_reveal_fireplace": "Fireplace with Stockings",
+        "rg26_reveal_holly_wreath": "Holly Wreath and Candle",
+        "rg26_magic_fox_living_room": "Fox Family by the Fire",
+        "rg26_magic_wrapping_friends": "Friends Wrapping Presents",
+        "rg26_magic_winter_market": "Winter Market"
+      }
+    },
+    "pt": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Presente com laço",
+        "rg26_trad_hearth_cabin": "Lareira da cabana",
+        "rg26_trad_cozy_pattern": "Padrão de presentes e canecas",
+        "rg26_illustration_presents_fireplace": "Presentes junto à lareira",
+        "rg26_illustration_bear_knitting": "Ursinho a tricotar um cachecol",
+        "rg26_illustration_blanket_friends": "Amigos debaixo da manta",
+        "rg26_reveal_gift_bow": "Presente brilhante",
+        "rg26_reveal_fireplace": "Lareira com meias",
+        "rg26_reveal_holly_wreath": "Coroa de azevinho e vela",
+        "rg26_magic_fox_living_room": "Família de raposas junto ao lume",
+        "rg26_magic_wrapping_friends": "Amigos a embrulhar presentes",
+        "rg26_magic_winter_market": "Mercado de inverno"
+      }
+    },
+    "fr": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Cadeau avec nœud",
+        "rg26_trad_hearth_cabin": "Foyer de la cabane",
+        "rg26_trad_cozy_pattern": "Motif de cadeaux et de tasses",
+        "rg26_illustration_presents_fireplace": "Cadeaux près de la cheminée",
+        "rg26_illustration_bear_knitting": "Ourson qui tricote une écharpe",
+        "rg26_illustration_blanket_friends": "Amis sous la couverture",
+        "rg26_reveal_gift_bow": "Cadeau lumineux",
+        "rg26_reveal_fireplace": "Cheminée et chaussettes",
+        "rg26_reveal_holly_wreath": "Couronne de houx et bougie",
+        "rg26_magic_fox_living_room": "Famille de renards près du feu",
+        "rg26_magic_wrapping_friends": "Amis qui emballent des cadeaux",
+        "rg26_magic_winter_market": "Marché d'hiver"
+      }
+    },
+    "it": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Regalo con fiocco",
+        "rg26_trad_hearth_cabin": "Camino della baita",
+        "rg26_trad_cozy_pattern": "Motivo di regali e tazze",
+        "rg26_illustration_presents_fireplace": "Regali accanto al camino",
+        "rg26_illustration_bear_knitting": "Orsetto che lavora a maglia una sciarpa",
+        "rg26_illustration_blanket_friends": "Amici sotto la coperta",
+        "rg26_reveal_gift_bow": "Regalo luminoso",
+        "rg26_reveal_fireplace": "Camino con calze",
+        "rg26_reveal_holly_wreath": "Ghirlanda di agrifoglio e candela",
+        "rg26_magic_fox_living_room": "Famiglia di volpi accanto al fuoco",
+        "rg26_magic_wrapping_friends": "Amici che incartano i regali",
+        "rg26_magic_winter_market": "Mercato d'inverno"
+      }
+    },
+    "ja": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "リボンのプレゼント",
+        "rg26_trad_hearth_cabin": "山小屋の暖炉",
+        "rg26_trad_cozy_pattern": "プレゼントとカップの模様",
+        "rg26_illustration_presents_fireplace": "暖炉のそばのプレゼント",
+        "rg26_illustration_bear_knitting": "マフラーを編むこぐま",
+        "rg26_illustration_blanket_friends": "ブランケットの中の仲間たち",
+        "rg26_reveal_gift_bow": "輝くプレゼント",
+        "rg26_reveal_fireplace": "靴下と暖炉",
+        "rg26_reveal_holly_wreath": "ヒイラギのリースとキャンドル",
+        "rg26_magic_fox_living_room": "暖炉のそばのきつね一家",
+        "rg26_magic_wrapping_friends": "プレゼントを包む仲間たち",
+        "rg26_magic_winter_market": "ウィンターマーケット"
+      }
+    },
+    "de": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Geschenk mit Schleife",
+        "rg26_trad_hearth_cabin": "Kamin in der Hütte",
+        "rg26_trad_cozy_pattern": "Muster aus Geschenken und Tassen",
+        "rg26_illustration_presents_fireplace": "Geschenke am Kamin",
+        "rg26_illustration_bear_knitting": "Bärchen strickt einen Schal",
+        "rg26_illustration_blanket_friends": "Freunde unter der Decke",
+        "rg26_reveal_gift_bow": "Leuchtendes Geschenk",
+        "rg26_reveal_fireplace": "Kamin mit Strümpfen",
+        "rg26_reveal_holly_wreath": "Stechpalmenkranz mit Kerze",
+        "rg26_magic_fox_living_room": "Fuchsfamilie am Feuer",
+        "rg26_magic_wrapping_friends": "Freunde packen Geschenke ein",
+        "rg26_magic_winter_market": "Wintermarkt"
+      }
+    },
+    "vi": {
+      "mandalas": {
+        "rg26_trad_gift_mandala": "Món quà thắt nơ",
+        "rg26_trad_hearth_cabin": "Lò sưởi trong căn nhà gỗ",
+        "rg26_trad_cozy_pattern": "Họa tiết quà và cốc ca cao",
+        "rg26_illustration_presents_fireplace": "Quà bên lò sưởi",
+        "rg26_illustration_bear_knitting": "Gấu con đan khăn quàng",
+        "rg26_illustration_blanket_friends": "Những người bạn dưới chăn",
+        "rg26_reveal_gift_bow": "Món quà rực rỡ",
+        "rg26_reveal_fireplace": "Lò sưởi và tất treo",
+        "rg26_reveal_holly_wreath": "Vòng cây ô rô và nến",
+        "rg26_magic_fox_living_room": "Gia đình cáo bên lò sưởi",
+        "rg26_magic_wrapping_friends": "Những người bạn gói quà",
+        "rg26_magic_winter_market": "Chợ mùa đông"
+      }
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "nm-regalo-fiestas-2026",
+  "v": 1,
+  "type": "pbn",
+  "sections": {
+    "mandala": [],
+    "illustration": [],
+    "pbn": [
+      "rg26-number",
+      "vida"
+    ]
+  },
+  "cats": {
+    "pbn": {
+      "es": {
+        "rg26-number": "Regalo por números",
+        "vida": "Cobra vida"
+      },
+      "en": {
+        "rg26-number": "Gift by Number",
+        "vida": "Comes Alive"
+      },
+      "pt": {
+        "rg26-number": "Presente por números",
+        "vida": "Ganha vida"
+      },
+      "fr": {
+        "rg26-number": "Cadeau par numéros",
+        "vida": "Prend vie"
+      },
+      "it": {
+        "rg26-number": "Regalo con i numeri",
+        "vida": "Prende vita"
+      },
+      "ja": {
+        "rg26-number": "ギフトのナンバー塗り",
+        "vida": "動きだす"
+      },
+      "de": {
+        "rg26-number": "Geschenk nach Zahlen",
+        "vida": "Wird lebendig"
+      },
+      "vi": {
+        "rg26-number": "Quà tặng tô theo số",
+        "vida": "Sống động"
+      }
+    }
+  },
+  "pbnImages": [
+    {
+      "id": "rg26_pbn_cocoa_gift",
+      "cat": "rg26-number",
+      "name": "Cacao y regalito",
+      "colors": 32,
+      "bg": "#efe3dd",
+      "data": "numero/rg26_pbn_cocoa_gift.json",
+      "thumb": "numero/rg26_pbn_cocoa_gift-thumb.png"
+    },
+    {
+      "id": "rg26_pbn_present_stack",
+      "cat": "rg26-number",
+      "name": "Pila de regalos",
+      "colors": 32,
+      "bg": "#eee5db",
+      "data": "numero/rg26_pbn_present_stack.json",
+      "thumb": "numero/rg26_pbn_present_stack-thumb.png"
+    },
+    {
+      "id": "rg26_pbn_cozy_living_room",
+      "cat": "rg26-number",
+      "name": "Salón junto a la chimenea",
+      "colors": 40,
+      "bg": "#ede4e2",
+      "data": "numero/rg26_pbn_cozy_living_room.json",
+      "thumb": "numero/rg26_pbn_cozy_living_room-thumb.png"
+    },
+    {
+      "id": "rg26_vida_fox_gift",
+      "cat": "vida",
+      "name": "Zorrito con su regalo",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/rg26_vida_fox_gift-f0.json",
+      "thumb": "vida/rg26_vida_fox_gift-thumb.webp",
+      "anim": "vida/rg26_vida_fox_gift.pk.json"
+    },
+    {
+      "id": "rg26_vida_bear_cocoa",
+      "cat": "vida",
+      "name": "Osito con cacao",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/rg26_vida_bear_cocoa-f0.json",
+      "thumb": "vida/rg26_vida_bear_cocoa-thumb.webp",
+      "anim": "vida/rg26_vida_bear_cocoa.pk.json"
+    },
+    {
+      "id": "rg26_vida_kitten_candle",
+      "cat": "vida",
+      "name": "Gatita junto a la vela",
+      "colors": 36,
+      "bg": "#f1f1f6",
+      "data": "vida/rg26_vida_kitten_candle-f0.json",
+      "thumb": "vida/rg26_vida_kitten_candle-thumb.webp",
+      "anim": "vida/rg26_vida_kitten_candle.pk.json"
+    }
+  ],
+  "pbnNames": {
+    "es": {
+      "rg26_pbn_cocoa_gift": "Cacao y regalito",
+      "rg26_pbn_present_stack": "Pila de regalos",
+      "rg26_pbn_cozy_living_room": "Salón junto a la chimenea",
+      "rg26_vida_fox_gift": "Zorrito con su regalo",
+      "rg26_vida_bear_cocoa": "Osito con cacao",
+      "rg26_vida_kitten_candle": "Gatita junto a la vela"
+    },
+    "en": {
+      "rg26_pbn_cocoa_gift": "Cocoa and a Little Gift",
+      "rg26_pbn_present_stack": "Stack of Presents",
+      "rg26_pbn_cozy_living_room": "Cozy Living Room",
+      "rg26_vida_fox_gift": "Fox with a Gift",
+      "rg26_vida_bear_cocoa": "Bear with Cocoa",
+      "rg26_vida_kitten_candle": "Kitten by the Candle"
+    },
+    "pt": {
+      "rg26_pbn_cocoa_gift": "Cacau e um presentinho",
+      "rg26_pbn_present_stack": "Pilha de presentes",
+      "rg26_pbn_cozy_living_room": "Sala junto à lareira",
+      "rg26_vida_fox_gift": "Raposinha com o seu presente",
+      "rg26_vida_bear_cocoa": "Ursinho com cacau",
+      "rg26_vida_kitten_candle": "Gatinha junto à vela"
+    },
+    "fr": {
+      "rg26_pbn_cocoa_gift": "Chocolat chaud et petit cadeau",
+      "rg26_pbn_present_stack": "Pile de cadeaux",
+      "rg26_pbn_cozy_living_room": "Salon près de la cheminée",
+      "rg26_vida_fox_gift": "Renardeau et son cadeau",
+      "rg26_vida_bear_cocoa": "Ourson au chocolat chaud",
+      "rg26_vida_kitten_candle": "Chaton près de la bougie"
+    },
+    "it": {
+      "rg26_pbn_cocoa_gift": "Cioccolata e un regalino",
+      "rg26_pbn_present_stack": "Pila di regali",
+      "rg26_pbn_cozy_living_room": "Salotto accanto al camino",
+      "rg26_vida_fox_gift": "Volpacchiotto con il suo regalo",
+      "rg26_vida_bear_cocoa": "Orsetto con la cioccolata",
+      "rg26_vida_kitten_candle": "Gattina accanto alla candela"
+    },
+    "ja": {
+      "rg26_pbn_cocoa_gift": "ココアと小さなプレゼント",
+      "rg26_pbn_present_stack": "積み重なったプレゼント",
+      "rg26_pbn_cozy_living_room": "暖炉のあるリビング",
+      "rg26_vida_fox_gift": "プレゼントを持つこぎつね",
+      "rg26_vida_bear_cocoa": "ココアとこぐま",
+      "rg26_vida_kitten_candle": "キャンドルのそばの子ねこ"
+    },
+    "de": {
+      "rg26_pbn_cocoa_gift": "Kakao und ein Geschenk",
+      "rg26_pbn_present_stack": "Geschenkestapel",
+      "rg26_pbn_cozy_living_room": "Gemütliches Wohnzimmer",
+      "rg26_vida_fox_gift": "Fuchs mit Geschenk",
+      "rg26_vida_bear_cocoa": "Bärchen mit Kakao",
+      "rg26_vida_kitten_candle": "Kätzchen an der Kerze"
+    },
+    "vi": {
+      "rg26_pbn_cocoa_gift": "Ca cao và món quà nhỏ",
+      "rg26_pbn_present_stack": "Chồng quà",
+      "rg26_pbn_cozy_living_room": "Phòng khách bên lò sưởi",
+      "rg26_vida_fox_gift": "Cáo con và món quà",
+      "rg26_vida_bear_cocoa": "Gấu con với ca cao",
+      "rg26_vida_kitten_candle": "Mèo con bên ngọn nến"
+    }
+  }
+}
